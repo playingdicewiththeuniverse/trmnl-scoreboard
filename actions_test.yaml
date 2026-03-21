@@ -1,0 +1,21 @@
+name: Python Write File Demo
+
+on: [push] # Trigger the workflow on push events
+
+jobs:
+  write-file-job:
+    runs-on: ubuntu-latest # Run on a virtual machine provided by GitHub
+
+    steps:
+      - name: Check out repository code
+        uses: actions/checkout@v4 # Action to access your repository's files
+
+      - name: Set up Python
+        uses: actions/setup-python@v5 # Action to install Python environment
+        with:
+          python-version: '3.10' # Specify the Python version
+
+      - name: Run Python script to write a file
+        run: |
+          python -u script.py # Execute your Python script
+        # The -u flag ensures unbuffered output, so print statements appear correctly
