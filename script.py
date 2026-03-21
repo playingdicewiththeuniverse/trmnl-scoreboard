@@ -1,9 +1,7 @@
 import os
 import json
-from urllib.parse import urljoin
-from dateutil import tz
-from dateutil.parser import parse
 from datetime import datetime, UTC
+
 
 # script.py
 filename = 'output.txt'
