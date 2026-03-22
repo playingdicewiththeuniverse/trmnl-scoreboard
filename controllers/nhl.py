@@ -54,7 +54,7 @@ def update_master_schedule():
     full_schedule.append({
       'game_id': game_id,
       'game_time_utc': f"{parse(game_time, tzinfos=tz_schedule).astimezone(tz_utc)}",
-      'game_date': f"{parse(game_time).strftime("%Y-%m-%d")}",
+      'game_date': f"{parse(game_time).strftime('%Y-%m-%d')}",
       'final': game_final,
       'home_id': home_id,
       'home_name': home_name,
