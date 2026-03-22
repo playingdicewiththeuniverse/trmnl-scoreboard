@@ -1,3 +1,4 @@
+import os
 import json
 from datetime import datetime
 from dateutil import tz
@@ -66,7 +67,7 @@ def update_master_schedule():
       'away_outcome': away_outcome,
     })
 
-  with open('../schedules/nhl/_master.json', 'w+') as f:
+  with open( os.path.join('..', 'schedules', 'nhl', '_master.json'), 'w+') as f:
     json.dump(full_schedule, f, indent=2)
     return True
 
