@@ -20,9 +20,9 @@ jobs:
         run: |
           pip install -r requirements.txt
           
-      - name: Run Python script to write a file
+      - name: Run NHL Controller
         run: |
-          python -u script.py # Execute your Python script # The -u flag ensures unbuffered output, so print statements appear correctly
+          python -u controllers/nhl.py # Execute your Python script # The -u flag ensures unbuffered output, so print statements appear correctly
 
       - name: Configure Git for commit
         run: |
