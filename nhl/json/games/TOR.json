@@ -1,7 +1,7 @@
 [
   {
     "game_id": "20251008-TOR-MTL",
-    "game_time_utc": "2025-10-09 02:00:00+00:00",
+    "game_time_utc": "2025-10-08 19:00:00+00:00",
     "game_date": "2025-10-08",
     "final": "Final",
     "outcome": "win",
@@ -14,7 +14,7 @@
   },
   {
     "game_id": "20251011-DET-TOR",
-    "game_time_utc": "2025-10-12 02:00:00+00:00",
+    "game_time_utc": "2025-10-11 19:00:00+00:00",
     "game_date": "2025-10-11",
     "final": "Final",
     "outcome": "loss",
@@ -27,7 +27,7 @@
   },
   {
     "game_id": "20251013-TOR-DET",
-    "game_time_utc": "2025-10-13 21:00:00+00:00",
+    "game_time_utc": "2025-10-13 14:00:00+00:00",
     "game_date": "2025-10-13",
     "final": "Final",
     "outcome": "loss",
@@ -40,7 +40,7 @@
   },
   {
     "game_id": "20251014-TOR-NSH",
-    "game_time_utc": "2025-10-15 02:00:00+00:00",
+    "game_time_utc": "2025-10-14 19:00:00+00:00",
     "game_date": "2025-10-14",
     "final": "Final",
     "outcome": "win",
@@ -53,7 +53,7 @@
   },
   {
     "game_id": "20251016-TOR-NYR",
-    "game_time_utc": "2025-10-17 02:00:00+00:00",
+    "game_time_utc": "2025-10-16 19:00:00+00:00",
     "game_date": "2025-10-16",
     "final": "Final/OT",
     "outcome": "win",
@@ -66,7 +66,7 @@
   },
   {
     "game_id": "20251018-TOR-SEA",
-    "game_time_utc": "2025-10-19 02:00:00+00:00",
+    "game_time_utc": "2025-10-18 19:00:00+00:00",
     "game_date": "2025-10-18",
     "final": "Final/OT",
     "outcome": "loss",
@@ -79,7 +79,7 @@
   },
   {
     "game_id": "20251021-TOR-NJD",
-    "game_time_utc": "2025-10-22 02:00:00+00:00",
+    "game_time_utc": "2025-10-21 19:00:00+00:00",
     "game_date": "2025-10-21",
     "final": "Final",
     "outcome": "loss",
@@ -92,7 +92,7 @@
   },
   {
     "game_id": "20251024-BUF-TOR",
-    "game_time_utc": "2025-10-25 02:00:00+00:00",
+    "game_time_utc": "2025-10-24 19:00:00+00:00",
     "game_date": "2025-10-24",
     "final": "Final",
     "outcome": "loss",
@@ -105,7 +105,7 @@
   },
   {
     "game_id": "20251025-TOR-BUF",
-    "game_time_utc": "2025-10-26 00:00:00+00:00",
+    "game_time_utc": "2025-10-25 17:00:00+00:00",
     "game_date": "2025-10-25",
     "final": "Final/OT",
     "outcome": "win",
@@ -118,7 +118,7 @@
   },
   {
     "game_id": "20251028-TOR-CGY",
-    "game_time_utc": "2025-10-29 01:00:00+00:00",
+    "game_time_utc": "2025-10-28 18:00:00+00:00",
     "game_date": "2025-10-28",
     "final": "Final",
     "outcome": "win",
@@ -131,7 +131,7 @@
   },
   {
     "game_id": "20251029-CBJ-TOR",
-    "game_time_utc": "2025-10-30 02:30:00+00:00",
+    "game_time_utc": "2025-10-29 19:30:00+00:00",
     "game_date": "2025-10-29",
     "final": "Final",
     "outcome": "loss",
@@ -144,7 +144,7 @@
   },
   {
     "game_id": "20251101-PHI-TOR",
-    "game_time_utc": "2025-11-02 02:00:00+00:00",
+    "game_time_utc": "2025-11-01 19:00:00+00:00",
     "game_date": "2025-11-01",
     "final": "Final",
     "outcome": "win",
@@ -157,7 +157,7 @@
   },
   {
     "game_id": "20251103-TOR-PIT",
-    "game_time_utc": "2025-11-04 03:30:00+00:00",
+    "game_time_utc": "2025-11-03 19:30:00+00:00",
     "game_date": "2025-11-03",
     "final": "Final",
     "outcome": "win",
@@ -170,7 +170,7 @@
   },
   {
     "game_id": "20251105-TOR-UTA",
-    "game_time_utc": "2025-11-06 03:00:00+00:00",
+    "game_time_utc": "2025-11-05 19:00:00+00:00",
     "game_date": "2025-11-05",
     "final": "Final",
     "outcome": "win",
@@ -183,7 +183,7 @@
   },
   {
     "game_id": "20251108-TOR-BOS",
-    "game_time_utc": "2025-11-09 03:00:00+00:00",
+    "game_time_utc": "2025-11-08 19:00:00+00:00",
     "game_date": "2025-11-08",
     "final": "Final",
     "outcome": "loss",
@@ -196,7 +196,7 @@
   },
   {
     "game_id": "20251109-TOR-CAR",
-    "game_time_utc": "2025-11-10 03:00:00+00:00",
+    "game_time_utc": "2025-11-09 19:00:00+00:00",
     "game_date": "2025-11-09",
     "final": "Final",
     "outcome": "loss",
@@ -209,7 +209,7 @@
   },
   {
     "game_id": "20251111-BOS-TOR",
-    "game_time_utc": "2025-11-12 03:00:00+00:00",
+    "game_time_utc": "2025-11-11 19:00:00+00:00",
     "game_date": "2025-11-11",
     "final": "Final",
     "outcome": "loss",
@@ -222,7 +222,7 @@
   },
   {
     "game_id": "20251113-TOR-LAK",
-    "game_time_utc": "2025-11-14 03:00:00+00:00",
+    "game_time_utc": "2025-11-13 19:00:00+00:00",
     "game_date": "2025-11-13",
     "final": "Final/OT",
     "outcome": "loss",
@@ -235,7 +235,7 @@
   },
   {
     "game_id": "20251115-CHI-TOR",
-    "game_time_utc": "2025-11-16 03:00:00+00:00",
+    "game_time_utc": "2025-11-15 19:00:00+00:00",
     "game_date": "2025-11-15",
     "final": "Final",
     "outcome": "loss",
@@ -248,7 +248,7 @@
   },
   {
     "game_id": "20251118-TOR-STL",
-    "game_time_utc": "2025-11-19 03:00:00+00:00",
+    "game_time_utc": "2025-11-18 19:00:00+00:00",
     "game_date": "2025-11-18",
     "final": "Final/OT",
     "outcome": "win",
@@ -261,7 +261,7 @@
   },
   {
     "game_id": "20251120-TOR-CBJ",
-    "game_time_utc": "2025-11-21 03:00:00+00:00",
+    "game_time_utc": "2025-11-20 19:00:00+00:00",
     "game_date": "2025-11-20",
     "final": "Final/OT",
     "outcome": "loss",
@@ -274,7 +274,7 @@
   },
   {
     "game_id": "20251122-MTL-TOR",
-    "game_time_utc": "2025-11-23 03:00:00+00:00",
+    "game_time_utc": "2025-11-22 19:00:00+00:00",
     "game_date": "2025-11-22",
     "final": "Final",
     "outcome": "loss",
@@ -287,7 +287,7 @@
   },
   {
     "game_id": "20251126-CBJ-TOR",
-    "game_time_utc": "2025-11-27 03:00:00+00:00",
+    "game_time_utc": "2025-11-26 19:00:00+00:00",
     "game_date": "2025-11-26",
     "final": "Final/OT",
     "outcome": "win",
@@ -300,7 +300,7 @@
   },
   {
     "game_id": "20251128-WSH-TOR",
-    "game_time_utc": "2025-11-29 01:00:00+00:00",
+    "game_time_utc": "2025-11-28 17:00:00+00:00",
     "game_date": "2025-11-28",
     "final": "Final",
     "outcome": "loss",
@@ -313,7 +313,7 @@
   },
   {
     "game_id": "20251129-PIT-TOR",
-    "game_time_utc": "2025-11-30 03:00:00+00:00",
+    "game_time_utc": "2025-11-29 19:00:00+00:00",
     "game_date": "2025-11-29",
     "final": "Final",
     "outcome": "win",
@@ -326,7 +326,7 @@
   },
   {
     "game_id": "20251202-FLA-TOR",
-    "game_time_utc": "2025-12-03 03:30:00+00:00",
+    "game_time_utc": "2025-12-02 19:30:00+00:00",
     "game_date": "2025-12-02",
     "final": "Final",
     "outcome": "win",
@@ -339,7 +339,7 @@
   },
   {
     "game_id": "20251204-CAR-TOR",
-    "game_time_utc": "2025-12-05 03:00:00+00:00",
+    "game_time_utc": "2025-12-04 19:00:00+00:00",
     "game_date": "2025-12-04",
     "final": "Final",
     "outcome": "win",
@@ -352,7 +352,7 @@
   },
   {
     "game_id": "20251206-TOR-MTL",
-    "game_time_utc": "2025-12-07 03:00:00+00:00",
+    "game_time_utc": "2025-12-06 19:00:00+00:00",
     "game_date": "2025-12-06",
     "final": "Final/SO",
     "outcome": "loss",
@@ -365,7 +365,7 @@
   },
   {
     "game_id": "20251208-TOR-TBL",
-    "game_time_utc": "2025-12-09 03:30:00+00:00",
+    "game_time_utc": "2025-12-08 19:30:00+00:00",
     "game_date": "2025-12-08",
     "final": "Final",
     "outcome": "win",
@@ -378,7 +378,7 @@
   },
   {
     "game_id": "20251211-TOR-SJS",
-    "game_time_utc": "2025-12-12 03:00:00+00:00",
+    "game_time_utc": "2025-12-11 19:00:00+00:00",
     "game_date": "2025-12-11",
     "final": "Final/OT",
     "outcome": "loss",
@@ -391,7 +391,7 @@
   },
   {
     "game_id": "20251213-TOR-EDM",
-    "game_time_utc": "2025-12-14 03:00:00+00:00",
+    "game_time_utc": "2025-12-13 19:00:00+00:00",
     "game_date": "2025-12-13",
     "final": "Final",
     "outcome": "loss",
@@ -404,7 +404,7 @@
   },
   {
     "game_id": "20251216-TOR-CHI",
-    "game_time_utc": "2025-12-17 03:00:00+00:00",
+    "game_time_utc": "2025-12-16 19:00:00+00:00",
     "game_date": "2025-12-16",
     "final": "Final",
     "outcome": "win",
@@ -417,7 +417,7 @@
   },
   {
     "game_id": "20251218-WSH-TOR",
-    "game_time_utc": "2025-12-19 03:00:00+00:00",
+    "game_time_utc": "2025-12-18 19:00:00+00:00",
     "game_date": "2025-12-18",
     "final": "Final",
     "outcome": "loss",
@@ -430,7 +430,7 @@
   },
   {
     "game_id": "20251220-NSH-TOR",
-    "game_time_utc": "2025-12-21 03:00:00+00:00",
+    "game_time_utc": "2025-12-20 19:00:00+00:00",
     "game_date": "2025-12-20",
     "final": "Final",
     "outcome": "loss",
@@ -443,7 +443,7 @@
   },
   {
     "game_id": "20251221-DAL-TOR",
-    "game_time_utc": "2025-12-22 03:00:00+00:00",
+    "game_time_utc": "2025-12-21 19:00:00+00:00",
     "game_date": "2025-12-21",
     "final": "Final",
     "outcome": "loss",
@@ -456,7 +456,7 @@
   },
   {
     "game_id": "20251223-TOR-PIT",
-    "game_time_utc": "2025-12-24 00:00:00+00:00",
+    "game_time_utc": "2025-12-23 16:00:00+00:00",
     "game_date": "2025-12-23",
     "final": "Final",
     "outcome": "win",
@@ -469,7 +469,7 @@
   },
   {
     "game_id": "20251227-TOR-OTT",
-    "game_time_utc": "2025-12-28 03:00:00+00:00",
+    "game_time_utc": "2025-12-27 19:00:00+00:00",
     "game_date": "2025-12-27",
     "final": "Final",
     "outcome": "win",
@@ -482,7 +482,7 @@
   },
   {
     "game_id": "20251228-DET-TOR",
-    "game_time_utc": "2025-12-29 03:00:00+00:00",
+    "game_time_utc": "2025-12-28 19:00:00+00:00",
     "game_date": "2025-12-28",
     "final": "Final/OT",
     "outcome": "loss",
@@ -495,7 +495,7 @@
   },
   {
     "game_id": "20251230-TOR-NJD",
-    "game_time_utc": "2025-12-31 03:00:00+00:00",
+    "game_time_utc": "2025-12-30 19:00:00+00:00",
     "game_date": "2025-12-30",
     "final": "Final",
     "outcome": "win",
@@ -508,7 +508,7 @@
   },
   {
     "game_id": "20260101-TOR-WPG",
-    "game_time_utc": "2026-01-02 03:00:00+00:00",
+    "game_time_utc": "2026-01-01 19:00:00+00:00",
     "game_date": "2026-01-01",
     "final": "Final",
     "outcome": "win",
@@ -521,7 +521,7 @@
   },
   {
     "game_id": "20260103-NYI-TOR",
-    "game_time_utc": "2026-01-04 03:00:00+00:00",
+    "game_time_utc": "2026-01-03 19:00:00+00:00",
     "game_date": "2026-01-03",
     "final": "Final/OT",
     "outcome": "loss",
@@ -534,7 +534,7 @@
   },
   {
     "game_id": "20260106-TOR-FLA",
-    "game_time_utc": "2026-01-07 03:30:00+00:00",
+    "game_time_utc": "2026-01-06 19:30:00+00:00",
     "game_date": "2026-01-06",
     "final": "Final",
     "outcome": "win",
@@ -547,7 +547,7 @@
   },
   {
     "game_id": "20260108-PHI-TOR",
-    "game_time_utc": "2026-01-09 03:00:00+00:00",
+    "game_time_utc": "2026-01-08 19:00:00+00:00",
     "game_date": "2026-01-08",
     "final": "Final/OT",
     "outcome": "win",
@@ -560,7 +560,7 @@
   },
   {
     "game_id": "20260110-TOR-VAN",
-    "game_time_utc": "2026-01-11 03:00:00+00:00",
+    "game_time_utc": "2026-01-10 19:00:00+00:00",
     "game_date": "2026-01-10",
     "final": "Final",
     "outcome": "win",
@@ -573,7 +573,7 @@
   },
   {
     "game_id": "20260112-COL-TOR",
-    "game_time_utc": "2026-01-13 06:00:00+00:00",
+    "game_time_utc": "2026-01-12 22:00:00+00:00",
     "game_date": "2026-01-12",
     "final": "Final/OT",
     "outcome": "win",
@@ -586,7 +586,7 @@
   },
   {
     "game_id": "20260113-UTA-TOR",
-    "game_time_utc": "2026-01-14 06:00:00+00:00",
+    "game_time_utc": "2026-01-13 22:00:00+00:00",
     "game_date": "2026-01-13",
     "final": "Final",
     "outcome": "loss",
@@ -599,7 +599,7 @@
   },
   {
     "game_id": "20260115-VGK-TOR",
-    "game_time_utc": "2026-01-16 05:30:00+00:00",
+    "game_time_utc": "2026-01-15 21:30:00+00:00",
     "game_date": "2026-01-15",
     "final": "Final/OT",
     "outcome": "loss",
@@ -612,7 +612,7 @@
   },
   {
     "game_id": "20260117-WPG-TOR",
-    "game_time_utc": "2026-01-18 03:00:00+00:00",
+    "game_time_utc": "2026-01-17 19:00:00+00:00",
     "game_date": "2026-01-17",
     "final": "Final/OT",
     "outcome": "win",
@@ -625,7 +625,7 @@
   },
   {
     "game_id": "20260119-TOR-MIN",
-    "game_time_utc": "2026-01-20 03:30:00+00:00",
+    "game_time_utc": "2026-01-19 19:30:00+00:00",
     "game_date": "2026-01-19",
     "final": "Final",
     "outcome": "loss",
@@ -638,7 +638,7 @@
   },
   {
     "game_id": "20260121-TOR-DET",
-    "game_time_utc": "2026-01-22 03:00:00+00:00",
+    "game_time_utc": "2026-01-21 19:00:00+00:00",
     "game_date": "2026-01-21",
     "final": "Final/OT",
     "outcome": "loss",
@@ -651,7 +651,7 @@
   },
   {
     "game_id": "20260123-TOR-VGK",
-    "game_time_utc": "2026-01-24 03:00:00+00:00",
+    "game_time_utc": "2026-01-23 19:00:00+00:00",
     "game_date": "2026-01-23",
     "final": "Final",
     "outcome": "loss",
@@ -664,7 +664,7 @@
   },
   {
     "game_id": "20260125-TOR-COL",
-    "game_time_utc": "2026-01-25 21:30:00+00:00",
+    "game_time_utc": "2026-01-25 13:30:00+00:00",
     "game_date": "2026-01-25",
     "final": "Final",
     "outcome": "loss",
@@ -677,7 +677,7 @@
   },
   {
     "game_id": "20260127-TOR-BUF",
-    "game_time_utc": "2026-01-28 03:00:00+00:00",
+    "game_time_utc": "2026-01-27 19:00:00+00:00",
     "game_date": "2026-01-27",
     "final": "Final",
     "outcome": "loss",
@@ -690,7 +690,7 @@
   },
   {
     "game_id": "20260129-SEA-TOR",
-    "game_time_utc": "2026-01-30 06:00:00+00:00",
+    "game_time_utc": "2026-01-29 22:00:00+00:00",
     "game_date": "2026-01-29",
     "final": "Final",
     "outcome": "loss",
@@ -703,7 +703,7 @@
   },
   {
     "game_id": "20260131-VAN-TOR",
-    "game_time_utc": "2026-02-01 03:00:00+00:00",
+    "game_time_utc": "2026-01-31 19:00:00+00:00",
     "game_date": "2026-01-31",
     "final": "Final/SO",
     "outcome": "win",
@@ -716,7 +716,7 @@
   },
   {
     "game_id": "20260202-CGY-TOR",
-    "game_time_utc": "2026-02-03 06:00:00+00:00",
+    "game_time_utc": "2026-02-02 22:00:00+00:00",
     "game_date": "2026-02-02",
     "final": "Final",
     "outcome": "win",
@@ -729,7 +729,7 @@
   },
   {
     "game_id": "20260203-EDM-TOR",
-    "game_time_utc": "2026-02-04 04:30:00+00:00",
+    "game_time_utc": "2026-02-03 20:30:00+00:00",
     "game_date": "2026-02-03",
     "final": "Final",
     "outcome": "win",
@@ -742,7 +742,7 @@
   },
   {
     "game_id": "20260225-TBL-TOR",
-    "game_time_utc": "2026-02-26 03:30:00+00:00",
+    "game_time_utc": "2026-02-25 19:30:00+00:00",
     "game_date": "2026-02-25",
     "final": "Final",
     "outcome": "loss",
@@ -755,7 +755,7 @@
   },
   {
     "game_id": "20260226-FLA-TOR",
-    "game_time_utc": "2026-02-27 03:00:00+00:00",
+    "game_time_utc": "2026-02-26 19:00:00+00:00",
     "game_date": "2026-02-26",
     "final": "Final",
     "outcome": "loss",
@@ -768,7 +768,7 @@
   },
   {
     "game_id": "20260228-TOR-OTT",
-    "game_time_utc": "2026-03-01 03:00:00+00:00",
+    "game_time_utc": "2026-02-28 19:00:00+00:00",
     "game_date": "2026-02-28",
     "final": "Final",
     "outcome": "loss",
@@ -781,7 +781,7 @@
   },
   {
     "game_id": "20260302-TOR-PHI",
-    "game_time_utc": "2026-03-03 03:30:00+00:00",
+    "game_time_utc": "2026-03-02 19:30:00+00:00",
     "game_date": "2026-03-02",
     "final": "Final/SO",
     "outcome": "loss",
@@ -794,7 +794,7 @@
   },
   {
     "game_id": "20260304-NJD-TOR",
-    "game_time_utc": "2026-03-05 03:00:00+00:00",
+    "game_time_utc": "2026-03-04 19:00:00+00:00",
     "game_date": "2026-03-04",
     "final": "Final/SO",
     "outcome": "loss",
@@ -807,7 +807,7 @@
   },
   {
     "game_id": "20260305-NYR-TOR",
-    "game_time_utc": "2026-03-06 03:00:00+00:00",
+    "game_time_utc": "2026-03-05 19:00:00+00:00",
     "game_date": "2026-03-05",
     "final": "Final",
     "outcome": "loss",
@@ -820,7 +820,7 @@
   },
   {
     "game_id": "20260307-TOR-TBL",
-    "game_time_utc": "2026-03-08 03:00:00+00:00",
+    "game_time_utc": "2026-03-07 19:00:00+00:00",
     "game_date": "2026-03-07",
     "final": "Final",
     "outcome": "loss",
@@ -833,7 +833,7 @@
   },
   {
     "game_id": "20260310-MTL-TOR",
-    "game_time_utc": "2026-03-11 02:00:00+00:00",
+    "game_time_utc": "2026-03-10 19:00:00+00:00",
     "game_date": "2026-03-10",
     "final": "Final",
     "outcome": "loss",
@@ -846,7 +846,7 @@
   },
   {
     "game_id": "20260312-TOR-ANA",
-    "game_time_utc": "2026-03-13 02:00:00+00:00",
+    "game_time_utc": "2026-03-12 19:00:00+00:00",
     "game_date": "2026-03-12",
     "final": "Final",
     "outcome": "win",
@@ -859,7 +859,7 @@
   },
   {
     "game_id": "20260314-BUF-TOR",
-    "game_time_utc": "2026-03-15 02:00:00+00:00",
+    "game_time_utc": "2026-03-14 19:00:00+00:00",
     "game_date": "2026-03-14",
     "final": "Final/SO",
     "outcome": "loss",
@@ -872,7 +872,7 @@
   },
   {
     "game_id": "20260315-MIN-TOR",
-    "game_time_utc": "2026-03-16 02:30:00+00:00",
+    "game_time_utc": "2026-03-15 19:30:00+00:00",
     "game_date": "2026-03-15",
     "final": "Final",
     "outcome": "win",
@@ -885,7 +885,7 @@
   },
   {
     "game_id": "20260317-TOR-NYI",
-    "game_time_utc": "2026-03-18 02:00:00+00:00",
+    "game_time_utc": "2026-03-17 19:00:00+00:00",
     "game_date": "2026-03-17",
     "final": "Final",
     "outcome": "loss",
@@ -898,7 +898,7 @@
   },
   {
     "game_id": "20260320-TOR-CAR",
-    "game_time_utc": "2026-03-21 02:00:00+00:00",
+    "game_time_utc": "2026-03-20 19:00:00+00:00",
     "game_date": "2026-03-20",
     "final": "Final/OT",
     "outcome": "loss",
@@ -911,7 +911,7 @@
   },
   {
     "game_id": "20260321-OTT-TOR",
-    "game_time_utc": "2026-03-22 02:00:00+00:00",
+    "game_time_utc": "2026-03-21 19:00:00+00:00",
     "game_date": "2026-03-21",
     "final": "Final",
     "outcome": "loss",
@@ -924,7 +924,7 @@
   },
   {
     "game_id": "20260324-BOS-TOR",
-    "game_time_utc": "2026-03-25 02:00:00+00:00",
+    "game_time_utc": "2026-03-24 19:00:00+00:00",
     "game_date": "2026-03-24",
     "final": "",
     "outcome": "upcoming",
@@ -937,7 +937,7 @@
   },
   {
     "game_id": "20260325-TOR-NYR",
-    "game_time_utc": "2026-03-26 02:30:00+00:00",
+    "game_time_utc": "2026-03-25 19:30:00+00:00",
     "game_date": "2026-03-25",
     "final": "",
     "outcome": "upcoming",
@@ -950,7 +950,7 @@
   },
   {
     "game_id": "20260328-STL-TOR",
-    "game_time_utc": "2026-03-29 02:00:00+00:00",
+    "game_time_utc": "2026-03-28 19:00:00+00:00",
     "game_date": "2026-03-28",
     "final": "",
     "outcome": "upcoming",
@@ -963,7 +963,7 @@
   },
   {
     "game_id": "20260330-ANA-TOR",
-    "game_time_utc": "2026-03-31 05:00:00+00:00",
+    "game_time_utc": "2026-03-30 22:00:00+00:00",
     "game_date": "2026-03-30",
     "final": "",
     "outcome": "upcoming",
@@ -976,7 +976,7 @@
   },
   {
     "game_id": "20260402-SJS-TOR",
-    "game_time_utc": "2026-04-03 05:00:00+00:00",
+    "game_time_utc": "2026-04-02 22:00:00+00:00",
     "game_date": "2026-04-02",
     "final": "",
     "outcome": "upcoming",
@@ -989,7 +989,7 @@
   },
   {
     "game_id": "20260404-LAK-TOR",
-    "game_time_utc": "2026-04-05 02:00:00+00:00",
+    "game_time_utc": "2026-04-04 19:00:00+00:00",
     "game_date": "2026-04-04",
     "final": "",
     "outcome": "upcoming",
@@ -1002,7 +1002,7 @@
   },
   {
     "game_id": "20260408-TOR-WSH",
-    "game_time_utc": "2026-04-09 02:30:00+00:00",
+    "game_time_utc": "2026-04-08 19:30:00+00:00",
     "game_date": "2026-04-08",
     "final": "",
     "outcome": "upcoming",
@@ -1015,7 +1015,7 @@
   },
   {
     "game_id": "20260409-NYI-TOR",
-    "game_time_utc": "2026-04-10 01:45:00+00:00",
+    "game_time_utc": "2026-04-09 18:45:00+00:00",
     "game_date": "2026-04-09",
     "final": "",
     "outcome": "upcoming",
@@ -1028,7 +1028,7 @@
   },
   {
     "game_id": "20260411-TOR-FLA",
-    "game_time_utc": "2026-04-12 02:00:00+00:00",
+    "game_time_utc": "2026-04-11 19:00:00+00:00",
     "game_date": "2026-04-11",
     "final": "",
     "outcome": "upcoming",
@@ -1041,7 +1041,7 @@
   },
   {
     "game_id": "20260413-TOR-DAL",
-    "game_time_utc": "2026-04-14 02:30:00+00:00",
+    "game_time_utc": "2026-04-13 19:30:00+00:00",
     "game_date": "2026-04-13",
     "final": "",
     "outcome": "upcoming",
@@ -1054,7 +1054,7 @@
   },
   {
     "game_id": "20260415-OTT-TOR",
-    "game_time_utc": "2026-04-16 02:30:00+00:00",
+    "game_time_utc": "2026-04-15 19:30:00+00:00",
     "game_date": "2026-04-15",
     "final": "",
     "outcome": "upcoming",

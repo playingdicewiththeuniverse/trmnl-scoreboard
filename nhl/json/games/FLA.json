@@ -1,7 +1,7 @@
 [
   {
     "game_id": "20251007-FLA-CHI",
-    "game_time_utc": "2025-10-08 00:00:00+00:00",
+    "game_time_utc": "2025-10-07 17:00:00+00:00",
     "game_date": "2025-10-07",
     "final": "Final",
     "outcome": "win",
@@ -14,7 +14,7 @@
   },
   {
     "game_id": "20251009-FLA-PHI",
-    "game_time_utc": "2025-10-10 02:00:00+00:00",
+    "game_time_utc": "2025-10-09 19:00:00+00:00",
     "game_date": "2025-10-09",
     "final": "Final",
     "outcome": "win",
@@ -27,7 +27,7 @@
   },
   {
     "game_id": "20251011-FLA-OTT",
-    "game_time_utc": "2025-10-12 02:00:00+00:00",
+    "game_time_utc": "2025-10-11 19:00:00+00:00",
     "game_date": "2025-10-11",
     "final": "Final",
     "outcome": "win",
@@ -40,7 +40,7 @@
   },
   {
     "game_id": "20251013-PHI-FLA",
-    "game_time_utc": "2025-10-14 02:00:00+00:00",
+    "game_time_utc": "2025-10-13 19:00:00+00:00",
     "game_date": "2025-10-13",
     "final": "Final",
     "outcome": "loss",
@@ -53,7 +53,7 @@
   },
   {
     "game_id": "20251015-DET-FLA",
-    "game_time_utc": "2025-10-16 02:00:00+00:00",
+    "game_time_utc": "2025-10-15 19:00:00+00:00",
     "game_date": "2025-10-15",
     "final": "Final",
     "outcome": "loss",
@@ -66,7 +66,7 @@
   },
   {
     "game_id": "20251016-NJD-FLA",
-    "game_time_utc": "2025-10-17 02:00:00+00:00",
+    "game_time_utc": "2025-10-16 19:00:00+00:00",
     "game_date": "2025-10-16",
     "final": "Final",
     "outcome": "loss",
@@ -79,7 +79,7 @@
   },
   {
     "game_id": "20251018-BUF-FLA",
-    "game_time_utc": "2025-10-18 20:00:00+00:00",
+    "game_time_utc": "2025-10-18 13:00:00+00:00",
     "game_date": "2025-10-18",
     "final": "Final",
     "outcome": "loss",
@@ -92,7 +92,7 @@
   },
   {
     "game_id": "20251021-BOS-FLA",
-    "game_time_utc": "2025-10-22 02:30:00+00:00",
+    "game_time_utc": "2025-10-21 19:30:00+00:00",
     "game_date": "2025-10-21",
     "final": "Final",
     "outcome": "win",
@@ -105,7 +105,7 @@
   },
   {
     "game_id": "20251023-FLA-PIT",
-    "game_time_utc": "2025-10-24 02:00:00+00:00",
+    "game_time_utc": "2025-10-23 19:00:00+00:00",
     "game_date": "2025-10-23",
     "final": "Final",
     "outcome": "loss",
@@ -118,7 +118,7 @@
   },
   {
     "game_id": "20251025-FLA-VGK",
-    "game_time_utc": "2025-10-26 01:00:00+00:00",
+    "game_time_utc": "2025-10-25 18:00:00+00:00",
     "game_date": "2025-10-25",
     "final": "Final",
     "outcome": "win",
@@ -131,7 +131,7 @@
   },
   {
     "game_id": "20251028-FLA-ANA",
-    "game_time_utc": "2025-10-29 02:00:00+00:00",
+    "game_time_utc": "2025-10-28 19:00:00+00:00",
     "game_date": "2025-10-28",
     "final": "Final/SO",
     "outcome": "loss",
@@ -144,7 +144,7 @@
   },
   {
     "game_id": "20251101-FLA-DAL",
-    "game_time_utc": "2025-11-02 01:00:00+00:00",
+    "game_time_utc": "2025-11-01 18:00:00+00:00",
     "game_date": "2025-11-01",
     "final": "Final/SO",
     "outcome": "win",
@@ -157,7 +157,7 @@
   },
   {
     "game_id": "20251104-ANA-FLA",
-    "game_time_utc": "2025-11-05 06:00:00+00:00",
+    "game_time_utc": "2025-11-04 22:00:00+00:00",
     "game_date": "2025-11-04",
     "final": "Final",
     "outcome": "loss",
@@ -170,7 +170,7 @@
   },
   {
     "game_id": "20251106-LAK-FLA",
-    "game_time_utc": "2025-11-07 06:00:00+00:00",
+    "game_time_utc": "2025-11-06 22:00:00+00:00",
     "game_date": "2025-11-06",
     "final": "Final",
     "outcome": "win",
@@ -183,7 +183,7 @@
   },
   {
     "game_id": "20251108-SJS-FLA",
-    "game_time_utc": "2025-11-09 06:00:00+00:00",
+    "game_time_utc": "2025-11-08 22:00:00+00:00",
     "game_date": "2025-11-08",
     "final": "Final",
     "outcome": "loss",
@@ -196,7 +196,7 @@
   },
   {
     "game_id": "20251110-VGK-FLA",
-    "game_time_utc": "2025-11-11 06:00:00+00:00",
+    "game_time_utc": "2025-11-10 22:00:00+00:00",
     "game_date": "2025-11-10",
     "final": "Final",
     "outcome": "win",
@@ -209,7 +209,7 @@
   },
   {
     "game_id": "20251113-FLA-WSH",
-    "game_time_utc": "2025-11-14 03:00:00+00:00",
+    "game_time_utc": "2025-11-13 19:00:00+00:00",
     "game_date": "2025-11-13",
     "final": "Final",
     "outcome": "win",
@@ -222,7 +222,7 @@
   },
   {
     "game_id": "20251115-FLA-TBL",
-    "game_time_utc": "2025-11-16 01:00:00+00:00",
+    "game_time_utc": "2025-11-15 17:00:00+00:00",
     "game_date": "2025-11-15",
     "final": "Final",
     "outcome": "loss",
@@ -235,7 +235,7 @@
   },
   {
     "game_id": "20251117-FLA-VAN",
-    "game_time_utc": "2025-11-18 03:00:00+00:00",
+    "game_time_utc": "2025-11-17 19:00:00+00:00",
     "game_date": "2025-11-17",
     "final": "Final",
     "outcome": "win",
@@ -248,7 +248,7 @@
   },
   {
     "game_id": "20251120-FLA-NJD",
-    "game_time_utc": "2025-11-21 03:00:00+00:00",
+    "game_time_utc": "2025-11-20 19:00:00+00:00",
     "game_date": "2025-11-20",
     "final": "Final",
     "outcome": "win",
@@ -261,7 +261,7 @@
   },
   {
     "game_id": "20251122-FLA-EDM",
-    "game_time_utc": "2025-11-23 03:00:00+00:00",
+    "game_time_utc": "2025-11-22 19:00:00+00:00",
     "game_date": "2025-11-22",
     "final": "Final",
     "outcome": "loss",
@@ -274,7 +274,7 @@
   },
   {
     "game_id": "20251124-NSH-FLA",
-    "game_time_utc": "2025-11-25 04:00:00+00:00",
+    "game_time_utc": "2025-11-24 20:00:00+00:00",
     "game_date": "2025-11-24",
     "final": "Final",
     "outcome": "win",
@@ -287,7 +287,7 @@
   },
   {
     "game_id": "20251126-FLA-PHI",
-    "game_time_utc": "2025-11-27 03:00:00+00:00",
+    "game_time_utc": "2025-11-26 19:00:00+00:00",
     "game_date": "2025-11-26",
     "final": "Final",
     "outcome": "loss",
@@ -300,7 +300,7 @@
   },
   {
     "game_id": "20251128-FLA-CGY",
-    "game_time_utc": "2025-11-29 00:00:00+00:00",
+    "game_time_utc": "2025-11-28 16:00:00+00:00",
     "game_date": "2025-11-28",
     "final": "Final",
     "outcome": "loss",
@@ -313,7 +313,7 @@
   },
   {
     "game_id": "20251202-FLA-TOR",
-    "game_time_utc": "2025-12-03 03:30:00+00:00",
+    "game_time_utc": "2025-12-02 19:30:00+00:00",
     "game_date": "2025-12-02",
     "final": "Final",
     "outcome": "loss",
@@ -326,7 +326,7 @@
   },
   {
     "game_id": "20251204-FLA-NSH",
-    "game_time_utc": "2025-12-05 03:00:00+00:00",
+    "game_time_utc": "2025-12-04 19:00:00+00:00",
     "game_date": "2025-12-04",
     "final": "Final/OT",
     "outcome": "loss",
@@ -339,7 +339,7 @@
   },
   {
     "game_id": "20251206-FLA-CBJ",
-    "game_time_utc": "2025-12-06 23:30:00+00:00",
+    "game_time_utc": "2025-12-06 15:30:00+00:00",
     "game_date": "2025-12-06",
     "final": "Final/OT",
     "outcome": "win",
@@ -352,7 +352,7 @@
   },
   {
     "game_id": "20251207-FLA-NYI",
-    "game_time_utc": "2025-12-08 01:00:00+00:00",
+    "game_time_utc": "2025-12-07 17:00:00+00:00",
     "game_date": "2025-12-07",
     "final": "Final",
     "outcome": "win",
@@ -365,7 +365,7 @@
   },
   {
     "game_id": "20251210-UTA-FLA",
-    "game_time_utc": "2025-12-11 05:00:00+00:00",
+    "game_time_utc": "2025-12-10 21:00:00+00:00",
     "game_date": "2025-12-10",
     "final": "Final",
     "outcome": "win",
@@ -378,7 +378,7 @@
   },
   {
     "game_id": "20251211-COL-FLA",
-    "game_time_utc": "2025-12-12 05:30:00+00:00",
+    "game_time_utc": "2025-12-11 21:30:00+00:00",
     "game_date": "2025-12-11",
     "final": "Final",
     "outcome": "loss",
@@ -391,7 +391,7 @@
   },
   {
     "game_id": "20251213-DAL-FLA",
-    "game_time_utc": "2025-12-14 04:00:00+00:00",
+    "game_time_utc": "2025-12-13 20:00:00+00:00",
     "game_date": "2025-12-13",
     "final": "Final",
     "outcome": "win",
@@ -404,7 +404,7 @@
   },
   {
     "game_id": "20251215-TBL-FLA",
-    "game_time_utc": "2025-12-16 03:00:00+00:00",
+    "game_time_utc": "2025-12-15 19:00:00+00:00",
     "game_date": "2025-12-15",
     "final": "Final",
     "outcome": "win",
@@ -417,7 +417,7 @@
   },
   {
     "game_id": "20251217-FLA-LAK",
-    "game_time_utc": "2025-12-18 03:00:00+00:00",
+    "game_time_utc": "2025-12-17 19:00:00+00:00",
     "game_date": "2025-12-17",
     "final": "Final",
     "outcome": "win",
@@ -430,7 +430,7 @@
   },
   {
     "game_id": "20251219-FLA-CAR",
-    "game_time_utc": "2025-12-20 03:00:00+00:00",
+    "game_time_utc": "2025-12-19 19:00:00+00:00",
     "game_date": "2025-12-19",
     "final": "Final/SO",
     "outcome": "win",
@@ -443,7 +443,7 @@
   },
   {
     "game_id": "20251220-FLA-STL",
-    "game_time_utc": "2025-12-21 02:00:00+00:00",
+    "game_time_utc": "2025-12-20 18:00:00+00:00",
     "game_date": "2025-12-20",
     "final": "Final",
     "outcome": "loss",
@@ -456,7 +456,7 @@
   },
   {
     "game_id": "20251223-CAR-FLA",
-    "game_time_utc": "2025-12-24 03:00:00+00:00",
+    "game_time_utc": "2025-12-23 19:00:00+00:00",
     "game_date": "2025-12-23",
     "final": "Final",
     "outcome": "win",
@@ -469,7 +469,7 @@
   },
   {
     "game_id": "20251227-FLA-TBL",
-    "game_time_utc": "2025-12-28 03:00:00+00:00",
+    "game_time_utc": "2025-12-27 19:00:00+00:00",
     "game_date": "2025-12-27",
     "final": "Final",
     "outcome": "loss",
@@ -482,7 +482,7 @@
   },
   {
     "game_id": "20251229-FLA-WSH",
-    "game_time_utc": "2025-12-30 03:00:00+00:00",
+    "game_time_utc": "2025-12-29 19:00:00+00:00",
     "game_date": "2025-12-29",
     "final": "Final",
     "outcome": "win",
@@ -495,7 +495,7 @@
   },
   {
     "game_id": "20251230-FLA-MTL",
-    "game_time_utc": "2025-12-31 03:00:00+00:00",
+    "game_time_utc": "2025-12-30 19:00:00+00:00",
     "game_date": "2025-12-30",
     "final": "Final/OT",
     "outcome": "loss",
@@ -508,7 +508,7 @@
   },
   {
     "game_id": "20260102-FLA-NYR",
-    "game_time_utc": "2026-01-03 04:00:00+00:00",
+    "game_time_utc": "2026-01-02 20:00:00+00:00",
     "game_date": "2026-01-02",
     "final": "Final",
     "outcome": "loss",
@@ -521,7 +521,7 @@
   },
   {
     "game_id": "20260104-FLA-COL",
-    "game_time_utc": "2026-01-05 01:00:00+00:00",
+    "game_time_utc": "2026-01-04 17:00:00+00:00",
     "game_date": "2026-01-04",
     "final": "Final",
     "outcome": "win",
@@ -534,7 +534,7 @@
   },
   {
     "game_id": "20260106-TOR-FLA",
-    "game_time_utc": "2026-01-07 03:30:00+00:00",
+    "game_time_utc": "2026-01-06 19:30:00+00:00",
     "game_date": "2026-01-06",
     "final": "Final",
     "outcome": "loss",
@@ -547,7 +547,7 @@
   },
   {
     "game_id": "20260108-MTL-FLA",
-    "game_time_utc": "2026-01-09 03:00:00+00:00",
+    "game_time_utc": "2026-01-08 19:00:00+00:00",
     "game_date": "2026-01-08",
     "final": "Final",
     "outcome": "loss",
@@ -560,7 +560,7 @@
   },
   {
     "game_id": "20260110-OTT-FLA",
-    "game_time_utc": "2026-01-11 03:00:00+00:00",
+    "game_time_utc": "2026-01-10 19:00:00+00:00",
     "game_date": "2026-01-10",
     "final": "Final",
     "outcome": "win",
@@ -573,7 +573,7 @@
   },
   {
     "game_id": "20260112-BUF-FLA",
-    "game_time_utc": "2026-01-13 03:00:00+00:00",
+    "game_time_utc": "2026-01-12 19:00:00+00:00",
     "game_date": "2026-01-12",
     "final": "Final",
     "outcome": "win",
@@ -586,7 +586,7 @@
   },
   {
     "game_id": "20260116-CAR-FLA",
-    "game_time_utc": "2026-01-17 03:00:00+00:00",
+    "game_time_utc": "2026-01-16 19:00:00+00:00",
     "game_date": "2026-01-16",
     "final": "Final",
     "outcome": "loss",
@@ -599,7 +599,7 @@
   },
   {
     "game_id": "20260117-WSH-FLA",
-    "game_time_utc": "2026-01-18 03:00:00+00:00",
+    "game_time_utc": "2026-01-17 19:00:00+00:00",
     "game_date": "2026-01-17",
     "final": "Final",
     "outcome": "win",
@@ -612,7 +612,7 @@
   },
   {
     "game_id": "20260119-FLA-SJS",
-    "game_time_utc": "2026-01-20 02:00:00+00:00",
+    "game_time_utc": "2026-01-19 18:00:00+00:00",
     "game_date": "2026-01-19",
     "final": "Final",
     "outcome": "loss",
@@ -625,7 +625,7 @@
   },
   {
     "game_id": "20260122-WPG-FLA",
-    "game_time_utc": "2026-01-23 04:00:00+00:00",
+    "game_time_utc": "2026-01-22 20:00:00+00:00",
     "game_date": "2026-01-22",
     "final": "Final/SO",
     "outcome": "win",
@@ -638,7 +638,7 @@
   },
   {
     "game_id": "20260124-MIN-FLA",
-    "game_time_utc": "2026-01-25 05:00:00+00:00",
+    "game_time_utc": "2026-01-24 21:00:00+00:00",
     "game_date": "2026-01-24",
     "final": "Final/OT",
     "outcome": "win",
@@ -651,7 +651,7 @@
   },
   {
     "game_id": "20260125-CHI-FLA",
-    "game_time_utc": "2026-01-26 03:00:00+00:00",
+    "game_time_utc": "2026-01-25 19:00:00+00:00",
     "game_date": "2026-01-25",
     "final": "Final",
     "outcome": "win",
@@ -664,7 +664,7 @@
   },
   {
     "game_id": "20260127-FLA-UTA",
-    "game_time_utc": "2026-01-28 03:00:00+00:00",
+    "game_time_utc": "2026-01-27 19:00:00+00:00",
     "game_date": "2026-01-27",
     "final": "Final",
     "outcome": "loss",
@@ -677,7 +677,7 @@
   },
   {
     "game_id": "20260129-STL-FLA",
-    "game_time_utc": "2026-01-30 04:00:00+00:00",
+    "game_time_utc": "2026-01-29 20:00:00+00:00",
     "game_date": "2026-01-29",
     "final": "Final",
     "outcome": "loss",
@@ -690,7 +690,7 @@
   },
   {
     "game_id": "20260131-FLA-WPG",
-    "game_time_utc": "2026-02-01 00:00:00+00:00",
+    "game_time_utc": "2026-01-31 16:00:00+00:00",
     "game_date": "2026-01-31",
     "final": "Final",
     "outcome": "loss",
@@ -703,7 +703,7 @@
   },
   {
     "game_id": "20260202-FLA-BUF",
-    "game_time_utc": "2026-02-03 03:00:00+00:00",
+    "game_time_utc": "2026-02-02 19:00:00+00:00",
     "game_date": "2026-02-02",
     "final": "Final",
     "outcome": "loss",
@@ -716,7 +716,7 @@
   },
   {
     "game_id": "20260204-FLA-BOS",
-    "game_time_utc": "2026-02-05 03:00:00+00:00",
+    "game_time_utc": "2026-02-04 19:00:00+00:00",
     "game_date": "2026-02-04",
     "final": "Final/SO",
     "outcome": "win",
@@ -729,7 +729,7 @@
   },
   {
     "game_id": "20260205-TBL-FLA",
-    "game_time_utc": "2026-02-06 03:30:00+00:00",
+    "game_time_utc": "2026-02-05 19:30:00+00:00",
     "game_date": "2026-02-05",
     "final": "Final",
     "outcome": "loss",
@@ -742,7 +742,7 @@
   },
   {
     "game_id": "20260226-FLA-TOR",
-    "game_time_utc": "2026-02-27 03:00:00+00:00",
+    "game_time_utc": "2026-02-26 19:00:00+00:00",
     "game_date": "2026-02-26",
     "final": "Final",
     "outcome": "win",
@@ -755,7 +755,7 @@
   },
   {
     "game_id": "20260227-FLA-BUF",
-    "game_time_utc": "2026-02-28 03:00:00+00:00",
+    "game_time_utc": "2026-02-27 19:00:00+00:00",
     "game_date": "2026-02-27",
     "final": "Final",
     "outcome": "loss",
@@ -768,7 +768,7 @@
   },
   {
     "game_id": "20260301-NYI-FLA",
-    "game_time_utc": "2026-03-02 02:30:00+00:00",
+    "game_time_utc": "2026-03-01 18:30:00+00:00",
     "game_date": "2026-03-01",
     "final": "Final",
     "outcome": "loss",
@@ -781,7 +781,7 @@
   },
   {
     "game_id": "20260303-NJD-FLA",
-    "game_time_utc": "2026-03-04 03:00:00+00:00",
+    "game_time_utc": "2026-03-03 19:00:00+00:00",
     "game_date": "2026-03-03",
     "final": "Final",
     "outcome": "loss",
@@ -794,7 +794,7 @@
   },
   {
     "game_id": "20260305-CBJ-FLA",
-    "game_time_utc": "2026-03-06 03:00:00+00:00",
+    "game_time_utc": "2026-03-05 19:00:00+00:00",
     "game_date": "2026-03-05",
     "final": "Final",
     "outcome": "loss",
@@ -807,7 +807,7 @@
   },
   {
     "game_id": "20260306-DET-FLA",
-    "game_time_utc": "2026-03-07 03:00:00+00:00",
+    "game_time_utc": "2026-03-06 19:00:00+00:00",
     "game_date": "2026-03-06",
     "final": "Final",
     "outcome": "win",
@@ -820,7 +820,7 @@
   },
   {
     "game_id": "20260310-FLA-DET",
-    "game_time_utc": "2026-03-11 02:00:00+00:00",
+    "game_time_utc": "2026-03-10 19:00:00+00:00",
     "game_date": "2026-03-10",
     "final": "Final",
     "outcome": "win",
@@ -833,7 +833,7 @@
   },
   {
     "game_id": "20260312-FLA-CBJ",
-    "game_time_utc": "2026-03-13 02:00:00+00:00",
+    "game_time_utc": "2026-03-12 19:00:00+00:00",
     "game_date": "2026-03-12",
     "final": "Final/OT",
     "outcome": "win",
@@ -846,7 +846,7 @@
   },
   {
     "game_id": "20260315-SEA-FLA",
-    "game_time_utc": "2026-03-16 03:00:00+00:00",
+    "game_time_utc": "2026-03-15 20:00:00+00:00",
     "game_date": "2026-03-15",
     "final": "Final",
     "outcome": "loss",
@@ -859,7 +859,7 @@
   },
   {
     "game_id": "20260317-VAN-FLA",
-    "game_time_utc": "2026-03-18 05:00:00+00:00",
+    "game_time_utc": "2026-03-17 22:00:00+00:00",
     "game_date": "2026-03-17",
     "final": "Final",
     "outcome": "loss",
@@ -872,7 +872,7 @@
   },
   {
     "game_id": "20260319-EDM-FLA",
-    "game_time_utc": "2026-03-20 04:00:00+00:00",
+    "game_time_utc": "2026-03-19 21:00:00+00:00",
     "game_date": "2026-03-19",
     "final": "Final",
     "outcome": "win",
@@ -885,7 +885,7 @@
   },
   {
     "game_id": "20260320-CGY-FLA",
-    "game_time_utc": "2026-03-21 04:00:00+00:00",
+    "game_time_utc": "2026-03-20 21:00:00+00:00",
     "game_date": "2026-03-20",
     "final": "Final",
     "outcome": "loss",
@@ -898,7 +898,7 @@
   },
   {
     "game_id": "20260324-FLA-SEA",
-    "game_time_utc": "2026-03-25 02:00:00+00:00",
+    "game_time_utc": "2026-03-24 19:00:00+00:00",
     "game_date": "2026-03-24",
     "final": "",
     "outcome": "upcoming",
@@ -911,7 +911,7 @@
   },
   {
     "game_id": "20260326-FLA-MIN",
-    "game_time_utc": "2026-03-27 02:00:00+00:00",
+    "game_time_utc": "2026-03-26 19:00:00+00:00",
     "game_date": "2026-03-26",
     "final": "",
     "outcome": "upcoming",
@@ -924,7 +924,7 @@
   },
   {
     "game_id": "20260328-NYI-FLA",
-    "game_time_utc": "2026-03-28 20:00:00+00:00",
+    "game_time_utc": "2026-03-28 13:00:00+00:00",
     "game_date": "2026-03-28",
     "final": "",
     "outcome": "upcoming",
@@ -937,7 +937,7 @@
   },
   {
     "game_id": "20260329-NYR-FLA",
-    "game_time_utc": "2026-03-29 20:00:00+00:00",
+    "game_time_utc": "2026-03-29 13:00:00+00:00",
     "game_date": "2026-03-29",
     "final": "",
     "outcome": "upcoming",
@@ -950,7 +950,7 @@
   },
   {
     "game_id": "20260331-FLA-OTT",
-    "game_time_utc": "2026-04-01 02:00:00+00:00",
+    "game_time_utc": "2026-03-31 19:00:00+00:00",
     "game_date": "2026-03-31",
     "final": "",
     "outcome": "upcoming",
@@ -963,7 +963,7 @@
   },
   {
     "game_id": "20260402-FLA-BOS",
-    "game_time_utc": "2026-04-03 02:00:00+00:00",
+    "game_time_utc": "2026-04-02 19:00:00+00:00",
     "game_date": "2026-04-02",
     "final": "",
     "outcome": "upcoming",
@@ -976,7 +976,7 @@
   },
   {
     "game_id": "20260404-PIT-FLA",
-    "game_time_utc": "2026-04-05 00:00:00+00:00",
+    "game_time_utc": "2026-04-04 17:00:00+00:00",
     "game_date": "2026-04-04",
     "final": "",
     "outcome": "upcoming",
@@ -989,7 +989,7 @@
   },
   {
     "game_id": "20260405-PIT-FLA",
-    "game_time_utc": "2026-04-05 22:00:00+00:00",
+    "game_time_utc": "2026-04-05 15:00:00+00:00",
     "game_date": "2026-04-05",
     "final": "",
     "outcome": "upcoming",
@@ -1002,7 +1002,7 @@
   },
   {
     "game_id": "20260407-MTL-FLA",
-    "game_time_utc": "2026-04-08 02:00:00+00:00",
+    "game_time_utc": "2026-04-07 19:00:00+00:00",
     "game_date": "2026-04-07",
     "final": "",
     "outcome": "upcoming",
@@ -1015,7 +1015,7 @@
   },
   {
     "game_id": "20260409-OTT-FLA",
-    "game_time_utc": "2026-04-10 02:00:00+00:00",
+    "game_time_utc": "2026-04-09 19:00:00+00:00",
     "game_date": "2026-04-09",
     "final": "",
     "outcome": "upcoming",
@@ -1028,7 +1028,7 @@
   },
   {
     "game_id": "20260411-TOR-FLA",
-    "game_time_utc": "2026-04-12 02:00:00+00:00",
+    "game_time_utc": "2026-04-11 19:00:00+00:00",
     "game_date": "2026-04-11",
     "final": "",
     "outcome": "upcoming",
@@ -1041,7 +1041,7 @@
   },
   {
     "game_id": "20260413-FLA-NYR",
-    "game_time_utc": "2026-04-14 02:00:00+00:00",
+    "game_time_utc": "2026-04-13 19:00:00+00:00",
     "game_date": "2026-04-13",
     "final": "",
     "outcome": "upcoming",
@@ -1054,7 +1054,7 @@
   },
   {
     "game_id": "20260415-FLA-DET",
-    "game_time_utc": "2026-04-16 02:00:00+00:00",
+    "game_time_utc": "2026-04-15 19:00:00+00:00",
     "game_date": "2026-04-15",
     "final": "",
     "outcome": "upcoming",
