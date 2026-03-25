@@ -9,7 +9,7 @@ from common import http_request, json_request, get_data_stat
 # Constants
 TZ_SCHEDULE = [tz.gettz("America/New_York")]
 TZ_UTC      = tz.gettz("Etc/UTC")
-OUTPUT_PATH = 'nhl'
+OUTPUT_PATH = '../nhl'
 
 
 # Functions
@@ -81,14 +81,22 @@ def update_teams():
     group_standings[divs_id].append( json.loads(json.dumps(teams_data[team_id]) ) )
     group_standings[conf_id].append( json.loads(json.dumps(teams_data[team_id]) ) )
 
-  for team_id in teams_data:
-    del teams_data[team_id]['stats']
-    teams_data[team_id]['standings'] = {
-      'division':   group_standings[teams_data[team_id]['team']['div']['id']],
-      'conference': group_standings[teams_data[team_id]['team']['conf']['id']],
-    }
-    with open( os.path.join(OUTPUT_PATH, 'json', 'teams', f'{team_id}.json'), 'w+') as f:
-      json.dump(teams_data[team_id]['standings'], f, indent=2)
+  for group_id in group_standings:
+    with open( os.path.join(OUTPUT_PATH, 'data', f'standings_{group_id}.json'), 'w+') as f:
+      json.dump(group_standings[group_id], f, indent=2)
+
+
+  with open( os.path.join(OUTPUT_PATH, 'data', f'all_teams.json'), 'w+') as f:
+    json.dump(teams_data, f, indent=2)
+
+  # for team_id in teams_data:
+  #   del teams_data[team_id]['stats']
+  #   teams_data[team_id]['standings'] = {
+  #     'division':   group_standings[teams_data[team_id]['team']['div']['id']],
+  #     'conference': group_standings[teams_data[team_id]['team']['conf']['id']],
+  #   }
+  #   with open( os.path.join(OUTPUT_PATH, 'json', 'teams', f'{team_id}.json'), 'w+') as f:
+  #     json.dump(teams_data[team_id]['standings'], f, indent=2)
 
   return True
 
@@ -164,9 +172,9 @@ def update_games():
     })
 
   for team_id in team_schedules:
-    with open( os.path.join(OUTPUT_PATH, 'json', 'games', f'{team_id}.json'), 'w+') as f:
+    with open( os.path.join(OUTPUT_PATH, 'data', f'games_{team_id.lower()}.json'), 'w+') as f:
       json.dump(team_schedules[team_id], f, indent=2)
 
 
-update_games()
+# update_games()
 update_teams()

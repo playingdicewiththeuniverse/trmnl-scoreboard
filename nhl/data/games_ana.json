@@ -1,0 +1,1068 @@
+[
+  {
+    "game_id": "20251009-SEA-ANA",
+    "game_time_utc": "2025-10-10 05:00:00+00:00",
+    "game_date": "2025-10-09",
+    "final": "Final",
+    "outcome": "loss",
+    "score": [
+      1,
+      3
+    ],
+    "opponent_id": "SEA",
+    "opponent_name": "Seattle Kraken"
+  },
+  {
+    "game_id": "20251011-SJS-ANA",
+    "game_time_utc": "2025-10-12 05:00:00+00:00",
+    "game_date": "2025-10-11",
+    "final": "Final/OT",
+    "outcome": "win",
+    "score": [
+      7,
+      6
+    ],
+    "opponent_id": "SJS",
+    "opponent_name": "San Jose Sharks"
+  },
+  {
+    "game_id": "20251014-ANA-PIT",
+    "game_time_utc": "2025-10-15 05:30:00+00:00",
+    "game_date": "2025-10-14",
+    "final": "Final",
+    "outcome": "win",
+    "score": [
+      4,
+      3
+    ],
+    "opponent_id": "PIT",
+    "opponent_name": "Pittsburgh Penguins"
+  },
+  {
+    "game_id": "20251016-ANA-CAR",
+    "game_time_utc": "2025-10-17 05:00:00+00:00",
+    "game_date": "2025-10-16",
+    "final": "Final",
+    "outcome": "loss",
+    "score": [
+      1,
+      4
+    ],
+    "opponent_id": "CAR",
+    "opponent_name": "Carolina Hurricanes"
+  },
+  {
+    "game_id": "20251019-CHI-ANA",
+    "game_time_utc": "2025-10-20 02:00:00+00:00",
+    "game_date": "2025-10-19",
+    "final": "Final/OT",
+    "outcome": "loss",
+    "score": [
+      1,
+      2
+    ],
+    "opponent_id": "CHI",
+    "opponent_name": "Chicago Blackhawks"
+  },
+  {
+    "game_id": "20251021-NSH-ANA",
+    "game_time_utc": "2025-10-22 03:00:00+00:00",
+    "game_date": "2025-10-21",
+    "final": "Final",
+    "outcome": "win",
+    "score": [
+      5,
+      2
+    ],
+    "opponent_id": "NSH",
+    "opponent_name": "Nashville Predators"
+  },
+  {
+    "game_id": "20251023-BOS-ANA",
+    "game_time_utc": "2025-10-24 02:00:00+00:00",
+    "game_date": "2025-10-23",
+    "final": "Final",
+    "outcome": "win",
+    "score": [
+      7,
+      5
+    ],
+    "opponent_id": "BOS",
+    "opponent_name": "Boston Bruins"
+  },
+  {
+    "game_id": "20251025-TBL-ANA",
+    "game_time_utc": "2025-10-26 00:00:00+00:00",
+    "game_date": "2025-10-25",
+    "final": "Final",
+    "outcome": "loss",
+    "score": [
+      3,
+      4
+    ],
+    "opponent_id": "TBL",
+    "opponent_name": "Tampa Bay Lightning"
+  },
+  {
+    "game_id": "20251028-FLA-ANA",
+    "game_time_utc": "2025-10-29 02:00:00+00:00",
+    "game_date": "2025-10-28",
+    "final": "Final/SO",
+    "outcome": "win",
+    "score": [
+      3,
+      2
+    ],
+    "opponent_id": "FLA",
+    "opponent_name": "Florida Panthers"
+  },
+  {
+    "game_id": "20251031-ANA-DET",
+    "game_time_utc": "2025-11-01 05:00:00+00:00",
+    "game_date": "2025-10-31",
+    "final": "Final",
+    "outcome": "win",
+    "score": [
+      5,
+      2
+    ],
+    "opponent_id": "DET",
+    "opponent_name": "Detroit Red Wings"
+  },
+  {
+    "game_id": "20251102-ANA-NJD",
+    "game_time_utc": "2025-11-03 04:00:00+00:00",
+    "game_date": "2025-11-02",
+    "final": "Final",
+    "outcome": "win",
+    "score": [
+      4,
+      1
+    ],
+    "opponent_id": "NJD",
+    "opponent_name": "New Jersey Devils"
+  },
+  {
+    "game_id": "20251104-ANA-FLA",
+    "game_time_utc": "2025-11-05 06:00:00+00:00",
+    "game_date": "2025-11-04",
+    "final": "Final",
+    "outcome": "win",
+    "score": [
+      7,
+      3
+    ],
+    "opponent_id": "FLA",
+    "opponent_name": "Florida Panthers"
+  },
+  {
+    "game_id": "20251106-DAL-ANA",
+    "game_time_utc": "2025-11-07 04:00:00+00:00",
+    "game_date": "2025-11-06",
+    "final": "Final",
+    "outcome": "win",
+    "score": [
+      7,
+      5
+    ],
+    "opponent_id": "DAL",
+    "opponent_name": "Dallas Stars"
+  },
+  {
+    "game_id": "20251108-VGK-ANA",
+    "game_time_utc": "2025-11-09 06:00:00+00:00",
+    "game_date": "2025-11-08",
+    "final": "Final/OT",
+    "outcome": "win",
+    "score": [
+      4,
+      3
+    ],
+    "opponent_id": "VGK",
+    "opponent_name": "Vegas Golden Knights"
+  },
+  {
+    "game_id": "20251109-ANA-WPG",
+    "game_time_utc": "2025-11-10 06:00:00+00:00",
+    "game_date": "2025-11-09",
+    "final": "Final",
+    "outcome": "win",
+    "score": [
+      4,
+      1
+    ],
+    "opponent_id": "WPG",
+    "opponent_name": "Winnipeg Jets"
+  },
+  {
+    "game_id": "20251111-COL-ANA",
+    "game_time_utc": "2025-11-12 05:30:00+00:00",
+    "game_date": "2025-11-11",
+    "final": "Final",
+    "outcome": "loss",
+    "score": [
+      1,
+      4
+    ],
+    "opponent_id": "COL",
+    "opponent_name": "Colorado Avalanche"
+  },
+  {
+    "game_id": "20251113-DET-ANA",
+    "game_time_utc": "2025-11-14 03:00:00+00:00",
+    "game_date": "2025-11-13",
+    "final": "Final",
+    "outcome": "loss",
+    "score": [
+      3,
+      6
+    ],
+    "opponent_id": "DET",
+    "opponent_name": "Detroit Red Wings"
+  },
+  {
+    "game_id": "20251115-MIN-ANA",
+    "game_time_utc": "2025-11-16 02:00:00+00:00",
+    "game_date": "2025-11-15",
+    "final": "Final",
+    "outcome": "loss",
+    "score": [
+      0,
+      2
+    ],
+    "opponent_id": "MIN",
+    "opponent_name": "Minnesota Wild"
+  },
+  {
+    "game_id": "20251117-ANA-UTA",
+    "game_time_utc": "2025-11-18 06:00:00+00:00",
+    "game_date": "2025-11-17",
+    "final": "Final/OT",
+    "outcome": "win",
+    "score": [
+      3,
+      2
+    ],
+    "opponent_id": "UTA",
+    "opponent_name": "Utah Mammoth"
+  },
+  {
+    "game_id": "20251119-ANA-BOS",
+    "game_time_utc": "2025-11-20 06:00:00+00:00",
+    "game_date": "2025-11-19",
+    "final": "Final",
+    "outcome": "win",
+    "score": [
+      4,
+      3
+    ],
+    "opponent_id": "BOS",
+    "opponent_name": "Boston Bruins"
+  },
+  {
+    "game_id": "20251120-ANA-OTT",
+    "game_time_utc": "2025-11-21 06:00:00+00:00",
+    "game_date": "2025-11-20",
+    "final": "Final",
+    "outcome": "loss",
+    "score": [
+      2,
+      3
+    ],
+    "opponent_id": "OTT",
+    "opponent_name": "Ottawa Senators"
+  },
+  {
+    "game_id": "20251122-ANA-VGK",
+    "game_time_utc": "2025-11-23 06:00:00+00:00",
+    "game_date": "2025-11-22",
+    "final": "Final/OT",
+    "outcome": "win",
+    "score": [
+      4,
+      3
+    ],
+    "opponent_id": "VGK",
+    "opponent_name": "Vegas Golden Knights"
+  },
+  {
+    "game_id": "20251126-ANA-VAN",
+    "game_time_utc": "2025-11-27 06:00:00+00:00",
+    "game_date": "2025-11-26",
+    "final": "Final",
+    "outcome": "loss",
+    "score": [
+      4,
+      5
+    ],
+    "opponent_id": "VAN",
+    "opponent_name": "Vancouver Canucks"
+  },
+  {
+    "game_id": "20251128-ANA-LAK",
+    "game_time_utc": "2025-11-29 00:00:00+00:00",
+    "game_date": "2025-11-28",
+    "final": "Final/SO",
+    "outcome": "win",
+    "score": [
+      5,
+      4
+    ],
+    "opponent_id": "LAK",
+    "opponent_name": "Los Angeles Kings"
+  },
+  {
+    "game_id": "20251130-CHI-ANA",
+    "game_time_utc": "2025-11-30 23:30:00+00:00",
+    "game_date": "2025-11-30",
+    "final": "Final",
+    "outcome": "loss",
+    "score": [
+      3,
+      5
+    ],
+    "opponent_id": "CHI",
+    "opponent_name": "Chicago Blackhawks"
+  },
+  {
+    "game_id": "20251201-STL-ANA",
+    "game_time_utc": "2025-12-02 04:00:00+00:00",
+    "game_date": "2025-12-01",
+    "final": "Final",
+    "outcome": "win",
+    "score": [
+      4,
+      1
+    ],
+    "opponent_id": "STL",
+    "opponent_name": "St. Louis Blues"
+  },
+  {
+    "game_id": "20251203-ANA-UTA",
+    "game_time_utc": "2025-12-04 06:00:00+00:00",
+    "game_date": "2025-12-03",
+    "final": "Final",
+    "outcome": "loss",
+    "score": [
+      0,
+      7
+    ],
+    "opponent_id": "UTA",
+    "opponent_name": "Utah Mammoth"
+  },
+  {
+    "game_id": "20251205-ANA-WSH",
+    "game_time_utc": "2025-12-06 06:00:00+00:00",
+    "game_date": "2025-12-05",
+    "final": "Final/SO",
+    "outcome": "win",
+    "score": [
+      4,
+      3
+    ],
+    "opponent_id": "WSH",
+    "opponent_name": "Washington Capitals"
+  },
+  {
+    "game_id": "20251207-ANA-CHI",
+    "game_time_utc": "2025-12-08 04:00:00+00:00",
+    "game_date": "2025-12-07",
+    "final": "Final",
+    "outcome": "win",
+    "score": [
+      7,
+      1
+    ],
+    "opponent_id": "CHI",
+    "opponent_name": "Chicago Blackhawks"
+  },
+  {
+    "game_id": "20251209-PIT-ANA",
+    "game_time_utc": "2025-12-10 03:00:00+00:00",
+    "game_date": "2025-12-09",
+    "final": "Final/SO",
+    "outcome": "win",
+    "score": [
+      4,
+      3
+    ],
+    "opponent_id": "PIT",
+    "opponent_name": "Pittsburgh Penguins"
+  },
+  {
+    "game_id": "20251211-NYI-ANA",
+    "game_time_utc": "2025-12-12 03:00:00+00:00",
+    "game_date": "2025-12-11",
+    "final": "Final",
+    "outcome": "loss",
+    "score": [
+      2,
+      5
+    ],
+    "opponent_id": "NYI",
+    "opponent_name": "New York Islanders"
+  },
+  {
+    "game_id": "20251213-NJD-ANA",
+    "game_time_utc": "2025-12-13 20:30:00+00:00",
+    "game_date": "2025-12-13",
+    "final": "Final",
+    "outcome": "loss",
+    "score": [
+      1,
+      4
+    ],
+    "opponent_id": "NJD",
+    "opponent_name": "New Jersey Devils"
+  },
+  {
+    "game_id": "20251215-NYR-ANA",
+    "game_time_utc": "2025-12-16 03:00:00+00:00",
+    "game_date": "2025-12-15",
+    "final": "Final",
+    "outcome": "win",
+    "score": [
+      4,
+      1
+    ],
+    "opponent_id": "NYR",
+    "opponent_name": "New York Rangers"
+  },
+  {
+    "game_id": "20251216-CBJ-ANA",
+    "game_time_utc": "2025-12-17 03:00:00+00:00",
+    "game_date": "2025-12-16",
+    "final": "Final/OT",
+    "outcome": "loss",
+    "score": [
+      3,
+      4
+    ],
+    "opponent_id": "CBJ",
+    "opponent_name": "Columbus Blue Jackets"
+  },
+  {
+    "game_id": "20251219-ANA-DAL",
+    "game_time_utc": "2025-12-20 06:00:00+00:00",
+    "game_date": "2025-12-19",
+    "final": "Final",
+    "outcome": "loss",
+    "score": [
+      3,
+      8
+    ],
+    "opponent_id": "DAL",
+    "opponent_name": "Dallas Stars"
+  },
+  {
+    "game_id": "20251220-ANA-CBJ",
+    "game_time_utc": "2025-12-21 06:00:00+00:00",
+    "game_date": "2025-12-20",
+    "final": "Final",
+    "outcome": "win",
+    "score": [
+      4,
+      3
+    ],
+    "opponent_id": "CBJ",
+    "opponent_name": "Columbus Blue Jackets"
+  },
+  {
+    "game_id": "20251222-ANA-SEA",
+    "game_time_utc": "2025-12-23 06:00:00+00:00",
+    "game_date": "2025-12-22",
+    "final": "Final",
+    "outcome": "loss",
+    "score": [
+      1,
+      3
+    ],
+    "opponent_id": "SEA",
+    "opponent_name": "Seattle Kraken"
+  },
+  {
+    "game_id": "20251227-LAK-ANA",
+    "game_time_utc": "2025-12-28 05:00:00+00:00",
+    "game_date": "2025-12-27",
+    "final": "Final",
+    "outcome": "loss",
+    "score": [
+      1,
+      6
+    ],
+    "opponent_id": "LAK",
+    "opponent_name": "Los Angeles Kings"
+  },
+  {
+    "game_id": "20251229-ANA-SJS",
+    "game_time_utc": "2025-12-30 06:00:00+00:00",
+    "game_date": "2025-12-29",
+    "final": "Final",
+    "outcome": "loss",
+    "score": [
+      4,
+      5
+    ],
+    "opponent_id": "SJS",
+    "opponent_name": "San Jose Sharks"
+  },
+  {
+    "game_id": "20251231-ANA-TBL",
+    "game_time_utc": "2026-01-01 00:00:00+00:00",
+    "game_date": "2025-12-31",
+    "final": "Final/OT",
+    "outcome": "loss",
+    "score": [
+      3,
+      4
+    ],
+    "opponent_id": "TBL",
+    "opponent_name": "Tampa Bay Lightning"
+  },
+  {
+    "game_id": "20260102-ANA-MIN",
+    "game_time_utc": "2026-01-03 06:30:00+00:00",
+    "game_date": "2026-01-02",
+    "final": "Final",
+    "outcome": "loss",
+    "score": [
+      2,
+      5
+    ],
+    "opponent_id": "MIN",
+    "opponent_name": "Minnesota Wild"
+  },
+  {
+    "game_id": "20260105-WSH-ANA",
+    "game_time_utc": "2026-01-06 03:00:00+00:00",
+    "game_date": "2026-01-05",
+    "final": "Final",
+    "outcome": "loss",
+    "score": [
+      4,
+      7
+    ],
+    "opponent_id": "WSH",
+    "opponent_name": "Washington Capitals"
+  },
+  {
+    "game_id": "20260106-PHI-ANA",
+    "game_time_utc": "2026-01-07 03:00:00+00:00",
+    "game_date": "2026-01-06",
+    "final": "Final",
+    "outcome": "loss",
+    "score": [
+      2,
+      5
+    ],
+    "opponent_id": "PHI",
+    "opponent_name": "Philadelphia Flyers"
+  },
+  {
+    "game_id": "20260108-CAR-ANA",
+    "game_time_utc": "2026-01-09 03:00:00+00:00",
+    "game_date": "2026-01-08",
+    "final": "Final",
+    "outcome": "loss",
+    "score": [
+      2,
+      5
+    ],
+    "opponent_id": "CAR",
+    "opponent_name": "Carolina Hurricanes"
+  },
+  {
+    "game_id": "20260110-BUF-ANA",
+    "game_time_utc": "2026-01-11 03:00:00+00:00",
+    "game_date": "2026-01-10",
+    "final": "Final",
+    "outcome": "loss",
+    "score": [
+      3,
+      5
+    ],
+    "opponent_id": "BUF",
+    "opponent_name": "Buffalo Sabres"
+  },
+  {
+    "game_id": "20260113-ANA-DAL",
+    "game_time_utc": "2026-01-14 06:00:00+00:00",
+    "game_date": "2026-01-13",
+    "final": "Final",
+    "outcome": "win",
+    "score": [
+      3,
+      1
+    ],
+    "opponent_id": "DAL",
+    "opponent_name": "Dallas Stars"
+  },
+  {
+    "game_id": "20260116-LAK-ANA",
+    "game_time_utc": "2026-01-17 06:30:00+00:00",
+    "game_date": "2026-01-16",
+    "final": "Final/SO",
+    "outcome": "win",
+    "score": [
+      3,
+      2
+    ],
+    "opponent_id": "LAK",
+    "opponent_name": "Los Angeles Kings"
+  },
+  {
+    "game_id": "20260117-ANA-LAK",
+    "game_time_utc": "2026-01-18 06:00:00+00:00",
+    "game_date": "2026-01-17",
+    "final": "Final/OT",
+    "outcome": "win",
+    "score": [
+      2,
+      1
+    ],
+    "opponent_id": "LAK",
+    "opponent_name": "Los Angeles Kings"
+  },
+  {
+    "game_id": "20260119-ANA-NYR",
+    "game_time_utc": "2026-01-20 06:00:00+00:00",
+    "game_date": "2026-01-19",
+    "final": "Final",
+    "outcome": "win",
+    "score": [
+      5,
+      3
+    ],
+    "opponent_id": "NYR",
+    "opponent_name": "New York Rangers"
+  },
+  {
+    "game_id": "20260121-COL-ANA",
+    "game_time_utc": "2026-01-22 05:00:00+00:00",
+    "game_date": "2026-01-21",
+    "final": "Final/SO",
+    "outcome": "win",
+    "score": [
+      2,
+      1
+    ],
+    "opponent_id": "COL",
+    "opponent_name": "Colorado Avalanche"
+  },
+  {
+    "game_id": "20260123-SEA-ANA",
+    "game_time_utc": "2026-01-24 06:00:00+00:00",
+    "game_date": "2026-01-23",
+    "final": "Final",
+    "outcome": "win",
+    "score": [
+      4,
+      2
+    ],
+    "opponent_id": "SEA",
+    "opponent_name": "Seattle Kraken"
+  },
+  {
+    "game_id": "20260125-CGY-ANA",
+    "game_time_utc": "2026-01-26 04:00:00+00:00",
+    "game_date": "2026-01-25",
+    "final": "Final/OT",
+    "outcome": "win",
+    "score": [
+      4,
+      3
+    ],
+    "opponent_id": "CGY",
+    "opponent_name": "Calgary Flames"
+  },
+  {
+    "game_id": "20260126-EDM-ANA",
+    "game_time_utc": "2026-01-27 04:30:00+00:00",
+    "game_date": "2026-01-26",
+    "final": "Final",
+    "outcome": "loss",
+    "score": [
+      4,
+      7
+    ],
+    "opponent_id": "EDM",
+    "opponent_name": "Edmonton Oilers"
+  },
+  {
+    "game_id": "20260129-VAN-ANA",
+    "game_time_utc": "2026-01-30 06:00:00+00:00",
+    "game_date": "2026-01-29",
+    "final": "Final",
+    "outcome": "loss",
+    "score": [
+      0,
+      2
+    ],
+    "opponent_id": "VAN",
+    "opponent_name": "Vancouver Canucks"
+  },
+  {
+    "game_id": "20260201-ANA-VGK",
+    "game_time_utc": "2026-02-02 05:30:00+00:00",
+    "game_date": "2026-02-01",
+    "final": "Final",
+    "outcome": "win",
+    "score": [
+      4,
+      3
+    ],
+    "opponent_id": "VGK",
+    "opponent_name": "Vegas Golden Knights"
+  },
+  {
+    "game_id": "20260203-ANA-SEA",
+    "game_time_utc": "2026-02-04 06:00:00+00:00",
+    "game_date": "2026-02-03",
+    "final": "Final",
+    "outcome": "win",
+    "score": [
+      4,
+      2
+    ],
+    "opponent_id": "SEA",
+    "opponent_name": "Seattle Kraken"
+  },
+  {
+    "game_id": "20260225-ANA-EDM",
+    "game_time_utc": "2026-02-26 06:30:00+00:00",
+    "game_date": "2026-02-25",
+    "final": "Final",
+    "outcome": "win",
+    "score": [
+      6,
+      5
+    ],
+    "opponent_id": "EDM",
+    "opponent_name": "Edmonton Oilers"
+  },
+  {
+    "game_id": "20260227-ANA-WPG",
+    "game_time_utc": "2026-02-28 06:00:00+00:00",
+    "game_date": "2026-02-27",
+    "final": "Final/OT",
+    "outcome": "win",
+    "score": [
+      5,
+      4
+    ],
+    "opponent_id": "WPG",
+    "opponent_name": "Winnipeg Jets"
+  },
+  {
+    "game_id": "20260301-ANA-CGY",
+    "game_time_utc": "2026-03-02 04:00:00+00:00",
+    "game_date": "2026-03-01",
+    "final": "Final/SO",
+    "outcome": "win",
+    "score": [
+      3,
+      2
+    ],
+    "opponent_id": "CGY",
+    "opponent_name": "Calgary Flames"
+  },
+  {
+    "game_id": "20260303-ANA-COL",
+    "game_time_utc": "2026-03-04 06:00:00+00:00",
+    "game_date": "2026-03-03",
+    "final": "Final",
+    "outcome": "loss",
+    "score": [
+      1,
+      5
+    ],
+    "opponent_id": "COL",
+    "opponent_name": "Colorado Avalanche"
+  },
+  {
+    "game_id": "20260304-ANA-NYI",
+    "game_time_utc": "2026-03-05 06:00:00+00:00",
+    "game_date": "2026-03-04",
+    "final": "Final",
+    "outcome": "win",
+    "score": [
+      5,
+      1
+    ],
+    "opponent_id": "NYI",
+    "opponent_name": "New York Islanders"
+  },
+  {
+    "game_id": "20260306-ANA-MTL",
+    "game_time_utc": "2026-03-07 05:00:00+00:00",
+    "game_date": "2026-03-06",
+    "final": "Final/SO",
+    "outcome": "win",
+    "score": [
+      6,
+      5
+    ],
+    "opponent_id": "MTL",
+    "opponent_name": "Montreal Canadiens"
+  },
+  {
+    "game_id": "20260308-ANA-STL",
+    "game_time_utc": "2026-03-09 04:00:00+00:00",
+    "game_date": "2026-03-08",
+    "final": "Final",
+    "outcome": "loss",
+    "score": [
+      0,
+      4
+    ],
+    "opponent_id": "STL",
+    "opponent_name": "St. Louis Blues"
+  },
+  {
+    "game_id": "20260310-WPG-ANA",
+    "game_time_utc": "2026-03-11 03:30:00+00:00",
+    "game_date": "2026-03-10",
+    "final": "Final",
+    "outcome": "win",
+    "score": [
+      4,
+      1
+    ],
+    "opponent_id": "WPG",
+    "opponent_name": "Winnipeg Jets"
+  },
+  {
+    "game_id": "20260312-TOR-ANA",
+    "game_time_utc": "2026-03-13 02:00:00+00:00",
+    "game_date": "2026-03-12",
+    "final": "Final",
+    "outcome": "loss",
+    "score": [
+      4,
+      6
+    ],
+    "opponent_id": "TOR",
+    "opponent_name": "Toronto Maple Leafs"
+  },
+  {
+    "game_id": "20260314-OTT-ANA",
+    "game_time_utc": "2026-03-14 20:00:00+00:00",
+    "game_date": "2026-03-14",
+    "final": "Final",
+    "outcome": "loss",
+    "score": [
+      0,
+      2
+    ],
+    "opponent_id": "OTT",
+    "opponent_name": "Ottawa Senators"
+  },
+  {
+    "game_id": "20260315-MTL-ANA",
+    "game_time_utc": "2026-03-16 02:00:00+00:00",
+    "game_date": "2026-03-15",
+    "final": "Final",
+    "outcome": "win",
+    "score": [
+      4,
+      3
+    ],
+    "opponent_id": "MTL",
+    "opponent_name": "Montreal Canadiens"
+  },
+  {
+    "game_id": "20260318-ANA-PHI",
+    "game_time_utc": "2026-03-19 05:00:00+00:00",
+    "game_date": "2026-03-18",
+    "final": "Final/OT",
+    "outcome": "loss",
+    "score": [
+      2,
+      3
+    ],
+    "opponent_id": "PHI",
+    "opponent_name": "Philadelphia Flyers"
+  },
+  {
+    "game_id": "20260320-UTA-ANA",
+    "game_time_utc": "2026-03-21 05:00:00+00:00",
+    "game_date": "2026-03-20",
+    "final": "Final",
+    "outcome": "win",
+    "score": [
+      4,
+      1
+    ],
+    "opponent_id": "UTA",
+    "opponent_name": "Utah Mammoth"
+  },
+  {
+    "game_id": "20260322-ANA-BUF",
+    "game_time_utc": "2026-03-23 03:00:00+00:00",
+    "game_date": "2026-03-22",
+    "final": "Final/OT",
+    "outcome": "win",
+    "score": [
+      6,
+      5
+    ],
+    "opponent_id": "BUF",
+    "opponent_name": "Buffalo Sabres"
+  },
+  {
+    "game_id": "20260324-VAN-ANA",
+    "game_time_utc": "2026-03-25 05:00:00+00:00",
+    "game_date": "2026-03-24",
+    "final": "Final",
+    "outcome": "win",
+    "score": [
+      5,
+      3
+    ],
+    "opponent_id": "VAN",
+    "opponent_name": "Vancouver Canucks"
+  },
+  {
+    "game_id": "20260326-CGY-ANA",
+    "game_time_utc": "2026-03-27 04:00:00+00:00",
+    "game_date": "2026-03-26",
+    "final": "",
+    "outcome": "upcoming",
+    "score": [
+      "",
+      ""
+    ],
+    "opponent_id": "CGY",
+    "opponent_name": "Calgary Flames"
+  },
+  {
+    "game_id": "20260328-EDM-ANA",
+    "game_time_utc": "2026-03-28 22:30:00+00:00",
+    "game_date": "2026-03-28",
+    "final": "",
+    "outcome": "upcoming",
+    "score": [
+      "",
+      ""
+    ],
+    "opponent_id": "EDM",
+    "opponent_name": "Edmonton Oilers"
+  },
+  {
+    "game_id": "20260330-ANA-TOR",
+    "game_time_utc": "2026-03-31 05:00:00+00:00",
+    "game_date": "2026-03-30",
+    "final": "",
+    "outcome": "upcoming",
+    "score": [
+      "",
+      ""
+    ],
+    "opponent_id": "TOR",
+    "opponent_name": "Toronto Maple Leafs"
+  },
+  {
+    "game_id": "20260401-SJS-ANA",
+    "game_time_utc": "2026-04-02 04:00:00+00:00",
+    "game_date": "2026-04-01",
+    "final": "",
+    "outcome": "upcoming",
+    "score": [
+      "",
+      ""
+    ],
+    "opponent_id": "SJS",
+    "opponent_name": "San Jose Sharks"
+  },
+  {
+    "game_id": "20260403-ANA-STL",
+    "game_time_utc": "2026-04-04 05:00:00+00:00",
+    "game_date": "2026-04-03",
+    "final": "",
+    "outcome": "upcoming",
+    "score": [
+      "",
+      ""
+    ],
+    "opponent_id": "STL",
+    "opponent_name": "St. Louis Blues"
+  },
+  {
+    "game_id": "20260404-ANA-CGY",
+    "game_time_utc": "2026-04-05 05:00:00+00:00",
+    "game_date": "2026-04-04",
+    "final": "",
+    "outcome": "upcoming",
+    "score": [
+      "",
+      ""
+    ],
+    "opponent_id": "CGY",
+    "opponent_name": "Calgary Flames"
+  },
+  {
+    "game_id": "20260407-ANA-NSH",
+    "game_time_utc": "2026-04-08 05:00:00+00:00",
+    "game_date": "2026-04-07",
+    "final": "",
+    "outcome": "upcoming",
+    "score": [
+      "",
+      ""
+    ],
+    "opponent_id": "NSH",
+    "opponent_name": "Nashville Predators"
+  },
+  {
+    "game_id": "20260409-ANA-SJS",
+    "game_time_utc": "2026-04-10 05:00:00+00:00",
+    "game_date": "2026-04-09",
+    "final": "",
+    "outcome": "upcoming",
+    "score": [
+      "",
+      ""
+    ],
+    "opponent_id": "SJS",
+    "opponent_name": "San Jose Sharks"
+  },
+  {
+    "game_id": "20260412-ANA-VAN",
+    "game_time_utc": "2026-04-13 03:00:00+00:00",
+    "game_date": "2026-04-12",
+    "final": "",
+    "outcome": "upcoming",
+    "score": [
+      "",
+      ""
+    ],
+    "opponent_id": "VAN",
+    "opponent_name": "Vancouver Canucks"
+  },
+  {
+    "game_id": "20260414-MIN-ANA",
+    "game_time_utc": "2026-04-15 03:00:00+00:00",
+    "game_date": "2026-04-14",
+    "final": "",
+    "outcome": "upcoming",
+    "score": [
+      "",
+      ""
+    ],
+    "opponent_id": "MIN",
+    "opponent_name": "Minnesota Wild"
+  },
+  {
+    "game_id": "20260416-NSH-ANA",
+    "game_time_utc": "2026-04-17 03:00:00+00:00",
+    "game_date": "2026-04-16",
+    "final": "",
+    "outcome": "upcoming",
+    "score": [
+      "",
+      ""
+    ],
+    "opponent_id": "NSH",
+    "opponent_name": "Nashville Predators"
+  }
+]

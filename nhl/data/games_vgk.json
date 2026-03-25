@@ -1,0 +1,1068 @@
+[
+  {
+    "game_id": "20251008-VGK-LAK",
+    "game_time_utc": "2025-10-09 05:00:00+00:00",
+    "game_date": "2025-10-08",
+    "final": "Final/SO",
+    "outcome": "loss",
+    "score": [
+      5,
+      6
+    ],
+    "opponent_id": "LAK",
+    "opponent_name": "Los Angeles Kings"
+  },
+  {
+    "game_id": "20251009-SJS-VGK",
+    "game_time_utc": "2025-10-10 05:00:00+00:00",
+    "game_date": "2025-10-09",
+    "final": "Final/OT",
+    "outcome": "win",
+    "score": [
+      4,
+      3
+    ],
+    "opponent_id": "SJS",
+    "opponent_name": "San Jose Sharks"
+  },
+  {
+    "game_id": "20251011-SEA-VGK",
+    "game_time_utc": "2025-10-12 05:00:00+00:00",
+    "game_date": "2025-10-11",
+    "final": "Final/OT",
+    "outcome": "loss",
+    "score": [
+      1,
+      2
+    ],
+    "opponent_id": "SEA",
+    "opponent_name": "Seattle Kraken"
+  },
+  {
+    "game_id": "20251014-CGY-VGK",
+    "game_time_utc": "2025-10-15 04:00:00+00:00",
+    "game_date": "2025-10-14",
+    "final": "Final",
+    "outcome": "win",
+    "score": [
+      4,
+      2
+    ],
+    "opponent_id": "CGY",
+    "opponent_name": "Calgary Flames"
+  },
+  {
+    "game_id": "20251016-VGK-BOS",
+    "game_time_utc": "2025-10-17 05:00:00+00:00",
+    "game_date": "2025-10-16",
+    "final": "Final",
+    "outcome": "win",
+    "score": [
+      6,
+      5
+    ],
+    "opponent_id": "BOS",
+    "opponent_name": "Boston Bruins"
+  },
+  {
+    "game_id": "20251018-VGK-CGY",
+    "game_time_utc": "2025-10-19 05:00:00+00:00",
+    "game_date": "2025-10-18",
+    "final": "Final",
+    "outcome": "win",
+    "score": [
+      6,
+      1
+    ],
+    "opponent_id": "CGY",
+    "opponent_name": "Calgary Flames"
+  },
+  {
+    "game_id": "20251020-VGK-CAR",
+    "game_time_utc": "2025-10-21 05:00:00+00:00",
+    "game_date": "2025-10-20",
+    "final": "Final",
+    "outcome": "win",
+    "score": [
+      4,
+      1
+    ],
+    "opponent_id": "CAR",
+    "opponent_name": "Carolina Hurricanes"
+  },
+  {
+    "game_id": "20251025-FLA-VGK",
+    "game_time_utc": "2025-10-26 01:00:00+00:00",
+    "game_date": "2025-10-25",
+    "final": "Final",
+    "outcome": "loss",
+    "score": [
+      0,
+      3
+    ],
+    "opponent_id": "FLA",
+    "opponent_name": "Florida Panthers"
+  },
+  {
+    "game_id": "20251026-TBL-VGK",
+    "game_time_utc": "2025-10-27 00:00:00+00:00",
+    "game_date": "2025-10-26",
+    "final": "Final/OT",
+    "outcome": "loss",
+    "score": [
+      1,
+      2
+    ],
+    "opponent_id": "TBL",
+    "opponent_name": "Tampa Bay Lightning"
+  },
+  {
+    "game_id": "20251028-CAR-VGK",
+    "game_time_utc": "2025-10-29 01:30:00+00:00",
+    "game_date": "2025-10-28",
+    "final": "Final",
+    "outcome": "win",
+    "score": [
+      6,
+      3
+    ],
+    "opponent_id": "CAR",
+    "opponent_name": "Carolina Hurricanes"
+  },
+  {
+    "game_id": "20251031-VGK-COL",
+    "game_time_utc": "2025-10-31 23:00:00+00:00",
+    "game_date": "2025-10-31",
+    "final": "Final",
+    "outcome": "loss",
+    "score": [
+      2,
+      4
+    ],
+    "opponent_id": "COL",
+    "opponent_name": "Colorado Avalanche"
+  },
+  {
+    "game_id": "20251104-VGK-DET",
+    "game_time_utc": "2025-11-05 06:00:00+00:00",
+    "game_date": "2025-11-04",
+    "final": "Final",
+    "outcome": "win",
+    "score": [
+      1,
+      0
+    ],
+    "opponent_id": "DET",
+    "opponent_name": "Detroit Red Wings"
+  },
+  {
+    "game_id": "20251106-VGK-TBL",
+    "game_time_utc": "2025-11-07 06:00:00+00:00",
+    "game_date": "2025-11-06",
+    "final": "Final",
+    "outcome": "loss",
+    "score": [
+      3,
+      6
+    ],
+    "opponent_id": "TBL",
+    "opponent_name": "Tampa Bay Lightning"
+  },
+  {
+    "game_id": "20251108-VGK-ANA",
+    "game_time_utc": "2025-11-09 06:00:00+00:00",
+    "game_date": "2025-11-08",
+    "final": "Final/OT",
+    "outcome": "loss",
+    "score": [
+      3,
+      4
+    ],
+    "opponent_id": "ANA",
+    "opponent_name": "Anaheim Ducks"
+  },
+  {
+    "game_id": "20251110-VGK-FLA",
+    "game_time_utc": "2025-11-11 06:00:00+00:00",
+    "game_date": "2025-11-10",
+    "final": "Final",
+    "outcome": "loss",
+    "score": [
+      2,
+      3
+    ],
+    "opponent_id": "FLA",
+    "opponent_name": "Florida Panthers"
+  },
+  {
+    "game_id": "20251113-VGK-NYI",
+    "game_time_utc": "2025-11-14 06:00:00+00:00",
+    "game_date": "2025-11-13",
+    "final": "Final/OT",
+    "outcome": "loss",
+    "score": [
+      3,
+      4
+    ],
+    "opponent_id": "NYI",
+    "opponent_name": "New York Islanders"
+  },
+  {
+    "game_id": "20251115-STL-VGK",
+    "game_time_utc": "2025-11-16 04:00:00+00:00",
+    "game_date": "2025-11-15",
+    "final": "Final",
+    "outcome": "win",
+    "score": [
+      4,
+      1
+    ],
+    "opponent_id": "STL",
+    "opponent_name": "St. Louis Blues"
+  },
+  {
+    "game_id": "20251116-MIN-VGK",
+    "game_time_utc": "2025-11-17 02:00:00+00:00",
+    "game_date": "2025-11-16",
+    "final": "Final/OT",
+    "outcome": "loss",
+    "score": [
+      2,
+      3
+    ],
+    "opponent_id": "MIN",
+    "opponent_name": "Minnesota Wild"
+  },
+  {
+    "game_id": "20251118-VGK-NYR",
+    "game_time_utc": "2025-11-19 06:00:00+00:00",
+    "game_date": "2025-11-18",
+    "final": "Final",
+    "outcome": "win",
+    "score": [
+      3,
+      2
+    ],
+    "opponent_id": "NYR",
+    "opponent_name": "New York Rangers"
+  },
+  {
+    "game_id": "20251120-UTA-VGK",
+    "game_time_utc": "2025-11-21 05:00:00+00:00",
+    "game_date": "2025-11-20",
+    "final": "Final",
+    "outcome": "win",
+    "score": [
+      4,
+      1
+    ],
+    "opponent_id": "UTA",
+    "opponent_name": "Utah Mammoth"
+  },
+  {
+    "game_id": "20251122-ANA-VGK",
+    "game_time_utc": "2025-11-23 06:00:00+00:00",
+    "game_date": "2025-11-22",
+    "final": "Final/OT",
+    "outcome": "loss",
+    "score": [
+      3,
+      4
+    ],
+    "opponent_id": "ANA",
+    "opponent_name": "Anaheim Ducks"
+  },
+  {
+    "game_id": "20251124-UTA-VGK",
+    "game_time_utc": "2025-11-25 05:00:00+00:00",
+    "game_date": "2025-11-24",
+    "final": "Final",
+    "outcome": "loss",
+    "score": [
+      1,
+      5
+    ],
+    "opponent_id": "UTA",
+    "opponent_name": "Utah Mammoth"
+  },
+  {
+    "game_id": "20251126-VGK-OTT",
+    "game_time_utc": "2025-11-27 06:00:00+00:00",
+    "game_date": "2025-11-26",
+    "final": "Final/SO",
+    "outcome": "loss",
+    "score": [
+      3,
+      4
+    ],
+    "opponent_id": "OTT",
+    "opponent_name": "Ottawa Senators"
+  },
+  {
+    "game_id": "20251128-VGK-MTL",
+    "game_time_utc": "2025-11-29 00:00:00+00:00",
+    "game_date": "2025-11-28",
+    "final": "Final",
+    "outcome": "loss",
+    "score": [
+      1,
+      4
+    ],
+    "opponent_id": "MTL",
+    "opponent_name": "Montreal Canadiens"
+  },
+  {
+    "game_id": "20251129-VGK-SJS",
+    "game_time_utc": "2025-11-30 06:00:00+00:00",
+    "game_date": "2025-11-29",
+    "final": "Final",
+    "outcome": "win",
+    "score": [
+      4,
+      3
+    ],
+    "opponent_id": "SJS",
+    "opponent_name": "San Jose Sharks"
+  },
+  {
+    "game_id": "20251202-VGK-CHI",
+    "game_time_utc": "2025-12-03 06:00:00+00:00",
+    "game_date": "2025-12-02",
+    "final": "Final/SO",
+    "outcome": "win",
+    "score": [
+      4,
+      3
+    ],
+    "opponent_id": "CHI",
+    "opponent_name": "Chicago Blackhawks"
+  },
+  {
+    "game_id": "20251205-NJD-VGK",
+    "game_time_utc": "2025-12-06 03:00:00+00:00",
+    "game_date": "2025-12-05",
+    "final": "Final",
+    "outcome": "win",
+    "score": [
+      3,
+      0
+    ],
+    "opponent_id": "NJD",
+    "opponent_name": "New Jersey Devils"
+  },
+  {
+    "game_id": "20251207-NYR-VGK",
+    "game_time_utc": "2025-12-08 03:00:00+00:00",
+    "game_date": "2025-12-07",
+    "final": "Final/OT",
+    "outcome": "win",
+    "score": [
+      3,
+      2
+    ],
+    "opponent_id": "NYR",
+    "opponent_name": "New York Rangers"
+  },
+  {
+    "game_id": "20251209-NYI-VGK",
+    "game_time_utc": "2025-12-10 03:00:00+00:00",
+    "game_date": "2025-12-09",
+    "final": "Final/SO",
+    "outcome": "loss",
+    "score": [
+      4,
+      5
+    ],
+    "opponent_id": "NYI",
+    "opponent_name": "New York Islanders"
+  },
+  {
+    "game_id": "20251211-PHI-VGK",
+    "game_time_utc": "2025-12-12 03:00:00+00:00",
+    "game_date": "2025-12-11",
+    "final": "Final/OT",
+    "outcome": "win",
+    "score": [
+      3,
+      2
+    ],
+    "opponent_id": "PHI",
+    "opponent_name": "Philadelphia Flyers"
+  },
+  {
+    "game_id": "20251213-CBJ-VGK",
+    "game_time_utc": "2025-12-14 03:00:00+00:00",
+    "game_date": "2025-12-13",
+    "final": "Final",
+    "outcome": "win",
+    "score": [
+      3,
+      2
+    ],
+    "opponent_id": "CBJ",
+    "opponent_name": "Columbus Blue Jackets"
+  },
+  {
+    "game_id": "20251217-VGK-NJD",
+    "game_time_utc": "2025-12-18 06:00:00+00:00",
+    "game_date": "2025-12-17",
+    "final": "Final/SO",
+    "outcome": "loss",
+    "score": [
+      1,
+      2
+    ],
+    "opponent_id": "NJD",
+    "opponent_name": "New Jersey Devils"
+  },
+  {
+    "game_id": "20251220-CGY-VGK",
+    "game_time_utc": "2025-12-21 06:00:00+00:00",
+    "game_date": "2025-12-20",
+    "final": "Final",
+    "outcome": "loss",
+    "score": [
+      3,
+      6
+    ],
+    "opponent_id": "CGY",
+    "opponent_name": "Calgary Flames"
+  },
+  {
+    "game_id": "20251221-EDM-VGK",
+    "game_time_utc": "2025-12-22 04:00:00+00:00",
+    "game_date": "2025-12-21",
+    "final": "Final",
+    "outcome": "loss",
+    "score": [
+      3,
+      4
+    ],
+    "opponent_id": "EDM",
+    "opponent_name": "Edmonton Oilers"
+  },
+  {
+    "game_id": "20251223-VGK-SJS",
+    "game_time_utc": "2025-12-24 06:00:00+00:00",
+    "game_date": "2025-12-23",
+    "final": "Final",
+    "outcome": "win",
+    "score": [
+      7,
+      2
+    ],
+    "opponent_id": "SJS",
+    "opponent_name": "San Jose Sharks"
+  },
+  {
+    "game_id": "20251227-VGK-COL",
+    "game_time_utc": "2025-12-28 06:00:00+00:00",
+    "game_date": "2025-12-27",
+    "final": "Final/SO",
+    "outcome": "loss",
+    "score": [
+      5,
+      6
+    ],
+    "opponent_id": "COL",
+    "opponent_name": "Colorado Avalanche"
+  },
+  {
+    "game_id": "20251229-VGK-MIN",
+    "game_time_utc": "2025-12-30 06:00:00+00:00",
+    "game_date": "2025-12-29",
+    "final": "Final",
+    "outcome": "loss",
+    "score": [
+      2,
+      5
+    ],
+    "opponent_id": "MIN",
+    "opponent_name": "Minnesota Wild"
+  },
+  {
+    "game_id": "20251231-VGK-NSH",
+    "game_time_utc": "2025-12-31 23:00:00+00:00",
+    "game_date": "2025-12-31",
+    "final": "Final",
+    "outcome": "loss",
+    "score": [
+      2,
+      4
+    ],
+    "opponent_id": "NSH",
+    "opponent_name": "Nashville Predators"
+  },
+  {
+    "game_id": "20260102-STL-VGK",
+    "game_time_utc": "2026-01-02 23:00:00+00:00",
+    "game_date": "2026-01-02",
+    "final": "Final",
+    "outcome": "loss",
+    "score": [
+      3,
+      4
+    ],
+    "opponent_id": "STL",
+    "opponent_name": "St. Louis Blues"
+  },
+  {
+    "game_id": "20260104-CHI-VGK",
+    "game_time_utc": "2026-01-05 03:00:00+00:00",
+    "game_date": "2026-01-04",
+    "final": "Final/OT",
+    "outcome": "loss",
+    "score": [
+      2,
+      3
+    ],
+    "opponent_id": "CHI",
+    "opponent_name": "Chicago Blackhawks"
+  },
+  {
+    "game_id": "20260106-WPG-VGK",
+    "game_time_utc": "2026-01-07 04:00:00+00:00",
+    "game_date": "2026-01-06",
+    "final": "Final/OT",
+    "outcome": "win",
+    "score": [
+      4,
+      3
+    ],
+    "opponent_id": "WPG",
+    "opponent_name": "Winnipeg Jets"
+  },
+  {
+    "game_id": "20260108-VGK-CBJ",
+    "game_time_utc": "2026-01-09 06:00:00+00:00",
+    "game_date": "2026-01-08",
+    "final": "Final",
+    "outcome": "win",
+    "score": [
+      5,
+      3
+    ],
+    "opponent_id": "CBJ",
+    "opponent_name": "Columbus Blue Jackets"
+  },
+  {
+    "game_id": "20260110-VGK-STL",
+    "game_time_utc": "2026-01-11 06:00:00+00:00",
+    "game_date": "2026-01-10",
+    "final": "Final",
+    "outcome": "win",
+    "score": [
+      4,
+      2
+    ],
+    "opponent_id": "STL",
+    "opponent_name": "St. Louis Blues"
+  },
+  {
+    "game_id": "20260111-SJS-VGK",
+    "game_time_utc": "2026-01-12 04:00:00+00:00",
+    "game_date": "2026-01-11",
+    "final": "Final",
+    "outcome": "win",
+    "score": [
+      7,
+      2
+    ],
+    "opponent_id": "SJS",
+    "opponent_name": "San Jose Sharks"
+  },
+  {
+    "game_id": "20260114-LAK-VGK",
+    "game_time_utc": "2026-01-15 06:00:00+00:00",
+    "game_date": "2026-01-14",
+    "final": "Final/OT",
+    "outcome": "win",
+    "score": [
+      3,
+      2
+    ],
+    "opponent_id": "LAK",
+    "opponent_name": "Los Angeles Kings"
+  },
+  {
+    "game_id": "20260115-VGK-TOR",
+    "game_time_utc": "2026-01-16 05:30:00+00:00",
+    "game_date": "2026-01-15",
+    "final": "Final/OT",
+    "outcome": "win",
+    "score": [
+      6,
+      5
+    ],
+    "opponent_id": "TOR",
+    "opponent_name": "Toronto Maple Leafs"
+  },
+  {
+    "game_id": "20260117-VGK-NSH",
+    "game_time_utc": "2026-01-18 06:00:00+00:00",
+    "game_date": "2026-01-17",
+    "final": "Final",
+    "outcome": "win",
+    "score": [
+      7,
+      2
+    ],
+    "opponent_id": "NSH",
+    "opponent_name": "Nashville Predators"
+  },
+  {
+    "game_id": "20260119-VGK-PHI",
+    "game_time_utc": "2026-01-20 04:00:00+00:00",
+    "game_date": "2026-01-19",
+    "final": "Final",
+    "outcome": "loss",
+    "score": [
+      1,
+      2
+    ],
+    "opponent_id": "PHI",
+    "opponent_name": "Philadelphia Flyers"
+  },
+  {
+    "game_id": "20260122-BOS-VGK",
+    "game_time_utc": "2026-01-23 03:00:00+00:00",
+    "game_date": "2026-01-22",
+    "final": "Final",
+    "outcome": "loss",
+    "score": [
+      3,
+      4
+    ],
+    "opponent_id": "BOS",
+    "opponent_name": "Boston Bruins"
+  },
+  {
+    "game_id": "20260123-TOR-VGK",
+    "game_time_utc": "2026-01-24 03:00:00+00:00",
+    "game_date": "2026-01-23",
+    "final": "Final",
+    "outcome": "win",
+    "score": [
+      6,
+      3
+    ],
+    "opponent_id": "TOR",
+    "opponent_name": "Toronto Maple Leafs"
+  },
+  {
+    "game_id": "20260125-OTT-VGK",
+    "game_time_utc": "2026-01-26 01:00:00+00:00",
+    "game_date": "2026-01-25",
+    "final": "Final",
+    "outcome": "loss",
+    "score": [
+      1,
+      7
+    ],
+    "opponent_id": "OTT",
+    "opponent_name": "Ottawa Senators"
+  },
+  {
+    "game_id": "20260127-MTL-VGK",
+    "game_time_utc": "2026-01-28 03:00:00+00:00",
+    "game_date": "2026-01-27",
+    "final": "Final/OT",
+    "outcome": "loss",
+    "score": [
+      2,
+      3
+    ],
+    "opponent_id": "MTL",
+    "opponent_name": "Montreal Canadiens"
+  },
+  {
+    "game_id": "20260129-VGK-DAL",
+    "game_time_utc": "2026-01-30 06:00:00+00:00",
+    "game_date": "2026-01-29",
+    "final": "Final/SO",
+    "outcome": "loss",
+    "score": [
+      4,
+      5
+    ],
+    "opponent_id": "DAL",
+    "opponent_name": "Dallas Stars"
+  },
+  {
+    "game_id": "20260131-VGK-SEA",
+    "game_time_utc": "2026-02-01 06:00:00+00:00",
+    "game_date": "2026-01-31",
+    "final": "Final",
+    "outcome": "loss",
+    "score": [
+      2,
+      3
+    ],
+    "opponent_id": "SEA",
+    "opponent_name": "Seattle Kraken"
+  },
+  {
+    "game_id": "20260201-ANA-VGK",
+    "game_time_utc": "2026-02-02 05:30:00+00:00",
+    "game_date": "2026-02-01",
+    "final": "Final",
+    "outcome": "loss",
+    "score": [
+      3,
+      4
+    ],
+    "opponent_id": "ANA",
+    "opponent_name": "Anaheim Ducks"
+  },
+  {
+    "game_id": "20260204-VGK-VAN",
+    "game_time_utc": "2026-02-05 06:00:00+00:00",
+    "game_date": "2026-02-04",
+    "final": "Final",
+    "outcome": "win",
+    "score": [
+      5,
+      2
+    ],
+    "opponent_id": "VAN",
+    "opponent_name": "Vancouver Canucks"
+  },
+  {
+    "game_id": "20260205-VGK-LAK",
+    "game_time_utc": "2026-02-06 06:00:00+00:00",
+    "game_date": "2026-02-05",
+    "final": "Final",
+    "outcome": "win",
+    "score": [
+      4,
+      1
+    ],
+    "opponent_id": "LAK",
+    "opponent_name": "Los Angeles Kings"
+  },
+  {
+    "game_id": "20260225-LAK-VGK",
+    "game_time_utc": "2026-02-26 06:00:00+00:00",
+    "game_date": "2026-02-25",
+    "final": "Final",
+    "outcome": "win",
+    "score": [
+      6,
+      4
+    ],
+    "opponent_id": "LAK",
+    "opponent_name": "Los Angeles Kings"
+  },
+  {
+    "game_id": "20260227-WSH-VGK",
+    "game_time_utc": "2026-02-28 03:00:00+00:00",
+    "game_date": "2026-02-27",
+    "final": "Final",
+    "outcome": "loss",
+    "score": [
+      2,
+      3
+    ],
+    "opponent_id": "WSH",
+    "opponent_name": "Washington Capitals"
+  },
+  {
+    "game_id": "20260301-PIT-VGK",
+    "game_time_utc": "2026-03-01 21:00:00+00:00",
+    "game_date": "2026-03-01",
+    "final": "Final",
+    "outcome": "loss",
+    "score": [
+      0,
+      5
+    ],
+    "opponent_id": "PIT",
+    "opponent_name": "Pittsburgh Penguins"
+  },
+  {
+    "game_id": "20260303-BUF-VGK",
+    "game_time_utc": "2026-03-04 03:00:00+00:00",
+    "game_date": "2026-03-03",
+    "final": "Final",
+    "outcome": "loss",
+    "score": [
+      2,
+      3
+    ],
+    "opponent_id": "BUF",
+    "opponent_name": "Buffalo Sabres"
+  },
+  {
+    "game_id": "20260304-DET-VGK",
+    "game_time_utc": "2026-03-05 03:00:00+00:00",
+    "game_date": "2026-03-04",
+    "final": "Final/OT",
+    "outcome": "win",
+    "score": [
+      4,
+      3
+    ],
+    "opponent_id": "DET",
+    "opponent_name": "Detroit Red Wings"
+  },
+  {
+    "game_id": "20260306-VGK-MIN",
+    "game_time_utc": "2026-03-07 06:00:00+00:00",
+    "game_date": "2026-03-06",
+    "final": "Final",
+    "outcome": "loss",
+    "score": [
+      2,
+      4
+    ],
+    "opponent_id": "MIN",
+    "opponent_name": "Minnesota Wild"
+  },
+  {
+    "game_id": "20260308-VGK-EDM",
+    "game_time_utc": "2026-03-09 04:30:00+00:00",
+    "game_date": "2026-03-08",
+    "final": "Final",
+    "outcome": "loss",
+    "score": [
+      2,
+      4
+    ],
+    "opponent_id": "EDM",
+    "opponent_name": "Edmonton Oilers"
+  },
+  {
+    "game_id": "20260310-DAL-VGK",
+    "game_time_utc": "2026-03-11 03:00:00+00:00",
+    "game_date": "2026-03-10",
+    "final": "Final",
+    "outcome": "loss",
+    "score": [
+      1,
+      2
+    ],
+    "opponent_id": "DAL",
+    "opponent_name": "Dallas Stars"
+  },
+  {
+    "game_id": "20260312-VGK-PIT",
+    "game_time_utc": "2026-03-13 05:00:00+00:00",
+    "game_date": "2026-03-12",
+    "final": "Final",
+    "outcome": "win",
+    "score": [
+      6,
+      2
+    ],
+    "opponent_id": "PIT",
+    "opponent_name": "Pittsburgh Penguins"
+  },
+  {
+    "game_id": "20260314-VGK-CHI",
+    "game_time_utc": "2026-03-15 05:00:00+00:00",
+    "game_date": "2026-03-14",
+    "final": "Final",
+    "outcome": "win",
+    "score": [
+      4,
+      0
+    ],
+    "opponent_id": "CHI",
+    "opponent_name": "Chicago Blackhawks"
+  },
+  {
+    "game_id": "20260317-VGK-BUF",
+    "game_time_utc": "2026-03-18 05:00:00+00:00",
+    "game_date": "2026-03-17",
+    "final": "Final",
+    "outcome": "loss",
+    "score": [
+      0,
+      2
+    ],
+    "opponent_id": "BUF",
+    "opponent_name": "Buffalo Sabres"
+  },
+  {
+    "game_id": "20260319-VGK-UTA",
+    "game_time_utc": "2026-03-20 05:00:00+00:00",
+    "game_date": "2026-03-19",
+    "final": "Final",
+    "outcome": "loss",
+    "score": [
+      0,
+      4
+    ],
+    "opponent_id": "UTA",
+    "opponent_name": "Utah Mammoth"
+  },
+  {
+    "game_id": "20260321-NSH-VGK",
+    "game_time_utc": "2026-03-21 21:00:00+00:00",
+    "game_date": "2026-03-21",
+    "final": "Final",
+    "outcome": "loss",
+    "score": [
+      1,
+      4
+    ],
+    "opponent_id": "NSH",
+    "opponent_name": "Nashville Predators"
+  },
+  {
+    "game_id": "20260322-DAL-VGK",
+    "game_time_utc": "2026-03-23 02:00:00+00:00",
+    "game_date": "2026-03-22",
+    "final": "Final",
+    "outcome": "win",
+    "score": [
+      3,
+      2
+    ],
+    "opponent_id": "DAL",
+    "opponent_name": "Dallas Stars"
+  },
+  {
+    "game_id": "20260324-WPG-VGK",
+    "game_time_utc": "2026-03-25 03:00:00+00:00",
+    "game_date": "2026-03-24",
+    "final": "Final",
+    "outcome": "loss",
+    "score": [
+      1,
+      4
+    ],
+    "opponent_id": "WPG",
+    "opponent_name": "Winnipeg Jets"
+  },
+  {
+    "game_id": "20260326-VGK-EDM",
+    "game_time_utc": "2026-03-27 04:30:00+00:00",
+    "game_date": "2026-03-26",
+    "final": "",
+    "outcome": "upcoming",
+    "score": [
+      "",
+      ""
+    ],
+    "opponent_id": "EDM",
+    "opponent_name": "Edmonton Oilers"
+  },
+  {
+    "game_id": "20260328-VGK-WSH",
+    "game_time_utc": "2026-03-29 05:30:00+00:00",
+    "game_date": "2026-03-28",
+    "final": "",
+    "outcome": "upcoming",
+    "score": [
+      "",
+      ""
+    ],
+    "opponent_id": "WSH",
+    "opponent_name": "Washington Capitals"
+  },
+  {
+    "game_id": "20260330-VGK-VAN",
+    "game_time_utc": "2026-03-31 05:00:00+00:00",
+    "game_date": "2026-03-30",
+    "final": "",
+    "outcome": "upcoming",
+    "score": [
+      "",
+      ""
+    ],
+    "opponent_id": "VAN",
+    "opponent_name": "Vancouver Canucks"
+  },
+  {
+    "game_id": "20260402-VGK-CGY",
+    "game_time_utc": "2026-04-03 05:00:00+00:00",
+    "game_date": "2026-04-02",
+    "final": "",
+    "outcome": "upcoming",
+    "score": [
+      "",
+      ""
+    ],
+    "opponent_id": "CGY",
+    "opponent_name": "Calgary Flames"
+  },
+  {
+    "game_id": "20260404-EDM-VGK",
+    "game_time_utc": "2026-04-05 05:00:00+00:00",
+    "game_date": "2026-04-04",
+    "final": "",
+    "outcome": "upcoming",
+    "score": [
+      "",
+      ""
+    ],
+    "opponent_id": "EDM",
+    "opponent_name": "Edmonton Oilers"
+  },
+  {
+    "game_id": "20260407-VAN-VGK",
+    "game_time_utc": "2026-04-08 05:00:00+00:00",
+    "game_date": "2026-04-07",
+    "final": "",
+    "outcome": "upcoming",
+    "score": [
+      "",
+      ""
+    ],
+    "opponent_id": "VAN",
+    "opponent_name": "Vancouver Canucks"
+  },
+  {
+    "game_id": "20260409-SEA-VGK",
+    "game_time_utc": "2026-04-10 05:00:00+00:00",
+    "game_date": "2026-04-09",
+    "final": "",
+    "outcome": "upcoming",
+    "score": [
+      "",
+      ""
+    ],
+    "opponent_id": "SEA",
+    "opponent_name": "Seattle Kraken"
+  },
+  {
+    "game_id": "20260411-COL-VGK",
+    "game_time_utc": "2026-04-12 03:00:00+00:00",
+    "game_date": "2026-04-11",
+    "final": "",
+    "outcome": "upcoming",
+    "score": [
+      "",
+      ""
+    ],
+    "opponent_id": "COL",
+    "opponent_name": "Colorado Avalanche"
+  },
+  {
+    "game_id": "20260413-VGK-WPG",
+    "game_time_utc": "2026-04-14 05:00:00+00:00",
+    "game_date": "2026-04-13",
+    "final": "",
+    "outcome": "upcoming",
+    "score": [
+      "",
+      ""
+    ],
+    "opponent_id": "WPG",
+    "opponent_name": "Winnipeg Jets"
+  },
+  {
+    "game_id": "20260415-VGK-SEA",
+    "game_time_utc": "2026-04-16 05:00:00+00:00",
+    "game_date": "2026-04-15",
+    "final": "",
+    "outcome": "upcoming",
+    "score": [
+      "",
+      ""
+    ],
+    "opponent_id": "SEA",
+    "opponent_name": "Seattle Kraken"
+  }
+]
