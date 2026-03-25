@@ -926,11 +926,11 @@
     "game_id": "20260324-UTA-EDM",
     "game_time_utc": "2026-03-24 21:30:00+00:00",
     "game_date": "2026-03-24",
-    "final": "",
-    "outcome": "upcoming",
+    "final": "Final",
+    "outcome": "win",
     "score": [
-      "",
-      ""
+      5,
+      2
     ],
     "opponent_id": "UTA",
     "opponent_name": "Utah Mammoth"

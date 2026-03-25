@@ -887,11 +887,11 @@
     "game_id": "20260324-NSH-SJS",
     "game_time_utc": "2026-03-24 20:00:00+00:00",
     "game_date": "2026-03-24",
-    "final": "",
-    "outcome": "upcoming",
+    "final": "Final",
+    "outcome": "loss",
     "score": [
-      "",
-      ""
+      3,
+      6
     ],
     "opponent_id": "NSH",
     "opponent_name": "Nashville Predators"

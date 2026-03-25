@@ -913,11 +913,11 @@
     "game_id": "20260324-VAN-ANA",
     "game_time_utc": "2026-03-24 22:00:00+00:00",
     "game_date": "2026-03-24",
-    "final": "",
-    "outcome": "upcoming",
+    "final": "Final",
+    "outcome": "win",
     "score": [
-      "",
-      ""
+      5,
+      3
     ],
     "opponent_id": "VAN",
     "opponent_name": "Vancouver Canucks"

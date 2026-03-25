@@ -913,11 +913,11 @@
     "game_id": "20260324-WPG-VGK",
     "game_time_utc": "2026-03-24 20:00:00+00:00",
     "game_date": "2026-03-24",
-    "final": "",
-    "outcome": "upcoming",
+    "final": "Final",
+    "outcome": "win",
     "score": [
-      "",
-      ""
+      4,
+      1
     ],
     "opponent_id": "VGK",
     "opponent_name": "Vegas Golden Knights"

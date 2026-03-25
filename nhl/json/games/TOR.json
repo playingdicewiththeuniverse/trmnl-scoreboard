@@ -926,11 +926,11 @@
     "game_id": "20260324-BOS-TOR",
     "game_time_utc": "2026-03-24 19:00:00+00:00",
     "game_date": "2026-03-24",
-    "final": "",
-    "outcome": "upcoming",
+    "final": "Final",
+    "outcome": "win",
     "score": [
-      "",
-      ""
+      4,
+      2
     ],
     "opponent_id": "BOS",
     "opponent_name": "Boston Bruins"
