@@ -1,1 +1,50 @@
-{}
+{
+  "20260326-MTL-CBJ": {
+    "clock": "4:15",
+    "period": 1,
+    "status": "STATUS_IN_PROGRESS",
+    "detail": "4:15 - 1st",
+    "home_score": 1,
+    "away_score": 1
+  },
+  "20260326-OTT-PIT": {
+    "clock": "2:48",
+    "period": 1,
+    "status": "STATUS_IN_PROGRESS",
+    "detail": "2:48 - 1st",
+    "home_score": 1,
+    "away_score": 1
+  },
+  "20260326-TBL-SEA": {
+    "clock": "4:30",
+    "period": 1,
+    "status": "STATUS_IN_PROGRESS",
+    "detail": "4:30 - 1st",
+    "home_score": 0,
+    "away_score": 0
+  },
+  "20260326-FLA-MIN": {
+    "clock": "4:54",
+    "period": 1,
+    "status": "STATUS_IN_PROGRESS",
+    "detail": "4:54 - 1st",
+    "home_score": 0,
+    "away_score": 0
+  },
+  "20260326-NYI-DAL": {
+    "clock": "1:05",
+    "period": 1,
+    "status": "STATUS_IN_PROGRESS",
+    "detail": "1:05 - 1st",
+    "home_score": 1,
+    "away_score": 0
+  },
+  "20260326-PHI-CHI": {
+    "clock": "4:59",
+    "period": 1,
+    "status": "STATUS_IN_PROGRESS",
+    "detail": "4:59 - 1st",
+    "home_score": 2,
+    "away_score": 0
+  }
+}
