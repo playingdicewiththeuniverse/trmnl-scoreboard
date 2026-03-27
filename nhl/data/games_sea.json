@@ -913,11 +913,11 @@
     "game_id": "20260326-TBL-SEA",
     "game_time_utc": "2026-03-26 19:00:00+00:00",
     "game_date": "2026-03-26",
-    "final": "",
-    "outcome": "upcoming",
+    "final": "Final/OT",
+    "outcome": "win",
     "score": [
-      "",
-      ""
+      4,
+      3
     ],
     "opponent_id": "TBL",
     "opponent_name": "Tampa Bay Lightning"

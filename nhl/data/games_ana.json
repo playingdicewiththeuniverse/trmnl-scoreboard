@@ -926,11 +926,11 @@
     "game_id": "20260326-CGY-ANA",
     "game_time_utc": "2026-03-26 21:00:00+00:00",
     "game_date": "2026-03-26",
-    "final": "",
-    "outcome": "upcoming",
+    "final": "Final/OT",
+    "outcome": "win",
     "score": [
-      "",
-      ""
+      3,
+      2
     ],
     "opponent_id": "CGY",
     "opponent_name": "Calgary Flames"

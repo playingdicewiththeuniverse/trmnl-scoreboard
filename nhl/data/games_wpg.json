@@ -926,11 +926,11 @@
     "game_id": "20260326-WPG-COL",
     "game_time_utc": "2026-03-26 20:00:00+00:00",
     "game_date": "2026-03-26",
-    "final": "",
-    "outcome": "upcoming",
+    "final": "Final",
+    "outcome": "loss",
     "score": [
-      "",
-      ""
+      2,
+      3
     ],
     "opponent_id": "COL",
     "opponent_name": "Colorado Avalanche"
