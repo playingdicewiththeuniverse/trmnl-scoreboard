@@ -1,49 +1,49 @@
 {
   "20260326-MTL-CBJ": {
-    "clock": "4:15",
-    "period": 1,
+    "clock": "20:00",
+    "period": 2,
     "status": "STATUS_IN_PROGRESS",
-    "detail": "4:15 - 1st",
+    "detail": "20:00 - 2nd",
     "home_score": 1,
     "away_score": 1
   },
   "20260326-OTT-PIT": {
-    "clock": "2:48",
-    "period": 1,
+    "clock": "18:31",
+    "period": 2,
     "status": "STATUS_IN_PROGRESS",
-    "detail": "2:48 - 1st",
+    "detail": "18:31 - 2nd",
     "home_score": 1,
     "away_score": 1
   },
   "20260326-TBL-SEA": {
-    "clock": "4:30",
+    "clock": "0:00",
     "period": 1,
-    "status": "STATUS_IN_PROGRESS",
-    "detail": "4:30 - 1st",
-    "home_score": 0,
-    "away_score": 0
+    "status": "STATUS_END_PERIOD",
+    "detail": "End of 1st",
+    "home_score": 1,
+    "away_score": 2
   },
   "20260326-FLA-MIN": {
-    "clock": "4:54",
+    "clock": "0:00",
     "period": 1,
-    "status": "STATUS_IN_PROGRESS",
-    "detail": "4:54 - 1st",
+    "status": "STATUS_END_PERIOD",
+    "detail": "End of 1st",
     "home_score": 0,
     "away_score": 0
   },
   "20260326-NYI-DAL": {
-    "clock": "1:05",
-    "period": 1,
+    "clock": "17:56",
+    "period": 2,
     "status": "STATUS_IN_PROGRESS",
-    "detail": "1:05 - 1st",
+    "detail": "17:56 - 2nd",
     "home_score": 1,
     "away_score": 0
   },
   "20260326-PHI-CHI": {
-    "clock": "4:59",
+    "clock": "0:00",
     "period": 1,
-    "status": "STATUS_IN_PROGRESS",
-    "detail": "4:59 - 1st",
+    "status": "STATUS_END_PERIOD",
+    "detail": "End of 1st",
     "home_score": 2,
     "away_score": 0
   }
