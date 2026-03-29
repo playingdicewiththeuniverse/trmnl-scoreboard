@@ -15,92 +15,22 @@
       }
     },
     "stats": {
-      "gp": 71,
-      "w": 45,
+      "gp": 72,
+      "w": 46,
       "l": 20,
       "t": 0,
       "otl": 6,
-      "pts": 96,
-      "pct": 0.67606,
-      "stk": "L1",
-      "gf": 252,
-      "ga": 211,
-      "gd": 41
+      "pts": 98,
+      "pct": 0.68056,
+      "stk": "W1",
+      "gf": 257,
+      "ga": 213,
+      "gd": 44
     },
     "rnk": {
       "lg": 3,
       "cf": 1,
       "dv": 1,
-      "wc": null
-    }
-  },
-  {
-    "team": {
-      "id": "PIT",
-      "city": "Pittsburgh",
-      "nick": "Penguins",
-      "full": "Pittsburgh Penguins",
-      "div": {
-        "id": "div-metropolitan",
-        "name": "Metropolitan Division"
-      },
-      "conf": {
-        "id": "conf-eastern",
-        "name": "Eastern Conference"
-      }
-    },
-    "stats": {
-      "gp": 72,
-      "w": 36,
-      "l": 20,
-      "t": 0,
-      "otl": 16,
-      "pts": 88,
-      "pct": 0.61111,
-      "stk": "W1",
-      "gf": 247,
-      "ga": 228,
-      "gd": 19
-    },
-    "rnk": {
-      "lg": 9,
-      "cf": 6,
-      "dv": 2,
-      "wc": null
-    }
-  },
-  {
-    "team": {
-      "id": "CBJ",
-      "city": "Columbus",
-      "nick": "Blue Jackets",
-      "full": "Columbus Blue Jackets",
-      "div": {
-        "id": "div-metropolitan",
-        "name": "Metropolitan Division"
-      },
-      "conf": {
-        "id": "conf-eastern",
-        "name": "Eastern Conference"
-      }
-    },
-    "stats": {
-      "gp": 72,
-      "w": 38,
-      "l": 23,
-      "t": 0,
-      "otl": 11,
-      "pts": 87,
-      "pct": 0.60417,
-      "stk": "L1",
-      "gf": 232,
-      "ga": 219,
-      "gd": 13
-    },
-    "rnk": {
-      "lg": 10,
-      "cf": 7,
-      "dv": 3,
       "wc": null
     }
   },
@@ -120,17 +50,87 @@
       }
     },
     "stats": {
-      "gp": 73,
-      "w": 41,
+      "gp": 74,
+      "w": 42,
       "l": 27,
       "t": 0,
       "otl": 5,
+      "pts": 89,
+      "pct": 0.60135,
+      "stk": "W2",
+      "gf": 216,
+      "ga": 209,
+      "gd": 7
+    },
+    "rnk": {
+      "lg": 9,
+      "cf": 6,
+      "dv": 2,
+      "wc": null
+    }
+  },
+  {
+    "team": {
+      "id": "PIT",
+      "city": "Pittsburgh",
+      "nick": "Penguins",
+      "full": "Pittsburgh Penguins",
+      "div": {
+        "id": "div-metropolitan",
+        "name": "Metropolitan Division"
+      },
+      "conf": {
+        "id": "conf-eastern",
+        "name": "Eastern Conference"
+      }
+    },
+    "stats": {
+      "gp": 73,
+      "w": 36,
+      "l": 21,
+      "t": 0,
+      "otl": 16,
+      "pts": 88,
+      "pct": 0.60274,
+      "stk": "L1",
+      "gf": 250,
+      "ga": 234,
+      "gd": 16
+    },
+    "rnk": {
+      "lg": 10,
+      "cf": 7,
+      "dv": 3,
+      "wc": null
+    }
+  },
+  {
+    "team": {
+      "id": "CBJ",
+      "city": "Columbus",
+      "nick": "Blue Jackets",
+      "full": "Columbus Blue Jackets",
+      "div": {
+        "id": "div-metropolitan",
+        "name": "Metropolitan Division"
+      },
+      "conf": {
+        "id": "conf-eastern",
+        "name": "Eastern Conference"
+      }
+    },
+    "stats": {
+      "gp": 73,
+      "w": 38,
+      "l": 24,
+      "t": 0,
+      "otl": 11,
       "pts": 87,
       "pct": 0.59589,
-      "stk": "W1",
-      "gf": 211,
-      "ga": 207,
-      "gd": 4
+      "stk": "L2",
+      "gf": 234,
+      "ga": 222,
+      "gd": 12
     },
     "rnk": {
       "lg": 11,
@@ -168,7 +168,7 @@
       "gd": -6
     },
     "rnk": {
-      "lg": 15,
+      "lg": 16,
       "cf": 11,
       "dv": 5,
       "wc": 5
@@ -203,7 +203,7 @@
       "gd": 12
     },
     "rnk": {
-      "lg": 16,
+      "lg": 17,
       "cf": 12,
       "dv": 6,
       "wc": 6
@@ -225,17 +225,17 @@
       }
     },
     "stats": {
-      "gp": 71,
+      "gp": 72,
       "w": 37,
-      "l": 32,
+      "l": 33,
       "t": 0,
       "otl": 2,
       "pts": 76,
-      "pct": 0.53521,
-      "stk": "W2",
-      "gf": 197,
-      "ga": 215,
-      "gd": -18
+      "pct": 0.52778,
+      "stk": "L1",
+      "gf": 199,
+      "ga": 220,
+      "gd": -21
     },
     "rnk": {
       "lg": 21,
