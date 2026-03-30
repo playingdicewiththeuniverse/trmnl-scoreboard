@@ -1,0 +1,31 @@
+{
+  "game_time_utc": "2026-04-17 01:00:00+00:00",
+  "home_team": {
+    "id": "CGY",
+    "city": "Calgary",
+    "nick": "Flames",
+    "full": "Calgary Flames",
+    "record": {
+      "gp": 72,
+      "w": 30,
+      "l": 34,
+      "otl": 8,
+      "pts": 68,
+      "pct": 0.47222
+    }
+  },
+  "away_team": {
+    "id": "LAK",
+    "city": "Los Angeles",
+    "nick": "Kings",
+    "full": "Los Angeles Kings",
+    "record": {
+      "gp": 72,
+      "w": 29,
+      "l": 25,
+      "otl": 18,
+      "pts": 76,
+      "pct": 0.52778
+    }
+  }
+}

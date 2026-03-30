@@ -1,0 +1,31 @@
+{
+  "game_time_utc": "2026-04-17 00:00:00+00:00",
+  "home_team": {
+    "id": "WPG",
+    "city": "Winnipeg",
+    "nick": "Jets",
+    "full": "Winnipeg Jets",
+    "record": {
+      "gp": 72,
+      "w": 30,
+      "l": 30,
+      "otl": 12,
+      "pts": 72,
+      "pct": 0.5
+    }
+  },
+  "away_team": {
+    "id": "SJS",
+    "city": "San Jose",
+    "nick": "Sharks",
+    "full": "San Jose Sharks",
+    "record": {
+      "gp": 70,
+      "w": 32,
+      "l": 31,
+      "otl": 7,
+      "pts": 71,
+      "pct": 0.50714
+    }
+  }
+}

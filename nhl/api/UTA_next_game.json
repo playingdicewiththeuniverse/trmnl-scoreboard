@@ -1,0 +1,31 @@
+{
+  "game_time_utc": "2026-04-17 00:00:00+00:00",
+  "home_team": {
+    "id": "UTA",
+    "city": "Utah",
+    "nick": "Mammoth",
+    "full": "Utah Mammoth",
+    "record": {
+      "gp": 73,
+      "w": 37,
+      "l": 30,
+      "otl": 6,
+      "pts": 80,
+      "pct": 0.54795
+    }
+  },
+  "away_team": {
+    "id": "STL",
+    "city": "St. Louis",
+    "nick": "Blues",
+    "full": "St. Louis Blues",
+    "record": {
+      "gp": 71,
+      "w": 30,
+      "l": 30,
+      "otl": 11,
+      "pts": 71,
+      "pct": 0.5
+    }
+  }
+}

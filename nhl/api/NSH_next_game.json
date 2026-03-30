@@ -1,0 +1,31 @@
+{
+  "game_time_utc": "2026-04-17 00:00:00+00:00",
+  "home_team": {
+    "id": "NSH",
+    "city": "Nashville",
+    "nick": "Predators",
+    "full": "Nashville Predators",
+    "record": {
+      "gp": 72,
+      "w": 34,
+      "l": 29,
+      "otl": 9,
+      "pts": 77,
+      "pct": 0.53472
+    }
+  },
+  "away_team": {
+    "id": "ANA",
+    "city": "Anaheim",
+    "nick": "Ducks",
+    "full": "Anaheim Ducks",
+    "record": {
+      "gp": 72,
+      "w": 41,
+      "l": 27,
+      "otl": 4,
+      "pts": 86,
+      "pct": 0.59722
+    }
+  }
+}

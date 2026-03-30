@@ -1,0 +1,31 @@
+{
+  "game_time_utc": "2026-04-15 23:00:00+00:00",
+  "home_team": {
+    "id": "FLA",
+    "city": "Florida",
+    "nick": "Panthers",
+    "full": "Florida Panthers",
+    "record": {
+      "gp": 71,
+      "w": 35,
+      "l": 33,
+      "otl": 3,
+      "pts": 73,
+      "pct": 0.51408
+    }
+  },
+  "away_team": {
+    "id": "DET",
+    "city": "Detroit",
+    "nick": "Red Wings",
+    "full": "Detroit Red Wings",
+    "record": {
+      "gp": 72,
+      "w": 39,
+      "l": 25,
+      "otl": 8,
+      "pts": 86,
+      "pct": 0.59722
+    }
+  }
+}

@@ -14,8 +14,8 @@ GAME_FILE_PATH      = 'nhl/data/games_{}.json'
 TEAMS_FILE_PATH     = 'nhl/data/all_teams.json'
 LIVESCORE_FILE_PATH = 'nhl/data/livescores.json'
 STANDINGS_FILE_PATH = 'nhl/data/standings_{}.json'
-TEAM_OUTPUT_PATH    = 'nhl/api/{}.json'
-
+TEAM_OUTPUT_PATH    = 'nhl/api/{}_summary.json'
+NEXT_GAME_PATH      = 'nhl/api/{}_next_game.json'
 
 # Functions
 def build_game_id( game_date, home_id, away_id ):
@@ -245,3 +245,46 @@ def generate_team_json():
     with open( TEAM_OUTPUT_PATH.format(team_id), 'w+') as f:
       json.dump(team, f, indent=2)
 
+    next_game = {}
+    for g in future_games:
+      if g['location'] == 'home':
+        home_team = team
+        away_team = teams[g['opponent_id']]
+      else:
+        away_team = team
+        home_team = teams[g['opponent_id']]
+
+      next_game = {
+        'game_time_utc': g['game_time_utc'],
+        'home_team': {
+          'id':   home_team['team']['id'],
+          'city': home_team['team']['city'],
+          'nick': home_team['team']['nick'],
+          'full': home_team['team']['full'],
+          'record': {
+            'gp':  home_team['stats']['gp'],
+            'w':   home_team['stats']['w'],
+            'l':   home_team['stats']['l'],
+            'otl': home_team['stats']['otl'],
+            'pts': home_team['stats']['pts'],
+            'pct': home_team['stats']['pct'],
+          }
+        },
+        'away_team': {
+          'id':   away_team['team']['id'],
+          'city': away_team['team']['city'],
+          'nick': away_team['team']['nick'],
+          'full': away_team['team']['full'],
+          'record': {
+            'gp':  away_team['stats']['gp'],
+            'w':   away_team['stats']['w'],
+            'l':   away_team['stats']['l'],
+            'otl': away_team['stats']['otl'],
+            'pts': away_team['stats']['pts'],
+            'pct': away_team['stats']['pct'],
+          }
+        }
+      }
+
+    with open( NEXT_GAME_PATH.format(team_id), 'w+') as f:
+      json.dump(next_game, f, indent=2)      

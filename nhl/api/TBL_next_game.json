@@ -1,0 +1,31 @@
+{
+  "game_time_utc": "2026-04-15 23:00:00+00:00",
+  "home_team": {
+    "id": "TBL",
+    "city": "Tampa Bay",
+    "nick": "Lightning",
+    "full": "Tampa Bay Lightning",
+    "record": {
+      "gp": 71,
+      "w": 44,
+      "l": 21,
+      "otl": 6,
+      "pts": 94,
+      "pct": 0.66197
+    }
+  },
+  "away_team": {
+    "id": "NYR",
+    "city": "NY Rangers",
+    "nick": "Rangers",
+    "full": "New York Rangers",
+    "record": {
+      "gp": 73,
+      "w": 29,
+      "l": 35,
+      "otl": 9,
+      "pts": 67,
+      "pct": 0.4589
+    }
+  }
+}

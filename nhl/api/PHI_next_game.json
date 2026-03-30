@@ -1,0 +1,31 @@
+{
+  "game_time_utc": "2026-04-14 23:00:00+00:00",
+  "home_team": {
+    "id": "PHI",
+    "city": "Philadelphia",
+    "nick": "Flyers",
+    "full": "Philadelphia Flyers",
+    "record": {
+      "gp": 71,
+      "w": 35,
+      "l": 24,
+      "otl": 12,
+      "pts": 82,
+      "pct": 0.57746
+    }
+  },
+  "away_team": {
+    "id": "MTL",
+    "city": "Montr\u00e9al",
+    "nick": "Canadiens",
+    "full": "Montr\u00e9al Canadiens",
+    "record": {
+      "gp": 71,
+      "w": 40,
+      "l": 21,
+      "otl": 10,
+      "pts": 90,
+      "pct": 0.6338
+    }
+  }
+}

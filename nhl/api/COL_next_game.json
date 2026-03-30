@@ -1,0 +1,31 @@
+{
+  "game_time_utc": "2026-04-17 02:30:00+00:00",
+  "home_team": {
+    "id": "COL",
+    "city": "Colorado",
+    "nick": "Avalanche",
+    "full": "Colorado Avalanche",
+    "record": {
+      "gp": 71,
+      "w": 48,
+      "l": 13,
+      "otl": 10,
+      "pts": 106,
+      "pct": 0.74648
+    }
+  },
+  "away_team": {
+    "id": "SEA",
+    "city": "Seattle",
+    "nick": "Kraken",
+    "full": "Seattle Kraken",
+    "record": {
+      "gp": 71,
+      "w": 32,
+      "l": 29,
+      "otl": 10,
+      "pts": 74,
+      "pct": 0.52113
+    }
+  }
+}

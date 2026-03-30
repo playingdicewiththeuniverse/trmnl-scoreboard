@@ -1,0 +1,31 @@
+{
+  "game_time_utc": "2026-04-15 23:00:00+00:00",
+  "home_team": {
+    "id": "BUF",
+    "city": "Buffalo",
+    "nick": "Sabres",
+    "full": "Buffalo Sabres",
+    "record": {
+      "gp": 73,
+      "w": 44,
+      "l": 21,
+      "otl": 8,
+      "pts": 96,
+      "pct": 0.65753
+    }
+  },
+  "away_team": {
+    "id": "DAL",
+    "city": "Dallas",
+    "nick": "Stars",
+    "full": "Dallas Stars",
+    "record": {
+      "gp": 72,
+      "w": 43,
+      "l": 18,
+      "otl": 11,
+      "pts": 97,
+      "pct": 0.67361
+    }
+  }
+}

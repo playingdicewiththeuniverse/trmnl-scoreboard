@@ -1,0 +1,31 @@
+{
+  "game_time_utc": "2026-04-14 23:00:00+00:00",
+  "home_team": {
+    "id": "NYI",
+    "city": "NY Islanders",
+    "nick": "Islanders",
+    "full": "New York Islanders",
+    "record": {
+      "gp": 73,
+      "w": 41,
+      "l": 27,
+      "otl": 5,
+      "pts": 87,
+      "pct": 0.59589
+    }
+  },
+  "away_team": {
+    "id": "CAR",
+    "city": "Carolina",
+    "nick": "Hurricanes",
+    "full": "Carolina Hurricanes",
+    "record": {
+      "gp": 71,
+      "w": 45,
+      "l": 20,
+      "otl": 6,
+      "pts": 96,
+      "pct": 0.67606
+    }
+  }
+}

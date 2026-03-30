@@ -1,0 +1,31 @@
+{
+  "game_time_utc": "2026-04-17 01:00:00+00:00",
+  "home_team": {
+    "id": "EDM",
+    "city": "Edmonton",
+    "nick": "Oilers",
+    "full": "Edmonton Oilers",
+    "record": {
+      "gp": 73,
+      "w": 36,
+      "l": 28,
+      "otl": 9,
+      "pts": 81,
+      "pct": 0.55479
+    }
+  },
+  "away_team": {
+    "id": "VAN",
+    "city": "Vancouver",
+    "nick": "Canucks",
+    "full": "Vancouver Canucks",
+    "record": {
+      "gp": 71,
+      "w": 21,
+      "l": 42,
+      "otl": 8,
+      "pts": 50,
+      "pct": 0.35211
+    }
+  }
+}

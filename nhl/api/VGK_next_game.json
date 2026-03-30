@@ -1,0 +1,31 @@
+{
+  "game_time_utc": "2026-04-16 02:00:00+00:00",
+  "home_team": {
+    "id": "VGK",
+    "city": "Vegas",
+    "nick": "Golden Knights",
+    "full": "Vegas Golden Knights",
+    "record": {
+      "gp": 73,
+      "w": 32,
+      "l": 26,
+      "otl": 15,
+      "pts": 79,
+      "pct": 0.5411
+    }
+  },
+  "away_team": {
+    "id": "SEA",
+    "city": "Seattle",
+    "nick": "Kraken",
+    "full": "Seattle Kraken",
+    "record": {
+      "gp": 71,
+      "w": 32,
+      "l": 29,
+      "otl": 10,
+      "pts": 74,
+      "pct": 0.52113
+    }
+  }
+}

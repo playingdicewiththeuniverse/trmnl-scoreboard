@@ -1,0 +1,31 @@
+{
+  "game_time_utc": "2026-04-15 23:30:00+00:00",
+  "home_team": {
+    "id": "OTT",
+    "city": "Ottawa",
+    "nick": "Senators",
+    "full": "Ottawa Senators",
+    "record": {
+      "gp": 72,
+      "w": 38,
+      "l": 24,
+      "otl": 10,
+      "pts": 86,
+      "pct": 0.59722
+    }
+  },
+  "away_team": {
+    "id": "TOR",
+    "city": "Toronto",
+    "nick": "Maple Leafs",
+    "full": "Toronto Maple Leafs",
+    "record": {
+      "gp": 73,
+      "w": 31,
+      "l": 29,
+      "otl": 13,
+      "pts": 75,
+      "pct": 0.5137
+    }
+  }
+}
