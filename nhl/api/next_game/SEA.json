@@ -1,17 +1,17 @@
 {
-  "game_time_utc": "2026-04-01 01:00:00+00:00",
+  "game_time_utc": "2026-04-03 02:00:00+00:00",
   "home_team": {
-    "id": "EDM",
-    "city": "Edmonton",
-    "nick": "Oilers",
-    "full": "Edmonton Oilers",
+    "id": "UTA",
+    "city": "Utah",
+    "nick": "Mammoth",
+    "full": "Utah Mammoth",
     "record": {
       "gp": 74,
-      "w": 37,
-      "l": 28,
-      "otl": 9,
-      "pts": 83,
-      "pct": 0.56081
+      "w": 38,
+      "l": 30,
+      "otl": 6,
+      "pts": 82,
+      "pct": 0.55405
     }
   },
   "away_team": {
@@ -20,12 +20,12 @@
     "nick": "Kraken",
     "full": "Seattle Kraken",
     "record": {
-      "gp": 72,
+      "gp": 73,
       "w": 32,
-      "l": 29,
+      "l": 30,
       "otl": 11,
       "pts": 75,
-      "pct": 0.52083
+      "pct": 0.5137
     }
   }
 }

@@ -1,17 +1,17 @@
 {
-  "game_time_utc": "2026-04-01 00:30:00+00:00",
+  "game_time_utc": "2026-04-03 01:00:00+00:00",
   "home_team": {
-    "id": "WPG",
-    "city": "Winnipeg",
-    "nick": "Jets",
-    "full": "Winnipeg Jets",
+    "id": "EDM",
+    "city": "Edmonton",
+    "nick": "Oilers",
+    "full": "Edmonton Oilers",
     "record": {
-      "gp": 73,
-      "w": 31,
-      "l": 30,
-      "otl": 12,
-      "pts": 74,
-      "pct": 0.50685
+      "gp": 75,
+      "w": 38,
+      "l": 28,
+      "otl": 9,
+      "pts": 85,
+      "pct": 0.56667
     }
   },
   "away_team": {
@@ -20,12 +20,12 @@
     "nick": "Blackhawks",
     "full": "Chicago Blackhawks",
     "record": {
-      "gp": 74,
+      "gp": 75,
       "w": 27,
       "l": 34,
-      "otl": 13,
-      "pts": 67,
-      "pct": 0.4527
+      "otl": 14,
+      "pts": 68,
+      "pct": 0.45333
     }
   }
 }

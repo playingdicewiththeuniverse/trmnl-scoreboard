@@ -50,17 +50,17 @@
       }
     },
     "stats": {
-      "gp": 74,
-      "w": 37,
+      "gp": 75,
+      "w": 38,
       "l": 28,
       "t": 0,
       "otl": 9,
-      "pts": 83,
-      "pct": 0.56081,
-      "stk": "W3",
-      "gf": 258,
+      "pts": 85,
+      "pct": 0.56667,
+      "stk": "W4",
+      "gf": 261,
       "ga": 251,
-      "gd": 7
+      "gd": 10
     },
     "rnk": {
       "lg": 17,
@@ -141,41 +141,6 @@
   },
   {
     "team": {
-      "id": "SEA",
-      "city": "Seattle",
-      "nick": "Kraken",
-      "full": "Seattle Kraken",
-      "div": {
-        "id": "div-pacific",
-        "name": "Pacific Division"
-      },
-      "conf": {
-        "id": "conf-western",
-        "name": "Western Conference"
-      }
-    },
-    "stats": {
-      "gp": 72,
-      "w": 32,
-      "l": 29,
-      "t": 0,
-      "otl": 11,
-      "pts": 75,
-      "pct": 0.52083,
-      "stk": "OT1",
-      "gf": 206,
-      "ga": 224,
-      "gd": -18
-    },
-    "rnk": {
-      "lg": 24,
-      "cf": 10,
-      "dv": 5,
-      "wc": 4
-    }
-  },
-  {
-    "team": {
       "id": "SJS",
       "city": "San Jose",
       "nick": "Sharks",
@@ -205,8 +170,43 @@
     "rnk": {
       "lg": 25,
       "cf": 11,
-      "dv": 6,
+      "dv": 5,
       "wc": 5
+    }
+  },
+  {
+    "team": {
+      "id": "SEA",
+      "city": "Seattle",
+      "nick": "Kraken",
+      "full": "Seattle Kraken",
+      "div": {
+        "id": "div-pacific",
+        "name": "Pacific Division"
+      },
+      "conf": {
+        "id": "conf-western",
+        "name": "Western Conference"
+      }
+    },
+    "stats": {
+      "gp": 73,
+      "w": 32,
+      "l": 30,
+      "t": 0,
+      "otl": 11,
+      "pts": 75,
+      "pct": 0.5137,
+      "stk": "L1",
+      "gf": 206,
+      "ga": 227,
+      "gd": -21
+    },
+    "rnk": {
+      "lg": 26,
+      "cf": 12,
+      "dv": 6,
+      "wc": 6
     }
   },
   {
@@ -238,7 +238,7 @@
       "gd": -43
     },
     "rnk": {
-      "lg": 29,
+      "lg": 30,
       "cf": 14,
       "dv": 7,
       "wc": 8

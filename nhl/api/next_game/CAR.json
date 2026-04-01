@@ -1,17 +1,17 @@
 {
-  "game_time_utc": "2026-03-31 23:30:00+00:00",
+  "game_time_utc": "2026-04-02 23:00:00+00:00",
   "home_team": {
     "id": "CBJ",
     "city": "Columbus",
     "nick": "Blue Jackets",
     "full": "Columbus Blue Jackets",
     "record": {
-      "gp": 74,
+      "gp": 75,
       "w": 38,
-      "l": 24,
+      "l": 25,
       "otl": 12,
       "pts": 88,
-      "pct": 0.59459
+      "pct": 0.58667
     }
   },
   "away_team": {
@@ -20,12 +20,12 @@
     "nick": "Hurricanes",
     "full": "Carolina Hurricanes",
     "record": {
-      "gp": 73,
-      "w": 46,
+      "gp": 74,
+      "w": 47,
       "l": 21,
       "otl": 6,
-      "pts": 98,
-      "pct": 0.67123
+      "pts": 100,
+      "pct": 0.67568
     }
   }
 }

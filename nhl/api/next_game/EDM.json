@@ -1,17 +1,17 @@
 {
-  "game_time_utc": "2026-04-01 01:00:00+00:00",
+  "game_time_utc": "2026-04-03 01:00:00+00:00",
   "home_team": {
-    "id": "SEA",
-    "city": "Seattle",
-    "nick": "Kraken",
-    "full": "Seattle Kraken",
+    "id": "CHI",
+    "city": "Chicago",
+    "nick": "Blackhawks",
+    "full": "Chicago Blackhawks",
     "record": {
-      "gp": 72,
-      "w": 32,
-      "l": 29,
-      "otl": 11,
-      "pts": 75,
-      "pct": 0.52083
+      "gp": 75,
+      "w": 27,
+      "l": 34,
+      "otl": 14,
+      "pts": 68,
+      "pct": 0.45333
     }
   },
   "away_team": {
@@ -20,12 +20,12 @@
     "nick": "Oilers",
     "full": "Edmonton Oilers",
     "record": {
-      "gp": 74,
-      "w": 37,
+      "gp": 75,
+      "w": 38,
       "l": 28,
       "otl": 9,
-      "pts": 83,
-      "pct": 0.56081
+      "pts": 85,
+      "pct": 0.56667
     }
   }
 }

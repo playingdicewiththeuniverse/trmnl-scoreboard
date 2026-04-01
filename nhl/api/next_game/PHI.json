@@ -1,17 +1,17 @@
 {
-  "game_time_utc": "2026-03-31 23:00:00+00:00",
+  "game_time_utc": "2026-04-02 23:00:00+00:00",
   "home_team": {
-    "id": "WSH",
-    "city": "Washington",
-    "nick": "Capitals",
-    "full": "Washington Capitals",
+    "id": "DET",
+    "city": "Detroit",
+    "nick": "Red Wings",
+    "full": "Detroit Red Wings",
     "record": {
       "gp": 74,
-      "w": 37,
-      "l": 28,
-      "otl": 9,
-      "pts": 83,
-      "pct": 0.56081
+      "w": 39,
+      "l": 27,
+      "otl": 8,
+      "pts": 86,
+      "pct": 0.58108
     }
   },
   "away_team": {
@@ -20,12 +20,12 @@
     "nick": "Flyers",
     "full": "Philadelphia Flyers",
     "record": {
-      "gp": 73,
+      "gp": 74,
       "w": 37,
-      "l": 24,
+      "l": 25,
       "otl": 12,
       "pts": 86,
-      "pct": 0.58904
+      "pct": 0.58108
     }
   }
 }

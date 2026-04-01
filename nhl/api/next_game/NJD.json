@@ -1,17 +1,17 @@
 {
-  "game_time_utc": "2026-03-31 23:00:00+00:00",
+  "game_time_utc": "2026-04-02 23:30:00+00:00",
   "home_team": {
-    "id": "NYR",
-    "city": "NY Rangers",
-    "nick": "Rangers",
-    "full": "New York Rangers",
+    "id": "WSH",
+    "city": "Washington",
+    "nick": "Capitals",
+    "full": "Washington Capitals",
     "record": {
-      "gp": 74,
-      "w": 30,
-      "l": 35,
+      "gp": 75,
+      "w": 38,
+      "l": 28,
       "otl": 9,
-      "pts": 69,
-      "pct": 0.46622
+      "pts": 85,
+      "pct": 0.56667
     }
   },
   "away_team": {
@@ -20,12 +20,12 @@
     "nick": "Devils",
     "full": "New Jersey Devils",
     "record": {
-      "gp": 73,
+      "gp": 74,
       "w": 38,
-      "l": 33,
+      "l": 34,
       "otl": 2,
       "pts": 78,
-      "pct": 0.53425
+      "pct": 0.52703
     }
   }
 }

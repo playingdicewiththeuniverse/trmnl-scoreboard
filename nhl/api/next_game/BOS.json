@@ -1,17 +1,17 @@
 {
-  "game_time_utc": "2026-03-31 23:00:00+00:00",
+  "game_time_utc": "2026-04-02 23:00:00+00:00",
   "home_team": {
-    "id": "DAL",
-    "city": "Dallas",
-    "nick": "Stars",
-    "full": "Dallas Stars",
+    "id": "FLA",
+    "city": "Florida",
+    "nick": "Panthers",
+    "full": "Florida Panthers",
     "record": {
       "gp": 74,
-      "w": 44,
-      "l": 18,
-      "otl": 12,
-      "pts": 100,
-      "pct": 0.67568
+      "w": 36,
+      "l": 35,
+      "otl": 3,
+      "pts": 75,
+      "pct": 0.50676
     }
   },
   "away_team": {
@@ -20,12 +20,12 @@
     "nick": "Bruins",
     "full": "Boston Bruins",
     "record": {
-      "gp": 74,
-      "w": 42,
+      "gp": 75,
+      "w": 43,
       "l": 24,
       "otl": 8,
-      "pts": 92,
-      "pct": 0.62162
+      "pts": 94,
+      "pct": 0.62667
     }
   }
 }

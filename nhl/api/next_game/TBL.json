@@ -1,17 +1,17 @@
 {
-  "game_time_utc": "2026-03-31 23:00:00+00:00",
+  "game_time_utc": "2026-04-02 23:00:00+00:00",
   "home_team": {
-    "id": "MTL",
-    "city": "Montr\u00e9al",
-    "nick": "Canadiens",
-    "full": "Montr\u00e9al Canadiens",
+    "id": "PIT",
+    "city": "Pittsburgh",
+    "nick": "Penguins",
+    "full": "Pittsburgh Penguins",
     "record": {
-      "gp": 73,
-      "w": 42,
+      "gp": 75,
+      "w": 38,
       "l": 21,
-      "otl": 10,
-      "pts": 94,
-      "pct": 0.64384
+      "otl": 16,
+      "pts": 92,
+      "pct": 0.61333
     }
   },
   "away_team": {
@@ -20,12 +20,12 @@
     "nick": "Lightning",
     "full": "Tampa Bay Lightning",
     "record": {
-      "gp": 73,
+      "gp": 74,
       "w": 46,
-      "l": 21,
+      "l": 22,
       "otl": 6,
       "pts": 98,
-      "pct": 0.67123
+      "pct": 0.66216
     }
   }
 }

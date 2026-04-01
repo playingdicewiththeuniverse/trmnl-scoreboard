@@ -14,17 +14,17 @@
     }
   },
   "stats": {
-    "gp": 73,
+    "gp": 74,
     "w": 38,
-    "l": 25,
+    "l": 26,
     "t": 0,
     "otl": 10,
     "pts": 86,
-    "pct": 0.58904,
-    "stk": "L1",
-    "gf": 244,
-    "ga": 224,
-    "gd": 20
+    "pct": 0.58108,
+    "stk": "L2",
+    "gf": 247,
+    "ga": 230,
+    "gd": 17
   },
   "rnk": {
     "lg": 13,
@@ -33,20 +33,6 @@
     "wc": 3
   },
   "games": [
-    {
-      "game_id": "20260324-DET-OTT",
-      "game_time_utc": "2026-03-24 23:00:00+00:00",
-      "game_date": "2026-03-24",
-      "final": "Final",
-      "outcome": "win",
-      "score": [
-        3,
-        2
-      ],
-      "opponent_id": "DET",
-      "opponent_name": "Detroit Red Wings",
-      "location": "Away"
-    },
     {
       "game_id": "20260326-OTT-PIT",
       "game_time_utc": "2026-03-26 23:00:00+00:00",
@@ -79,11 +65,11 @@
       "game_id": "20260331-FLA-OTT",
       "game_time_utc": "2026-03-31 23:00:00+00:00",
       "game_date": "2026-03-31",
-      "final": "",
-      "outcome": "upcoming",
+      "final": "Final",
+      "outcome": "loss",
       "score": [
-        "",
-        ""
+        3,
+        6
       ],
       "opponent_id": "FLA",
       "opponent_name": "Florida Panthers",
@@ -130,45 +116,24 @@
       "opponent_id": "CAR",
       "opponent_name": "Carolina Hurricanes",
       "location": "Home"
+    },
+    {
+      "game_id": "20260407-OTT-TBL",
+      "game_time_utc": "2026-04-07 23:00:00+00:00",
+      "game_date": "2026-04-07",
+      "final": "",
+      "outcome": "upcoming",
+      "score": [
+        "",
+        ""
+      ],
+      "opponent_id": "TBL",
+      "opponent_name": "Tampa Bay Lightning",
+      "location": "Home"
     }
   ],
   "standings": {
     "division": [
-      {
-        "team": {
-          "id": "TBL",
-          "city": "Tampa Bay",
-          "nick": "Lightning",
-          "full": "Tampa Bay Lightning",
-          "div": {
-            "id": "div-atlantic",
-            "name": "Atlantic Division"
-          },
-          "conf": {
-            "id": "conf-eastern",
-            "name": "Eastern Conference"
-          }
-        },
-        "stats": {
-          "gp": 73,
-          "w": 46,
-          "l": 21,
-          "t": 0,
-          "otl": 6,
-          "pts": 98,
-          "pct": 0.67123,
-          "stk": "W2",
-          "gf": 267,
-          "ga": 203,
-          "gd": 64
-        },
-        "rnk": {
-          "lg": 3,
-          "cf": 1,
-          "dv": 1,
-          "wc": null
-        }
-      },
       {
         "team": {
           "id": "BUF",
@@ -185,17 +150,52 @@
           }
         },
         "stats": {
-          "gp": 74,
-          "w": 45,
+          "gp": 75,
+          "w": 46,
           "l": 21,
           "t": 0,
           "otl": 8,
+          "pts": 100,
+          "pct": 0.66667,
+          "stk": "W2",
+          "gf": 263,
+          "ga": 221,
+          "gd": 42
+        },
+        "rnk": {
+          "lg": 3,
+          "cf": 2,
+          "dv": 1,
+          "wc": null
+        }
+      },
+      {
+        "team": {
+          "id": "TBL",
+          "city": "Tampa Bay",
+          "nick": "Lightning",
+          "full": "Tampa Bay Lightning",
+          "div": {
+            "id": "div-atlantic",
+            "name": "Atlantic Division"
+          },
+          "conf": {
+            "id": "conf-eastern",
+            "name": "Eastern Conference"
+          }
+        },
+        "stats": {
+          "gp": 74,
+          "w": 46,
+          "l": 22,
+          "t": 0,
+          "otl": 6,
           "pts": 98,
           "pct": 0.66216,
-          "stk": "W1",
-          "gf": 259,
-          "ga": 218,
-          "gd": 41
+          "stk": "L1",
+          "gf": 268,
+          "ga": 207,
+          "gd": 61
         },
         "rnk": {
           "lg": 5,
@@ -220,17 +220,17 @@
           }
         },
         "stats": {
-          "gp": 73,
-          "w": 42,
+          "gp": 74,
+          "w": 43,
           "l": 21,
           "t": 0,
           "otl": 10,
-          "pts": 94,
-          "pct": 0.64384,
-          "stk": "W5",
-          "gf": 258,
-          "ga": 233,
-          "gd": 25
+          "pts": 96,
+          "pct": 0.64865,
+          "stk": "W6",
+          "gf": 262,
+          "ga": 234,
+          "gd": 28
         },
         "rnk": {
           "lg": 6,
@@ -255,17 +255,17 @@
           }
         },
         "stats": {
-          "gp": 74,
-          "w": 42,
+          "gp": 75,
+          "w": 43,
           "l": 24,
           "t": 0,
           "otl": 8,
-          "pts": 92,
-          "pct": 0.62162,
-          "stk": "W3",
-          "gf": 250,
-          "ga": 230,
-          "gd": 20
+          "pts": 94,
+          "pct": 0.62667,
+          "stk": "W4",
+          "gf": 256,
+          "ga": 233,
+          "gd": 23
         },
         "rnk": {
           "lg": 8,
@@ -290,17 +290,17 @@
           }
         },
         "stats": {
-          "gp": 73,
+          "gp": 74,
           "w": 38,
-          "l": 25,
+          "l": 26,
           "t": 0,
           "otl": 10,
           "pts": 86,
-          "pct": 0.58904,
-          "stk": "L1",
-          "gf": 244,
-          "ga": 224,
-          "gd": 20
+          "pct": 0.58108,
+          "stk": "L2",
+          "gf": 247,
+          "ga": 230,
+          "gd": 17
         },
         "rnk": {
           "lg": 13,
@@ -325,17 +325,17 @@
           }
         },
         "stats": {
-          "gp": 73,
+          "gp": 74,
           "w": 39,
-          "l": 26,
+          "l": 27,
           "t": 0,
           "otl": 8,
           "pts": 86,
-          "pct": 0.58904,
-          "stk": "L1",
-          "gf": 215,
-          "ga": 218,
-          "gd": -3
+          "pct": 0.58108,
+          "stk": "L2",
+          "gf": 216,
+          "ga": 223,
+          "gd": -7
         },
         "rnk": {
           "lg": 14,
@@ -395,17 +395,17 @@
           }
         },
         "stats": {
-          "gp": 73,
-          "w": 35,
+          "gp": 74,
+          "w": 36,
           "l": 35,
           "t": 0,
           "otl": 3,
-          "pts": 73,
-          "pct": 0.5,
-          "stk": "L3",
-          "gf": 216,
-          "ga": 244,
-          "gd": -28
+          "pts": 75,
+          "pct": 0.50676,
+          "stk": "W1",
+          "gf": 222,
+          "ga": 247,
+          "gd": -25
         },
         "rnk": {
           "lg": 27,
@@ -416,41 +416,6 @@
       }
     ],
     "conference": [
-      {
-        "team": {
-          "id": "TBL",
-          "city": "Tampa Bay",
-          "nick": "Lightning",
-          "full": "Tampa Bay Lightning",
-          "div": {
-            "id": "div-atlantic",
-            "name": "Atlantic Division"
-          },
-          "conf": {
-            "id": "conf-eastern",
-            "name": "Eastern Conference"
-          }
-        },
-        "stats": {
-          "gp": 73,
-          "w": 46,
-          "l": 21,
-          "t": 0,
-          "otl": 6,
-          "pts": 98,
-          "pct": 0.67123,
-          "stk": "W2",
-          "gf": 267,
-          "ga": 203,
-          "gd": 64
-        },
-        "rnk": {
-          "lg": 3,
-          "cf": 1,
-          "dv": 1,
-          "wc": null
-        }
-      },
       {
         "team": {
           "id": "CAR",
@@ -467,21 +432,21 @@
           }
         },
         "stats": {
-          "gp": 73,
-          "w": 46,
+          "gp": 74,
+          "w": 47,
           "l": 21,
           "t": 0,
           "otl": 6,
-          "pts": 98,
-          "pct": 0.67123,
-          "stk": "L1",
-          "gf": 258,
-          "ga": 216,
-          "gd": 42
+          "pts": 100,
+          "pct": 0.67568,
+          "stk": "W1",
+          "gf": 263,
+          "ga": 218,
+          "gd": 45
         },
         "rnk": {
-          "lg": 4,
-          "cf": 2,
+          "lg": 2,
+          "cf": 1,
           "dv": 1,
           "wc": null
         }
@@ -502,17 +467,52 @@
           }
         },
         "stats": {
-          "gp": 74,
-          "w": 45,
+          "gp": 75,
+          "w": 46,
           "l": 21,
           "t": 0,
           "otl": 8,
+          "pts": 100,
+          "pct": 0.66667,
+          "stk": "W2",
+          "gf": 263,
+          "ga": 221,
+          "gd": 42
+        },
+        "rnk": {
+          "lg": 3,
+          "cf": 2,
+          "dv": 1,
+          "wc": null
+        }
+      },
+      {
+        "team": {
+          "id": "TBL",
+          "city": "Tampa Bay",
+          "nick": "Lightning",
+          "full": "Tampa Bay Lightning",
+          "div": {
+            "id": "div-atlantic",
+            "name": "Atlantic Division"
+          },
+          "conf": {
+            "id": "conf-eastern",
+            "name": "Eastern Conference"
+          }
+        },
+        "stats": {
+          "gp": 74,
+          "w": 46,
+          "l": 22,
+          "t": 0,
+          "otl": 6,
           "pts": 98,
           "pct": 0.66216,
-          "stk": "W1",
-          "gf": 259,
-          "ga": 218,
-          "gd": 41
+          "stk": "L1",
+          "gf": 268,
+          "ga": 207,
+          "gd": 61
         },
         "rnk": {
           "lg": 5,
@@ -537,17 +537,17 @@
           }
         },
         "stats": {
-          "gp": 73,
-          "w": 42,
+          "gp": 74,
+          "w": 43,
           "l": 21,
           "t": 0,
           "otl": 10,
-          "pts": 94,
-          "pct": 0.64384,
-          "stk": "W5",
-          "gf": 258,
-          "ga": 233,
-          "gd": 25
+          "pts": 96,
+          "pct": 0.64865,
+          "stk": "W6",
+          "gf": 262,
+          "ga": 234,
+          "gd": 28
         },
         "rnk": {
           "lg": 6,
@@ -572,17 +572,17 @@
           }
         },
         "stats": {
-          "gp": 74,
-          "w": 42,
+          "gp": 75,
+          "w": 43,
           "l": 24,
           "t": 0,
           "otl": 8,
-          "pts": 92,
-          "pct": 0.62162,
-          "stk": "W3",
-          "gf": 250,
-          "ga": 230,
-          "gd": 20
+          "pts": 94,
+          "pct": 0.62667,
+          "stk": "W4",
+          "gf": 256,
+          "ga": 233,
+          "gd": 23
         },
         "rnk": {
           "lg": 8,
@@ -607,17 +607,17 @@
           }
         },
         "stats": {
-          "gp": 74,
-          "w": 37,
+          "gp": 75,
+          "w": 38,
           "l": 21,
           "t": 0,
           "otl": 16,
-          "pts": 90,
-          "pct": 0.60811,
-          "stk": "W1",
-          "gf": 258,
-          "ga": 237,
-          "gd": 21
+          "pts": 92,
+          "pct": 0.61333,
+          "stk": "W2",
+          "gf": 263,
+          "ga": 238,
+          "gd": 25
         },
         "rnk": {
           "lg": 9,
@@ -642,17 +642,17 @@
           }
         },
         "stats": {
-          "gp": 75,
+          "gp": 76,
           "w": 42,
-          "l": 28,
+          "l": 29,
           "t": 0,
           "otl": 5,
           "pts": 89,
-          "pct": 0.59333,
-          "stk": "L1",
-          "gf": 219,
-          "ga": 217,
-          "gd": 2
+          "pct": 0.58553,
+          "stk": "L2",
+          "gf": 222,
+          "ga": 221,
+          "gd": 1
         },
         "rnk": {
           "lg": 10,
@@ -677,17 +677,17 @@
           }
         },
         "stats": {
-          "gp": 74,
+          "gp": 75,
           "w": 38,
-          "l": 24,
+          "l": 25,
           "t": 0,
           "otl": 12,
           "pts": 88,
-          "pct": 0.59459,
-          "stk": "OT1",
-          "gf": 237,
-          "ga": 226,
-          "gd": 11
+          "pct": 0.58667,
+          "stk": "L1",
+          "gf": 239,
+          "ga": 231,
+          "gd": 8
         },
         "rnk": {
           "lg": 11,
@@ -712,17 +712,17 @@
           }
         },
         "stats": {
-          "gp": 73,
+          "gp": 74,
           "w": 38,
-          "l": 25,
+          "l": 26,
           "t": 0,
           "otl": 10,
           "pts": 86,
-          "pct": 0.58904,
-          "stk": "L1",
-          "gf": 244,
-          "ga": 224,
-          "gd": 20
+          "pct": 0.58108,
+          "stk": "L2",
+          "gf": 247,
+          "ga": 230,
+          "gd": 17
         },
         "rnk": {
           "lg": 13,
@@ -747,17 +747,17 @@
           }
         },
         "stats": {
-          "gp": 73,
+          "gp": 74,
           "w": 39,
-          "l": 26,
+          "l": 27,
           "t": 0,
           "otl": 8,
           "pts": 86,
-          "pct": 0.58904,
-          "stk": "L1",
-          "gf": 215,
-          "ga": 218,
-          "gd": -3
+          "pct": 0.58108,
+          "stk": "L2",
+          "gf": 216,
+          "ga": 223,
+          "gd": -7
         },
         "rnk": {
           "lg": 14,
@@ -782,17 +782,17 @@
           }
         },
         "stats": {
-          "gp": 73,
+          "gp": 74,
           "w": 37,
-          "l": 24,
+          "l": 25,
           "t": 0,
           "otl": 12,
           "pts": 86,
-          "pct": 0.58904,
-          "stk": "W3",
-          "gf": 216,
-          "ga": 219,
-          "gd": -3
+          "pct": 0.58108,
+          "stk": "L1",
+          "gf": 220,
+          "ga": 225,
+          "gd": -5
         },
         "rnk": {
           "lg": 15,
@@ -817,17 +817,17 @@
           }
         },
         "stats": {
-          "gp": 74,
-          "w": 37,
+          "gp": 75,
+          "w": 38,
           "l": 28,
           "t": 0,
           "otl": 9,
-          "pts": 83,
-          "pct": 0.56081,
-          "stk": "W2",
-          "gf": 232,
-          "ga": 219,
-          "gd": 13
+          "pts": 85,
+          "pct": 0.56667,
+          "stk": "W3",
+          "gf": 238,
+          "ga": 223,
+          "gd": 15
         },
         "rnk": {
           "lg": 16,
@@ -852,17 +852,17 @@
           }
         },
         "stats": {
-          "gp": 73,
+          "gp": 74,
           "w": 38,
-          "l": 33,
+          "l": 34,
           "t": 0,
           "otl": 2,
           "pts": 78,
-          "pct": 0.53425,
-          "stk": "W1",
-          "gf": 204,
-          "ga": 223,
-          "gd": -19
+          "pct": 0.52703,
+          "stk": "L1",
+          "gf": 205,
+          "ga": 227,
+          "gd": -22
         },
         "rnk": {
           "lg": 20,
@@ -922,17 +922,17 @@
           }
         },
         "stats": {
-          "gp": 73,
-          "w": 35,
+          "gp": 74,
+          "w": 36,
           "l": 35,
           "t": 0,
           "otl": 3,
-          "pts": 73,
-          "pct": 0.5,
-          "stk": "L3",
-          "gf": 216,
-          "ga": 244,
-          "gd": -28
+          "pts": 75,
+          "pct": 0.50676,
+          "stk": "W1",
+          "gf": 222,
+          "ga": 247,
+          "gd": -25
         },
         "rnk": {
           "lg": 27,
@@ -957,20 +957,20 @@
           }
         },
         "stats": {
-          "gp": 74,
-          "w": 30,
+          "gp": 75,
+          "w": 31,
           "l": 35,
           "t": 0,
           "otl": 9,
-          "pts": 69,
-          "pct": 0.46622,
-          "stk": "W2",
-          "gf": 211,
-          "ga": 232,
-          "gd": -21
+          "pts": 71,
+          "pct": 0.47333,
+          "stk": "W3",
+          "gf": 215,
+          "ga": 233,
+          "gd": -18
         },
         "rnk": {
-          "lg": 30,
+          "lg": 29,
           "cf": 16,
           "dv": 8,
           "wc": 10

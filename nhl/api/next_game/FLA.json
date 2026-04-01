@@ -1,17 +1,17 @@
 {
-  "game_time_utc": "2026-03-31 23:00:00+00:00",
+  "game_time_utc": "2026-04-02 23:00:00+00:00",
   "home_team": {
-    "id": "OTT",
-    "city": "Ottawa",
-    "nick": "Senators",
-    "full": "Ottawa Senators",
+    "id": "BOS",
+    "city": "Boston",
+    "nick": "Bruins",
+    "full": "Boston Bruins",
     "record": {
-      "gp": 73,
-      "w": 38,
-      "l": 25,
-      "otl": 10,
-      "pts": 86,
-      "pct": 0.58904
+      "gp": 75,
+      "w": 43,
+      "l": 24,
+      "otl": 8,
+      "pts": 94,
+      "pct": 0.62667
     }
   },
   "away_team": {
@@ -20,12 +20,12 @@
     "nick": "Panthers",
     "full": "Florida Panthers",
     "record": {
-      "gp": 73,
-      "w": 35,
+      "gp": 74,
+      "w": 36,
       "l": 35,
       "otl": 3,
-      "pts": 73,
-      "pct": 0.5
+      "pts": 75,
+      "pct": 0.50676
     }
   }
 }

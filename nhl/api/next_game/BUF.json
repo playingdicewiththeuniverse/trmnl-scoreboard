@@ -1,17 +1,17 @@
 {
-  "game_time_utc": "2026-03-31 23:00:00+00:00",
+  "game_time_utc": "2026-04-02 23:00:00+00:00",
   "home_team": {
-    "id": "NYI",
-    "city": "NY Islanders",
-    "nick": "Islanders",
-    "full": "New York Islanders",
+    "id": "OTT",
+    "city": "Ottawa",
+    "nick": "Senators",
+    "full": "Ottawa Senators",
     "record": {
-      "gp": 75,
-      "w": 42,
-      "l": 28,
-      "otl": 5,
-      "pts": 89,
-      "pct": 0.59333
+      "gp": 74,
+      "w": 38,
+      "l": 26,
+      "otl": 10,
+      "pts": 86,
+      "pct": 0.58108
     }
   },
   "away_team": {
@@ -20,12 +20,12 @@
     "nick": "Sabres",
     "full": "Buffalo Sabres",
     "record": {
-      "gp": 74,
-      "w": 45,
+      "gp": 75,
+      "w": 46,
       "l": 21,
       "otl": 8,
-      "pts": 98,
-      "pct": 0.66216
+      "pts": 100,
+      "pct": 0.66667
     }
   }
 }

@@ -1,17 +1,17 @@
 {
-  "game_time_utc": "2026-04-01 00:30:00+00:00",
+  "game_time_utc": "2026-04-03 00:00:00+00:00",
   "home_team": {
-    "id": "CHI",
-    "city": "Chicago",
-    "nick": "Blackhawks",
-    "full": "Chicago Blackhawks",
+    "id": "DAL",
+    "city": "Dallas",
+    "nick": "Stars",
+    "full": "Dallas Stars",
     "record": {
-      "gp": 74,
-      "w": 27,
-      "l": 34,
-      "otl": 13,
-      "pts": 67,
-      "pct": 0.4527
+      "gp": 75,
+      "w": 44,
+      "l": 19,
+      "otl": 12,
+      "pts": 100,
+      "pct": 0.66667
     }
   },
   "away_team": {
@@ -20,12 +20,12 @@
     "nick": "Jets",
     "full": "Winnipeg Jets",
     "record": {
-      "gp": 73,
-      "w": 31,
+      "gp": 74,
+      "w": 32,
       "l": 30,
       "otl": 12,
-      "pts": 74,
-      "pct": 0.50685
+      "pts": 76,
+      "pct": 0.51351
     }
   }
 }

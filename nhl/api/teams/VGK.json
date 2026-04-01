@@ -185,17 +185,17 @@
           }
         },
         "stats": {
-          "gp": 74,
-          "w": 37,
+          "gp": 75,
+          "w": 38,
           "l": 28,
           "t": 0,
           "otl": 9,
-          "pts": 83,
-          "pct": 0.56081,
-          "stk": "W3",
-          "gf": 258,
+          "pts": 85,
+          "pct": 0.56667,
+          "stk": "W4",
+          "gf": 261,
           "ga": 251,
-          "gd": 7
+          "gd": 10
         },
         "rnk": {
           "lg": 17,
@@ -276,41 +276,6 @@
       },
       {
         "team": {
-          "id": "SEA",
-          "city": "Seattle",
-          "nick": "Kraken",
-          "full": "Seattle Kraken",
-          "div": {
-            "id": "div-pacific",
-            "name": "Pacific Division"
-          },
-          "conf": {
-            "id": "conf-western",
-            "name": "Western Conference"
-          }
-        },
-        "stats": {
-          "gp": 72,
-          "w": 32,
-          "l": 29,
-          "t": 0,
-          "otl": 11,
-          "pts": 75,
-          "pct": 0.52083,
-          "stk": "OT1",
-          "gf": 206,
-          "ga": 224,
-          "gd": -18
-        },
-        "rnk": {
-          "lg": 24,
-          "cf": 10,
-          "dv": 5,
-          "wc": 4
-        }
-      },
-      {
-        "team": {
           "id": "SJS",
           "city": "San Jose",
           "nick": "Sharks",
@@ -340,8 +305,43 @@
         "rnk": {
           "lg": 25,
           "cf": 11,
-          "dv": 6,
+          "dv": 5,
           "wc": 5
+        }
+      },
+      {
+        "team": {
+          "id": "SEA",
+          "city": "Seattle",
+          "nick": "Kraken",
+          "full": "Seattle Kraken",
+          "div": {
+            "id": "div-pacific",
+            "name": "Pacific Division"
+          },
+          "conf": {
+            "id": "conf-western",
+            "name": "Western Conference"
+          }
+        },
+        "stats": {
+          "gp": 73,
+          "w": 32,
+          "l": 30,
+          "t": 0,
+          "otl": 11,
+          "pts": 75,
+          "pct": 0.5137,
+          "stk": "L1",
+          "gf": 206,
+          "ga": 227,
+          "gd": -21
+        },
+        "rnk": {
+          "lg": 26,
+          "cf": 12,
+          "dv": 6,
+          "wc": 6
         }
       },
       {
@@ -373,7 +373,7 @@
           "gd": -43
         },
         "rnk": {
-          "lg": 29,
+          "lg": 30,
           "cf": 14,
           "dv": 7,
           "wc": 8
@@ -467,20 +467,20 @@
           }
         },
         "stats": {
-          "gp": 74,
+          "gp": 75,
           "w": 44,
-          "l": 18,
+          "l": 19,
           "t": 0,
           "otl": 12,
           "pts": 100,
-          "pct": 0.67568,
-          "stk": "OT1",
-          "gf": 252,
-          "ga": 203,
-          "gd": 49
+          "pct": 0.66667,
+          "stk": "L1",
+          "gf": 255,
+          "ga": 209,
+          "gd": 46
         },
         "rnk": {
-          "lg": 2,
+          "lg": 4,
           "cf": 2,
           "dv": 2,
           "wc": null
@@ -572,17 +572,17 @@
           }
         },
         "stats": {
-          "gp": 74,
-          "w": 37,
+          "gp": 75,
+          "w": 38,
           "l": 28,
           "t": 0,
           "otl": 9,
-          "pts": 83,
-          "pct": 0.56081,
-          "stk": "W3",
-          "gf": 258,
+          "pts": 85,
+          "pct": 0.56667,
+          "stk": "W4",
+          "gf": 261,
           "ga": 251,
-          "gd": 7
+          "gd": 10
         },
         "rnk": {
           "lg": 17,
@@ -733,13 +733,13 @@
       },
       {
         "team": {
-          "id": "SEA",
-          "city": "Seattle",
-          "nick": "Kraken",
-          "full": "Seattle Kraken",
+          "id": "WPG",
+          "city": "Winnipeg",
+          "nick": "Jets",
+          "full": "Winnipeg Jets",
           "div": {
-            "id": "div-pacific",
-            "name": "Pacific Division"
+            "id": "div-central",
+            "name": "Central Division"
           },
           "conf": {
             "id": "conf-western",
@@ -747,22 +747,22 @@
           }
         },
         "stats": {
-          "gp": 72,
+          "gp": 74,
           "w": 32,
-          "l": 29,
+          "l": 30,
           "t": 0,
-          "otl": 11,
-          "pts": 75,
-          "pct": 0.52083,
-          "stk": "OT1",
-          "gf": 206,
-          "ga": 224,
-          "gd": -18
+          "otl": 12,
+          "pts": 76,
+          "pct": 0.51351,
+          "stk": "W2",
+          "gf": 213,
+          "ga": 228,
+          "gd": -15
         },
         "rnk": {
           "lg": 24,
           "cf": 10,
-          "dv": 5,
+          "dv": 6,
           "wc": 4
         }
       },
@@ -797,19 +797,19 @@
         "rnk": {
           "lg": 25,
           "cf": 11,
-          "dv": 6,
+          "dv": 5,
           "wc": 5
         }
       },
       {
         "team": {
-          "id": "WPG",
-          "city": "Winnipeg",
-          "nick": "Jets",
-          "full": "Winnipeg Jets",
+          "id": "SEA",
+          "city": "Seattle",
+          "nick": "Kraken",
+          "full": "Seattle Kraken",
           "div": {
-            "id": "div-central",
-            "name": "Central Division"
+            "id": "div-pacific",
+            "name": "Pacific Division"
           },
           "conf": {
             "id": "conf-western",
@@ -818,16 +818,16 @@
         },
         "stats": {
           "gp": 73,
-          "w": 31,
+          "w": 32,
           "l": 30,
           "t": 0,
-          "otl": 12,
-          "pts": 74,
-          "pct": 0.50685,
-          "stk": "W1",
-          "gf": 209,
-          "ga": 225,
-          "gd": -16
+          "otl": 11,
+          "pts": 75,
+          "pct": 0.5137,
+          "stk": "L1",
+          "gf": 206,
+          "ga": 227,
+          "gd": -21
         },
         "rnk": {
           "lg": 26,
@@ -900,7 +900,7 @@
           "gd": -43
         },
         "rnk": {
-          "lg": 29,
+          "lg": 30,
           "cf": 14,
           "dv": 7,
           "wc": 8
@@ -922,17 +922,17 @@
           }
         },
         "stats": {
-          "gp": 74,
+          "gp": 75,
           "w": 27,
           "l": 34,
           "t": 0,
-          "otl": 13,
-          "pts": 67,
-          "pct": 0.4527,
-          "stk": "L3",
-          "gf": 192,
-          "ga": 244,
-          "gd": -52
+          "otl": 14,
+          "pts": 68,
+          "pct": 0.45333,
+          "stk": "OT1",
+          "gf": 195,
+          "ga": 248,
+          "gd": -53
         },
         "rnk": {
           "lg": 31,
