@@ -1,0 +1,43 @@
+name: MLB Daily Update
+
+on:
+  schedule:
+    - cron: '0 10 * * *'
+  workflow_dispatch:
+
+jobs:
+  write-file-job:
+    runs-on: ubuntu-latest # Run on a virtual machine provided by GitHub
+
+    steps:
+      - name: Check out repository code
+        uses: actions/checkout@v4 # Action to access your repository's files
+
+      - name: Set up Python
+        uses: actions/setup-python@v5 # Action to install Python environment
+        with:
+          python-version: '3.10' # Specify the Python version
+          cache: 'pip'
+      
+      - name: Install Dependencies
+        run: |
+          pip install -r requirements.txt
+          
+      - name: Run MLB Controller
+        run: |
+          python -u mlb-daily.py # Execute your Python script # The -u flag ensures unbuffered output, so print statements appear correctly
+      
+      - name: Check for changes
+        id: verify_diff
+        run: |
+          git diff --quiet . || echo "changed=true" >> $GITHUB_OUTPUT
+
+      - name: Commit and push the new file if changes detected
+        if: steps.verify_diff.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]" # Official bot user
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add * # Stage the specific file
+          git commit -m "Updated by daily MLB Workflow"
+          git push
+        # This will push the changes to the branch that triggered the workflow
