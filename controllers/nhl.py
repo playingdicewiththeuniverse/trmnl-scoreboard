@@ -34,15 +34,11 @@ def normalize_id( team_id ):
 
 
 def update_teams():
-  url = 'https://api-web.nhle.com/v1/standings/now'
-  response = json_request(url)
-  
-  if 'standings' not in response or response['standings'] == []:
-    return False
-
   teams_data      = {}
   group_standings = {}
 
+  response = json_request('https://api-web.nhle.com/v1/standings/now')
+  
   for team in response['standings']:
     team_id   = team['teamAbbrev']['default']
     divs_id   = f"div-{team['divisionName'].lower()}"
@@ -96,13 +92,13 @@ def update_teams():
 
 
 def update_games():
+  full_schedule = []
   teams_data = json_from_file(TEAMS_FILE_PATH)
 
   year = datetime.today().year + 1 if datetime.today().month > 9 else datetime.today().year
   url  = f'https://www.hockey-reference.com/leagues/NHL_{year}_games.html'
   soup = http_request(url)
   rows = soup.select('table#games tbody tr:not(.thead)')
-  full_schedule = []
 
   if len(rows) == 0:
     return False
@@ -167,7 +163,7 @@ def update_games():
         'stats': teams_data[game['home_id']]['stats']
       },
     })
-
+  
   for team_id in team_schedules:
     with open( GAME_FILE_PATH.format(team_id.lower()), 'w+') as f:
       json.dump(team_schedules[team_id], f, indent=2)

@@ -1,0 +1,4538 @@
+[
+  {
+    "game_id": "20260326-SD-DET-1",
+    "game_time_utc": "2026-03-26 20:10:00+00:00",
+    "game_date": "2026-03-26",
+    "final": "final",
+    "location": "Away",
+    "outcome": "win",
+    "score": [
+      8,
+      2
+    ],
+    "opponent": {
+      "id": "SD",
+      "name": "San Diego Padres",
+      "stats": {
+        "gp": 6,
+        "w": 2,
+        "l": 4,
+        "gb_div": "2.0",
+        "gb_wc": "1.0",
+        "pct": ".333",
+        "stk": "W1",
+        "rf": 19,
+        "ra": 26,
+        "rd": -7
+      }
+    }
+  },
+  {
+    "game_id": "20260327-SD-DET-1",
+    "game_time_utc": "2026-03-28 01:40:00+00:00",
+    "game_date": "2026-03-27",
+    "final": "final",
+    "location": "Away",
+    "outcome": "win",
+    "score": [
+      5,
+      2
+    ],
+    "opponent": {
+      "id": "SD",
+      "name": "San Diego Padres",
+      "stats": {
+        "gp": 6,
+        "w": 2,
+        "l": 4,
+        "gb_div": "2.0",
+        "gb_wc": "1.0",
+        "pct": ".333",
+        "stk": "W1",
+        "rf": 19,
+        "ra": 26,
+        "rd": -7
+      }
+    }
+  },
+  {
+    "game_id": "20260328-SD-DET-1",
+    "game_time_utc": "2026-03-29 00:40:00+00:00",
+    "game_date": "2026-03-28",
+    "final": "final",
+    "location": "Away",
+    "outcome": "loss",
+    "score": [
+      0,
+      3
+    ],
+    "opponent": {
+      "id": "SD",
+      "name": "San Diego Padres",
+      "stats": {
+        "gp": 6,
+        "w": 2,
+        "l": 4,
+        "gb_div": "2.0",
+        "gb_wc": "1.0",
+        "pct": ".333",
+        "stk": "W1",
+        "rf": 19,
+        "ra": 26,
+        "rd": -7
+      }
+    }
+  },
+  {
+    "game_id": "20260330-AZ-DET-1",
+    "game_time_utc": "2026-03-31 02:10:00+00:00",
+    "game_date": "2026-03-30",
+    "final": "final",
+    "location": "Away",
+    "outcome": "loss",
+    "score": [
+      6,
+      9
+    ],
+    "opponent": {
+      "id": "AZ",
+      "name": "Arizona Diamondbacks",
+      "stats": {
+        "gp": 6,
+        "w": 3,
+        "l": 3,
+        "gb_div": "1.0",
+        "gb_wc": "-",
+        "pct": ".500",
+        "stk": "W3",
+        "rf": 25,
+        "ra": 27,
+        "rd": -2
+      }
+    }
+  },
+  {
+    "game_id": "20260331-AZ-DET-1",
+    "game_time_utc": "2026-04-01 01:40:00+00:00",
+    "game_date": "2026-03-31",
+    "final": "final",
+    "location": "Away",
+    "outcome": "loss",
+    "score": [
+      5,
+      7
+    ],
+    "opponent": {
+      "id": "AZ",
+      "name": "Arizona Diamondbacks",
+      "stats": {
+        "gp": 6,
+        "w": 3,
+        "l": 3,
+        "gb_div": "1.0",
+        "gb_wc": "-",
+        "pct": ".500",
+        "stk": "W3",
+        "rf": 25,
+        "ra": 27,
+        "rd": -2
+      }
+    }
+  },
+  {
+    "game_id": "20260401-AZ-DET-1",
+    "game_time_utc": "2026-04-01 19:40:00+00:00",
+    "game_date": "2026-04-01",
+    "final": "final",
+    "location": "Away",
+    "outcome": "loss",
+    "score": [
+      0,
+      1
+    ],
+    "opponent": {
+      "id": "AZ",
+      "name": "Arizona Diamondbacks",
+      "stats": {
+        "gp": 6,
+        "w": 3,
+        "l": 3,
+        "gb_div": "1.0",
+        "gb_wc": "-",
+        "pct": ".500",
+        "stk": "W3",
+        "rf": 25,
+        "ra": 27,
+        "rd": -2
+      }
+    }
+  },
+  {
+    "game_id": "20260403-DET-STL-1",
+    "game_time_utc": "2026-04-03 17:10:00+00:00",
+    "game_date": "2026-04-03",
+    "final": "",
+    "outcome": "upcoming",
+    "location": "Home",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "STL",
+      "name": "St. Louis Cardinals",
+      "stats": {
+        "gp": 6,
+        "w": 4,
+        "l": 2,
+        "gb_div": "1.0",
+        "gb_wc": "+1.0",
+        "pct": ".667",
+        "stk": "W2",
+        "rf": 29,
+        "ra": 28,
+        "rd": 1
+      }
+    }
+  },
+  {
+    "game_id": "20260404-DET-STL-1",
+    "game_time_utc": "2026-04-04 17:10:00+00:00",
+    "game_date": "2026-04-04",
+    "final": "",
+    "outcome": "upcoming",
+    "location": "Home",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "STL",
+      "name": "St. Louis Cardinals",
+      "stats": {
+        "gp": 6,
+        "w": 4,
+        "l": 2,
+        "gb_div": "1.0",
+        "gb_wc": "+1.0",
+        "pct": ".667",
+        "stk": "W2",
+        "rf": 29,
+        "ra": 28,
+        "rd": 1
+      }
+    }
+  },
+  {
+    "game_id": "20260405-DET-STL-1",
+    "game_time_utc": "2026-04-05 23:20:00+00:00",
+    "game_date": "2026-04-05",
+    "final": "",
+    "outcome": "upcoming",
+    "location": "Home",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "STL",
+      "name": "St. Louis Cardinals",
+      "stats": {
+        "gp": 6,
+        "w": 4,
+        "l": 2,
+        "gb_div": "1.0",
+        "gb_wc": "+1.0",
+        "pct": ".667",
+        "stk": "W2",
+        "rf": 29,
+        "ra": 28,
+        "rd": 1
+      }
+    }
+  },
+  {
+    "game_id": "20260406-MIN-DET-1",
+    "game_time_utc": "2026-04-06 23:40:00+00:00",
+    "game_date": "2026-04-06",
+    "final": "",
+    "location": "Away",
+    "outcome": "upcoming",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "MIN",
+      "name": "Minnesota Twins",
+      "stats": {
+        "gp": 6,
+        "w": 2,
+        "l": 4,
+        "gb_div": "1.5",
+        "gb_wc": "1.0",
+        "pct": ".333",
+        "stk": "W1",
+        "rf": 26,
+        "ra": 28,
+        "rd": -2
+      }
+    }
+  },
+  {
+    "game_id": "20260407-MIN-DET-1",
+    "game_time_utc": "2026-04-07 23:40:00+00:00",
+    "game_date": "2026-04-07",
+    "final": "",
+    "location": "Away",
+    "outcome": "upcoming",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "MIN",
+      "name": "Minnesota Twins",
+      "stats": {
+        "gp": 6,
+        "w": 2,
+        "l": 4,
+        "gb_div": "1.5",
+        "gb_wc": "1.0",
+        "pct": ".333",
+        "stk": "W1",
+        "rf": 26,
+        "ra": 28,
+        "rd": -2
+      }
+    }
+  },
+  {
+    "game_id": "20260408-MIN-DET-1",
+    "game_time_utc": "2026-04-08 23:40:00+00:00",
+    "game_date": "2026-04-08",
+    "final": "",
+    "location": "Away",
+    "outcome": "upcoming",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "MIN",
+      "name": "Minnesota Twins",
+      "stats": {
+        "gp": 6,
+        "w": 2,
+        "l": 4,
+        "gb_div": "1.5",
+        "gb_wc": "1.0",
+        "pct": ".333",
+        "stk": "W1",
+        "rf": 26,
+        "ra": 28,
+        "rd": -2
+      }
+    }
+  },
+  {
+    "game_id": "20260409-MIN-DET-1",
+    "game_time_utc": "2026-04-09 17:40:00+00:00",
+    "game_date": "2026-04-09",
+    "final": "",
+    "location": "Away",
+    "outcome": "upcoming",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "MIN",
+      "name": "Minnesota Twins",
+      "stats": {
+        "gp": 6,
+        "w": 2,
+        "l": 4,
+        "gb_div": "1.5",
+        "gb_wc": "1.0",
+        "pct": ".333",
+        "stk": "W1",
+        "rf": 26,
+        "ra": 28,
+        "rd": -2
+      }
+    }
+  },
+  {
+    "game_id": "20260410-DET-MIA-1",
+    "game_time_utc": "2026-04-10 22:40:00+00:00",
+    "game_date": "2026-04-10",
+    "final": "",
+    "outcome": "upcoming",
+    "location": "Home",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "MIA",
+      "name": "Miami Marlins",
+      "stats": {
+        "gp": 6,
+        "w": 5,
+        "l": 1,
+        "gb_div": "-",
+        "gb_wc": "-",
+        "pct": ".833",
+        "stk": "W2",
+        "rf": 33,
+        "ra": 18,
+        "rd": 15
+      }
+    }
+  },
+  {
+    "game_id": "20260411-DET-MIA-1",
+    "game_time_utc": "2026-04-11 17:10:00+00:00",
+    "game_date": "2026-04-11",
+    "final": "",
+    "outcome": "upcoming",
+    "location": "Home",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "MIA",
+      "name": "Miami Marlins",
+      "stats": {
+        "gp": 6,
+        "w": 5,
+        "l": 1,
+        "gb_div": "-",
+        "gb_wc": "-",
+        "pct": ".833",
+        "stk": "W2",
+        "rf": 33,
+        "ra": 18,
+        "rd": 15
+      }
+    }
+  },
+  {
+    "game_id": "20260412-DET-MIA-1",
+    "game_time_utc": "2026-04-12 17:40:00+00:00",
+    "game_date": "2026-04-12",
+    "final": "",
+    "outcome": "upcoming",
+    "location": "Home",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "MIA",
+      "name": "Miami Marlins",
+      "stats": {
+        "gp": 6,
+        "w": 5,
+        "l": 1,
+        "gb_div": "-",
+        "gb_wc": "-",
+        "pct": ".833",
+        "stk": "W2",
+        "rf": 33,
+        "ra": 18,
+        "rd": 15
+      }
+    }
+  },
+  {
+    "game_id": "20260414-DET-KC-1",
+    "game_time_utc": "2026-04-14 22:40:00+00:00",
+    "game_date": "2026-04-14",
+    "final": "",
+    "outcome": "upcoming",
+    "location": "Home",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "KC",
+      "name": "Kansas City Royals",
+      "stats": {
+        "gp": 6,
+        "w": 3,
+        "l": 3,
+        "gb_div": "0.5",
+        "gb_wc": "-",
+        "pct": ".500",
+        "stk": "L1",
+        "rf": 23,
+        "ra": 28,
+        "rd": -5
+      }
+    }
+  },
+  {
+    "game_id": "20260415-DET-KC-1",
+    "game_time_utc": "2026-04-15 22:40:00+00:00",
+    "game_date": "2026-04-15",
+    "final": "",
+    "outcome": "upcoming",
+    "location": "Home",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "KC",
+      "name": "Kansas City Royals",
+      "stats": {
+        "gp": 6,
+        "w": 3,
+        "l": 3,
+        "gb_div": "0.5",
+        "gb_wc": "-",
+        "pct": ".500",
+        "stk": "L1",
+        "rf": 23,
+        "ra": 28,
+        "rd": -5
+      }
+    }
+  },
+  {
+    "game_id": "20260416-DET-KC-1",
+    "game_time_utc": "2026-04-16 17:10:00+00:00",
+    "game_date": "2026-04-16",
+    "final": "",
+    "outcome": "upcoming",
+    "location": "Home",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "KC",
+      "name": "Kansas City Royals",
+      "stats": {
+        "gp": 6,
+        "w": 3,
+        "l": 3,
+        "gb_div": "0.5",
+        "gb_wc": "-",
+        "pct": ".500",
+        "stk": "L1",
+        "rf": 23,
+        "ra": 28,
+        "rd": -5
+      }
+    }
+  },
+  {
+    "game_id": "20260417-BOS-DET-1",
+    "game_time_utc": "2026-04-17 23:15:00+00:00",
+    "game_date": "2026-04-17",
+    "final": "",
+    "location": "Away",
+    "outcome": "upcoming",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "BOS",
+      "name": "Boston Red Sox",
+      "stats": {
+        "gp": 6,
+        "w": 1,
+        "l": 5,
+        "gb_div": "4.0",
+        "gb_wc": "2.0",
+        "pct": ".167",
+        "stk": "L5",
+        "rf": 17,
+        "ra": 32,
+        "rd": -15
+      }
+    }
+  },
+  {
+    "game_id": "20260418-BOS-DET-1",
+    "game_time_utc": "2026-04-18 20:10:00+00:00",
+    "game_date": "2026-04-18",
+    "final": "",
+    "location": "Away",
+    "outcome": "upcoming",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "BOS",
+      "name": "Boston Red Sox",
+      "stats": {
+        "gp": 6,
+        "w": 1,
+        "l": 5,
+        "gb_div": "4.0",
+        "gb_wc": "2.0",
+        "pct": ".167",
+        "stk": "L5",
+        "rf": 17,
+        "ra": 32,
+        "rd": -15
+      }
+    }
+  },
+  {
+    "game_id": "20260419-BOS-DET-1",
+    "game_time_utc": "2026-04-19 17:35:00+00:00",
+    "game_date": "2026-04-19",
+    "final": "",
+    "location": "Away",
+    "outcome": "upcoming",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "BOS",
+      "name": "Boston Red Sox",
+      "stats": {
+        "gp": 6,
+        "w": 1,
+        "l": 5,
+        "gb_div": "4.0",
+        "gb_wc": "2.0",
+        "pct": ".167",
+        "stk": "L5",
+        "rf": 17,
+        "ra": 32,
+        "rd": -15
+      }
+    }
+  },
+  {
+    "game_id": "20260420-BOS-DET-1",
+    "game_time_utc": "2026-04-20 15:10:00+00:00",
+    "game_date": "2026-04-20",
+    "final": "",
+    "location": "Away",
+    "outcome": "upcoming",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "BOS",
+      "name": "Boston Red Sox",
+      "stats": {
+        "gp": 6,
+        "w": 1,
+        "l": 5,
+        "gb_div": "4.0",
+        "gb_wc": "2.0",
+        "pct": ".167",
+        "stk": "L5",
+        "rf": 17,
+        "ra": 32,
+        "rd": -15
+      }
+    }
+  },
+  {
+    "game_id": "20260421-DET-MIL-1",
+    "game_time_utc": "2026-04-21 22:40:00+00:00",
+    "game_date": "2026-04-21",
+    "final": "",
+    "outcome": "upcoming",
+    "location": "Home",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "MIL",
+      "name": "Milwaukee Brewers",
+      "stats": {
+        "gp": 6,
+        "w": 5,
+        "l": 1,
+        "gb_div": "-",
+        "gb_wc": "-",
+        "pct": ".833",
+        "stk": "W2",
+        "rf": 45,
+        "ra": 17,
+        "rd": 28
+      }
+    }
+  },
+  {
+    "game_id": "20260422-DET-MIL-1",
+    "game_time_utc": "2026-04-22 22:40:00+00:00",
+    "game_date": "2026-04-22",
+    "final": "",
+    "outcome": "upcoming",
+    "location": "Home",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "MIL",
+      "name": "Milwaukee Brewers",
+      "stats": {
+        "gp": 6,
+        "w": 5,
+        "l": 1,
+        "gb_div": "-",
+        "gb_wc": "-",
+        "pct": ".833",
+        "stk": "W2",
+        "rf": 45,
+        "ra": 17,
+        "rd": 28
+      }
+    }
+  },
+  {
+    "game_id": "20260423-DET-MIL-1",
+    "game_time_utc": "2026-04-23 17:10:00+00:00",
+    "game_date": "2026-04-23",
+    "final": "",
+    "outcome": "upcoming",
+    "location": "Home",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "MIL",
+      "name": "Milwaukee Brewers",
+      "stats": {
+        "gp": 6,
+        "w": 5,
+        "l": 1,
+        "gb_div": "-",
+        "gb_wc": "-",
+        "pct": ".833",
+        "stk": "W2",
+        "rf": 45,
+        "ra": 17,
+        "rd": 28
+      }
+    }
+  },
+  {
+    "game_id": "20260424-CIN-DET-1",
+    "game_time_utc": "2026-04-24 22:40:00+00:00",
+    "game_date": "2026-04-24",
+    "final": "",
+    "location": "Away",
+    "outcome": "upcoming",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "CIN",
+      "name": "Cincinnati Reds",
+      "stats": {
+        "gp": 6,
+        "w": 3,
+        "l": 3,
+        "gb_div": "2.0",
+        "gb_wc": "-",
+        "pct": ".500",
+        "stk": "L2",
+        "rf": 17,
+        "ra": 26,
+        "rd": -9
+      }
+    }
+  },
+  {
+    "game_id": "20260425-CIN-DET-1",
+    "game_time_utc": "2026-04-25 23:15:00+00:00",
+    "game_date": "2026-04-25",
+    "final": "",
+    "location": "Away",
+    "outcome": "upcoming",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "CIN",
+      "name": "Cincinnati Reds",
+      "stats": {
+        "gp": 6,
+        "w": 3,
+        "l": 3,
+        "gb_div": "2.0",
+        "gb_wc": "-",
+        "pct": ".500",
+        "stk": "L2",
+        "rf": 17,
+        "ra": 26,
+        "rd": -9
+      }
+    }
+  },
+  {
+    "game_id": "20260426-CIN-DET-1",
+    "game_time_utc": "2026-04-26 17:40:00+00:00",
+    "game_date": "2026-04-26",
+    "final": "",
+    "location": "Away",
+    "outcome": "upcoming",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "CIN",
+      "name": "Cincinnati Reds",
+      "stats": {
+        "gp": 6,
+        "w": 3,
+        "l": 3,
+        "gb_div": "2.0",
+        "gb_wc": "-",
+        "pct": ".500",
+        "stk": "L2",
+        "rf": 17,
+        "ra": 26,
+        "rd": -9
+      }
+    }
+  },
+  {
+    "game_id": "20260428-ATL-DET-1",
+    "game_time_utc": "2026-04-28 23:15:00+00:00",
+    "game_date": "2026-04-28",
+    "final": "",
+    "location": "Away",
+    "outcome": "upcoming",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "ATL",
+      "name": "Atlanta Braves",
+      "stats": {
+        "gp": 6,
+        "w": 4,
+        "l": 2,
+        "gb_div": "1.0",
+        "gb_wc": "+1.0",
+        "pct": ".667",
+        "stk": "W1",
+        "rf": 24,
+        "ra": 12,
+        "rd": 12
+      }
+    }
+  },
+  {
+    "game_id": "20260429-ATL-DET-1",
+    "game_time_utc": "2026-04-29 23:15:00+00:00",
+    "game_date": "2026-04-29",
+    "final": "",
+    "location": "Away",
+    "outcome": "upcoming",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "ATL",
+      "name": "Atlanta Braves",
+      "stats": {
+        "gp": 6,
+        "w": 4,
+        "l": 2,
+        "gb_div": "1.0",
+        "gb_wc": "+1.0",
+        "pct": ".667",
+        "stk": "W1",
+        "rf": 24,
+        "ra": 12,
+        "rd": 12
+      }
+    }
+  },
+  {
+    "game_id": "20260430-ATL-DET-1",
+    "game_time_utc": "2026-04-30 16:15:00+00:00",
+    "game_date": "2026-04-30",
+    "final": "",
+    "location": "Away",
+    "outcome": "upcoming",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "ATL",
+      "name": "Atlanta Braves",
+      "stats": {
+        "gp": 6,
+        "w": 4,
+        "l": 2,
+        "gb_div": "1.0",
+        "gb_wc": "+1.0",
+        "pct": ".667",
+        "stk": "W1",
+        "rf": 24,
+        "ra": 12,
+        "rd": 12
+      }
+    }
+  },
+  {
+    "game_id": "20260501-DET-TEX-1",
+    "game_time_utc": "2026-05-01 22:40:00+00:00",
+    "game_date": "2026-05-01",
+    "final": "",
+    "outcome": "upcoming",
+    "location": "Home",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "TEX",
+      "name": "Texas Rangers",
+      "stats": {
+        "gp": 6,
+        "w": 4,
+        "l": 2,
+        "gb_div": "0.5",
+        "gb_wc": "+1.0",
+        "pct": ".667",
+        "stk": "L1",
+        "rf": 32,
+        "ra": 27,
+        "rd": 5
+      }
+    }
+  },
+  {
+    "game_id": "20260502-DET-TEX-1",
+    "game_time_utc": "2026-05-02 23:15:00+00:00",
+    "game_date": "2026-05-02",
+    "final": "",
+    "outcome": "upcoming",
+    "location": "Home",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "TEX",
+      "name": "Texas Rangers",
+      "stats": {
+        "gp": 6,
+        "w": 4,
+        "l": 2,
+        "gb_div": "0.5",
+        "gb_wc": "+1.0",
+        "pct": ".667",
+        "stk": "L1",
+        "rf": 32,
+        "ra": 27,
+        "rd": 5
+      }
+    }
+  },
+  {
+    "game_id": "20260503-DET-TEX-1",
+    "game_time_utc": "2026-05-03 23:20:00+00:00",
+    "game_date": "2026-05-03",
+    "final": "",
+    "outcome": "upcoming",
+    "location": "Home",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "TEX",
+      "name": "Texas Rangers",
+      "stats": {
+        "gp": 6,
+        "w": 4,
+        "l": 2,
+        "gb_div": "0.5",
+        "gb_wc": "+1.0",
+        "pct": ".667",
+        "stk": "L1",
+        "rf": 32,
+        "ra": 27,
+        "rd": 5
+      }
+    }
+  },
+  {
+    "game_id": "20260504-DET-BOS-1",
+    "game_time_utc": "2026-05-04 22:40:00+00:00",
+    "game_date": "2026-05-04",
+    "final": "",
+    "outcome": "upcoming",
+    "location": "Home",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "BOS",
+      "name": "Boston Red Sox",
+      "stats": {
+        "gp": 6,
+        "w": 1,
+        "l": 5,
+        "gb_div": "4.0",
+        "gb_wc": "2.0",
+        "pct": ".167",
+        "stk": "L5",
+        "rf": 17,
+        "ra": 32,
+        "rd": -15
+      }
+    }
+  },
+  {
+    "game_id": "20260505-DET-BOS-1",
+    "game_time_utc": "2026-05-05 22:40:00+00:00",
+    "game_date": "2026-05-05",
+    "final": "",
+    "outcome": "upcoming",
+    "location": "Home",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "BOS",
+      "name": "Boston Red Sox",
+      "stats": {
+        "gp": 6,
+        "w": 1,
+        "l": 5,
+        "gb_div": "4.0",
+        "gb_wc": "2.0",
+        "pct": ".167",
+        "stk": "L5",
+        "rf": 17,
+        "ra": 32,
+        "rd": -15
+      }
+    }
+  },
+  {
+    "game_id": "20260506-DET-BOS-1",
+    "game_time_utc": "2026-05-06 22:40:00+00:00",
+    "game_date": "2026-05-06",
+    "final": "",
+    "outcome": "upcoming",
+    "location": "Home",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "BOS",
+      "name": "Boston Red Sox",
+      "stats": {
+        "gp": 6,
+        "w": 1,
+        "l": 5,
+        "gb_div": "4.0",
+        "gb_wc": "2.0",
+        "pct": ".167",
+        "stk": "L5",
+        "rf": 17,
+        "ra": 32,
+        "rd": -15
+      }
+    }
+  },
+  {
+    "game_id": "20260508-KC-DET-1",
+    "game_time_utc": "2026-05-08 23:40:00+00:00",
+    "game_date": "2026-05-08",
+    "final": "",
+    "location": "Away",
+    "outcome": "upcoming",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "KC",
+      "name": "Kansas City Royals",
+      "stats": {
+        "gp": 6,
+        "w": 3,
+        "l": 3,
+        "gb_div": "0.5",
+        "gb_wc": "-",
+        "pct": ".500",
+        "stk": "L1",
+        "rf": 23,
+        "ra": 28,
+        "rd": -5
+      }
+    }
+  },
+  {
+    "game_id": "20260509-KC-DET-1",
+    "game_time_utc": "2026-05-09 23:10:00+00:00",
+    "game_date": "2026-05-09",
+    "final": "",
+    "location": "Away",
+    "outcome": "upcoming",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "KC",
+      "name": "Kansas City Royals",
+      "stats": {
+        "gp": 6,
+        "w": 3,
+        "l": 3,
+        "gb_div": "0.5",
+        "gb_wc": "-",
+        "pct": ".500",
+        "stk": "L1",
+        "rf": 23,
+        "ra": 28,
+        "rd": -5
+      }
+    }
+  },
+  {
+    "game_id": "20260510-KC-DET-1",
+    "game_time_utc": "2026-05-10 23:20:00+00:00",
+    "game_date": "2026-05-10",
+    "final": "",
+    "location": "Away",
+    "outcome": "upcoming",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "KC",
+      "name": "Kansas City Royals",
+      "stats": {
+        "gp": 6,
+        "w": 3,
+        "l": 3,
+        "gb_div": "0.5",
+        "gb_wc": "-",
+        "pct": ".500",
+        "stk": "L1",
+        "rf": 23,
+        "ra": 28,
+        "rd": -5
+      }
+    }
+  },
+  {
+    "game_id": "20260512-NYM-DET-1",
+    "game_time_utc": "2026-05-12 23:10:00+00:00",
+    "game_date": "2026-05-12",
+    "final": "",
+    "location": "Away",
+    "outcome": "upcoming",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "NYM",
+      "name": "New York Mets",
+      "stats": {
+        "gp": 6,
+        "w": 3,
+        "l": 3,
+        "gb_div": "2.0",
+        "gb_wc": "-",
+        "pct": ".500",
+        "stk": "L2",
+        "rf": 23,
+        "ra": 20,
+        "rd": 3
+      }
+    }
+  },
+  {
+    "game_id": "20260513-NYM-DET-1",
+    "game_time_utc": "2026-05-13 23:10:00+00:00",
+    "game_date": "2026-05-13",
+    "final": "",
+    "location": "Away",
+    "outcome": "upcoming",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "NYM",
+      "name": "New York Mets",
+      "stats": {
+        "gp": 6,
+        "w": 3,
+        "l": 3,
+        "gb_div": "2.0",
+        "gb_wc": "-",
+        "pct": ".500",
+        "stk": "L2",
+        "rf": 23,
+        "ra": 20,
+        "rd": 3
+      }
+    }
+  },
+  {
+    "game_id": "20260514-NYM-DET-1",
+    "game_time_utc": "2026-05-14 17:10:00+00:00",
+    "game_date": "2026-05-14",
+    "final": "",
+    "location": "Away",
+    "outcome": "upcoming",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "NYM",
+      "name": "New York Mets",
+      "stats": {
+        "gp": 6,
+        "w": 3,
+        "l": 3,
+        "gb_div": "2.0",
+        "gb_wc": "-",
+        "pct": ".500",
+        "stk": "L2",
+        "rf": 23,
+        "ra": 20,
+        "rd": 3
+      }
+    }
+  },
+  {
+    "game_id": "20260515-DET-TOR-1",
+    "game_time_utc": "2026-05-15 22:45:00+00:00",
+    "game_date": "2026-05-15",
+    "final": "",
+    "outcome": "upcoming",
+    "location": "Home",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "TOR",
+      "name": "Toronto Blue Jays",
+      "stats": {
+        "gp": 6,
+        "w": 4,
+        "l": 2,
+        "gb_div": "1.0",
+        "gb_wc": "+1.0",
+        "pct": ".667",
+        "stk": "L1",
+        "rf": 27,
+        "ra": 28,
+        "rd": -1
+      }
+    }
+  },
+  {
+    "game_id": "20260516-DET-TOR-1",
+    "game_time_utc": "2026-05-16 17:10:00+00:00",
+    "game_date": "2026-05-16",
+    "final": "",
+    "outcome": "upcoming",
+    "location": "Home",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "TOR",
+      "name": "Toronto Blue Jays",
+      "stats": {
+        "gp": 6,
+        "w": 4,
+        "l": 2,
+        "gb_div": "1.0",
+        "gb_wc": "+1.0",
+        "pct": ".667",
+        "stk": "L1",
+        "rf": 27,
+        "ra": 28,
+        "rd": -1
+      }
+    }
+  },
+  {
+    "game_id": "20260517-DET-TOR-1",
+    "game_time_utc": "2026-05-17 17:40:00+00:00",
+    "game_date": "2026-05-17",
+    "final": "",
+    "outcome": "upcoming",
+    "location": "Home",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "TOR",
+      "name": "Toronto Blue Jays",
+      "stats": {
+        "gp": 6,
+        "w": 4,
+        "l": 2,
+        "gb_div": "1.0",
+        "gb_wc": "+1.0",
+        "pct": ".667",
+        "stk": "L1",
+        "rf": 27,
+        "ra": 28,
+        "rd": -1
+      }
+    }
+  },
+  {
+    "game_id": "20260518-DET-CLE-1",
+    "game_time_utc": "2026-05-18 22:40:00+00:00",
+    "game_date": "2026-05-18",
+    "final": "",
+    "outcome": "upcoming",
+    "location": "Home",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "CLE",
+      "name": "Cleveland Guardians",
+      "stats": {
+        "gp": 7,
+        "w": 4,
+        "l": 3,
+        "gb_div": "-",
+        "gb_wc": "-",
+        "pct": ".571",
+        "stk": "W1",
+        "rf": 22,
+        "ra": 29,
+        "rd": -7
+      }
+    }
+  },
+  {
+    "game_id": "20260519-DET-CLE-1",
+    "game_time_utc": "2026-05-19 22:40:00+00:00",
+    "game_date": "2026-05-19",
+    "final": "",
+    "outcome": "upcoming",
+    "location": "Home",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "CLE",
+      "name": "Cleveland Guardians",
+      "stats": {
+        "gp": 7,
+        "w": 4,
+        "l": 3,
+        "gb_div": "-",
+        "gb_wc": "-",
+        "pct": ".571",
+        "stk": "W1",
+        "rf": 22,
+        "ra": 29,
+        "rd": -7
+      }
+    }
+  },
+  {
+    "game_id": "20260520-DET-CLE-1",
+    "game_time_utc": "2026-05-20 22:40:00+00:00",
+    "game_date": "2026-05-20",
+    "final": "",
+    "outcome": "upcoming",
+    "location": "Home",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "CLE",
+      "name": "Cleveland Guardians",
+      "stats": {
+        "gp": 7,
+        "w": 4,
+        "l": 3,
+        "gb_div": "-",
+        "gb_wc": "-",
+        "pct": ".571",
+        "stk": "W1",
+        "rf": 22,
+        "ra": 29,
+        "rd": -7
+      }
+    }
+  },
+  {
+    "game_id": "20260521-DET-CLE-1",
+    "game_time_utc": "2026-05-21 17:10:00+00:00",
+    "game_date": "2026-05-21",
+    "final": "",
+    "outcome": "upcoming",
+    "location": "Home",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "CLE",
+      "name": "Cleveland Guardians",
+      "stats": {
+        "gp": 7,
+        "w": 4,
+        "l": 3,
+        "gb_div": "-",
+        "gb_wc": "-",
+        "pct": ".571",
+        "stk": "W1",
+        "rf": 22,
+        "ra": 29,
+        "rd": -7
+      }
+    }
+  },
+  {
+    "game_id": "20260522-BAL-DET-1",
+    "game_time_utc": "2026-05-22 23:15:00+00:00",
+    "game_date": "2026-05-22",
+    "final": "",
+    "location": "Away",
+    "outcome": "upcoming",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "BAL",
+      "name": "Baltimore Orioles",
+      "stats": {
+        "gp": 6,
+        "w": 3,
+        "l": 3,
+        "gb_div": "2.0",
+        "gb_wc": "-",
+        "pct": ".500",
+        "stk": "W1",
+        "rf": 26,
+        "ra": 27,
+        "rd": -1
+      }
+    }
+  },
+  {
+    "game_id": "20260523-BAL-DET-1",
+    "game_time_utc": "2026-05-23 20:05:00+00:00",
+    "game_date": "2026-05-23",
+    "final": "",
+    "location": "Away",
+    "outcome": "upcoming",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "BAL",
+      "name": "Baltimore Orioles",
+      "stats": {
+        "gp": 6,
+        "w": 3,
+        "l": 3,
+        "gb_div": "2.0",
+        "gb_wc": "-",
+        "pct": ".500",
+        "stk": "W1",
+        "rf": 26,
+        "ra": 27,
+        "rd": -1
+      }
+    }
+  },
+  {
+    "game_id": "20260524-BAL-DET-1",
+    "game_time_utc": "2026-05-24 17:35:00+00:00",
+    "game_date": "2026-05-24",
+    "final": "",
+    "location": "Away",
+    "outcome": "upcoming",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "BAL",
+      "name": "Baltimore Orioles",
+      "stats": {
+        "gp": 6,
+        "w": 3,
+        "l": 3,
+        "gb_div": "2.0",
+        "gb_wc": "-",
+        "pct": ".500",
+        "stk": "W1",
+        "rf": 26,
+        "ra": 27,
+        "rd": -1
+      }
+    }
+  },
+  {
+    "game_id": "20260526-DET-LAA-1",
+    "game_time_utc": "2026-05-26 22:40:00+00:00",
+    "game_date": "2026-05-26",
+    "final": "",
+    "outcome": "upcoming",
+    "location": "Home",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "LAA",
+      "name": "Los Angeles Angels",
+      "stats": {
+        "gp": 7,
+        "w": 3,
+        "l": 4,
+        "gb_div": "2.0",
+        "gb_wc": "0.5",
+        "pct": ".429",
+        "stk": "L1",
+        "rf": 31,
+        "ra": 35,
+        "rd": -4
+      }
+    }
+  },
+  {
+    "game_id": "20260527-DET-LAA-1",
+    "game_time_utc": "2026-05-27 22:40:00+00:00",
+    "game_date": "2026-05-27",
+    "final": "",
+    "outcome": "upcoming",
+    "location": "Home",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "LAA",
+      "name": "Los Angeles Angels",
+      "stats": {
+        "gp": 7,
+        "w": 3,
+        "l": 4,
+        "gb_div": "2.0",
+        "gb_wc": "0.5",
+        "pct": ".429",
+        "stk": "L1",
+        "rf": 31,
+        "ra": 35,
+        "rd": -4
+      }
+    }
+  },
+  {
+    "game_id": "20260528-DET-LAA-1",
+    "game_time_utc": "2026-05-28 17:10:00+00:00",
+    "game_date": "2026-05-28",
+    "final": "",
+    "outcome": "upcoming",
+    "location": "Home",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "LAA",
+      "name": "Los Angeles Angels",
+      "stats": {
+        "gp": 7,
+        "w": 3,
+        "l": 4,
+        "gb_div": "2.0",
+        "gb_wc": "0.5",
+        "pct": ".429",
+        "stk": "L1",
+        "rf": 31,
+        "ra": 35,
+        "rd": -4
+      }
+    }
+  },
+  {
+    "game_id": "20260529-CWS-DET-1",
+    "game_time_utc": "2026-05-29 23:40:00+00:00",
+    "game_date": "2026-05-29",
+    "final": "",
+    "location": "Away",
+    "outcome": "upcoming",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "CWS",
+      "name": "Chicago White Sox",
+      "stats": {
+        "gp": 6,
+        "w": 1,
+        "l": 5,
+        "gb_div": "2.5",
+        "gb_wc": "2.0",
+        "pct": ".167",
+        "stk": "L2",
+        "rf": 21,
+        "ra": 52,
+        "rd": -31
+      }
+    }
+  },
+  {
+    "game_id": "20260530-CWS-DET-1",
+    "game_time_utc": "2026-05-30 18:10:00+00:00",
+    "game_date": "2026-05-30",
+    "final": "",
+    "location": "Away",
+    "outcome": "upcoming",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "CWS",
+      "name": "Chicago White Sox",
+      "stats": {
+        "gp": 6,
+        "w": 1,
+        "l": 5,
+        "gb_div": "2.5",
+        "gb_wc": "2.0",
+        "pct": ".167",
+        "stk": "L2",
+        "rf": 21,
+        "ra": 52,
+        "rd": -31
+      }
+    }
+  },
+  {
+    "game_id": "20260531-CWS-DET-1",
+    "game_time_utc": "2026-05-31 18:10:00+00:00",
+    "game_date": "2026-05-31",
+    "final": "",
+    "location": "Away",
+    "outcome": "upcoming",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "CWS",
+      "name": "Chicago White Sox",
+      "stats": {
+        "gp": 6,
+        "w": 1,
+        "l": 5,
+        "gb_div": "2.5",
+        "gb_wc": "2.0",
+        "pct": ".167",
+        "stk": "L2",
+        "rf": 21,
+        "ra": 52,
+        "rd": -31
+      }
+    }
+  },
+  {
+    "game_id": "20260601-TB-DET-1",
+    "game_time_utc": "2026-06-01 22:40:00+00:00",
+    "game_date": "2026-06-01",
+    "final": "",
+    "location": "Away",
+    "outcome": "upcoming",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "TB",
+      "name": "Tampa Bay Rays",
+      "stats": {
+        "gp": 6,
+        "w": 2,
+        "l": 4,
+        "gb_div": "3.0",
+        "gb_wc": "1.0",
+        "pct": ".333",
+        "stk": "L2",
+        "rf": 30,
+        "ra": 38,
+        "rd": -8
+      }
+    }
+  },
+  {
+    "game_id": "20260602-TB-DET-1",
+    "game_time_utc": "2026-06-02 22:40:00+00:00",
+    "game_date": "2026-06-02",
+    "final": "",
+    "location": "Away",
+    "outcome": "upcoming",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "TB",
+      "name": "Tampa Bay Rays",
+      "stats": {
+        "gp": 6,
+        "w": 2,
+        "l": 4,
+        "gb_div": "3.0",
+        "gb_wc": "1.0",
+        "pct": ".333",
+        "stk": "L2",
+        "rf": 30,
+        "ra": 38,
+        "rd": -8
+      }
+    }
+  },
+  {
+    "game_id": "20260603-TB-DET-1",
+    "game_time_utc": "2026-06-03 17:10:00+00:00",
+    "game_date": "2026-06-03",
+    "final": "",
+    "location": "Away",
+    "outcome": "upcoming",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "TB",
+      "name": "Tampa Bay Rays",
+      "stats": {
+        "gp": 6,
+        "w": 2,
+        "l": 4,
+        "gb_div": "3.0",
+        "gb_wc": "1.0",
+        "pct": ".333",
+        "stk": "L2",
+        "rf": 30,
+        "ra": 38,
+        "rd": -8
+      }
+    }
+  },
+  {
+    "game_id": "20260605-DET-SEA-1",
+    "game_time_utc": "2026-06-05 22:40:00+00:00",
+    "game_date": "2026-06-05",
+    "final": "",
+    "outcome": "upcoming",
+    "location": "Home",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "SEA",
+      "name": "Seattle Mariners",
+      "stats": {
+        "gp": 7,
+        "w": 3,
+        "l": 4,
+        "gb_div": "2.0",
+        "gb_wc": "0.5",
+        "pct": ".429",
+        "stk": "L2",
+        "rf": 27,
+        "ra": 24,
+        "rd": 3
+      }
+    }
+  },
+  {
+    "game_id": "20260606-DET-SEA-1",
+    "game_time_utc": "2026-06-06 17:10:00+00:00",
+    "game_date": "2026-06-06",
+    "final": "",
+    "outcome": "upcoming",
+    "location": "Home",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "SEA",
+      "name": "Seattle Mariners",
+      "stats": {
+        "gp": 7,
+        "w": 3,
+        "l": 4,
+        "gb_div": "2.0",
+        "gb_wc": "0.5",
+        "pct": ".429",
+        "stk": "L2",
+        "rf": 27,
+        "ra": 24,
+        "rd": 3
+      }
+    }
+  },
+  {
+    "game_id": "20260607-DET-SEA-1",
+    "game_time_utc": "2026-06-07 17:40:00+00:00",
+    "game_date": "2026-06-07",
+    "final": "",
+    "outcome": "upcoming",
+    "location": "Home",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "SEA",
+      "name": "Seattle Mariners",
+      "stats": {
+        "gp": 7,
+        "w": 3,
+        "l": 4,
+        "gb_div": "2.0",
+        "gb_wc": "0.5",
+        "pct": ".429",
+        "stk": "L2",
+        "rf": 27,
+        "ra": 24,
+        "rd": 3
+      }
+    }
+  },
+  {
+    "game_id": "20260609-DET-MIN-1",
+    "game_time_utc": "2026-06-09 22:40:00+00:00",
+    "game_date": "2026-06-09",
+    "final": "",
+    "outcome": "upcoming",
+    "location": "Home",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "MIN",
+      "name": "Minnesota Twins",
+      "stats": {
+        "gp": 6,
+        "w": 2,
+        "l": 4,
+        "gb_div": "1.5",
+        "gb_wc": "1.0",
+        "pct": ".333",
+        "stk": "W1",
+        "rf": 26,
+        "ra": 28,
+        "rd": -2
+      }
+    }
+  },
+  {
+    "game_id": "20260610-DET-MIN-1",
+    "game_time_utc": "2026-06-10 22:40:00+00:00",
+    "game_date": "2026-06-10",
+    "final": "",
+    "outcome": "upcoming",
+    "location": "Home",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "MIN",
+      "name": "Minnesota Twins",
+      "stats": {
+        "gp": 6,
+        "w": 2,
+        "l": 4,
+        "gb_div": "1.5",
+        "gb_wc": "1.0",
+        "pct": ".333",
+        "stk": "W1",
+        "rf": 26,
+        "ra": 28,
+        "rd": -2
+      }
+    }
+  },
+  {
+    "game_id": "20260611-DET-MIN-1",
+    "game_time_utc": "2026-06-11 17:10:00+00:00",
+    "game_date": "2026-06-11",
+    "final": "",
+    "outcome": "upcoming",
+    "location": "Home",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "MIN",
+      "name": "Minnesota Twins",
+      "stats": {
+        "gp": 6,
+        "w": 2,
+        "l": 4,
+        "gb_div": "1.5",
+        "gb_wc": "1.0",
+        "pct": ".333",
+        "stk": "W1",
+        "rf": 26,
+        "ra": 28,
+        "rd": -2
+      }
+    }
+  },
+  {
+    "game_id": "20260612-CLE-DET-1",
+    "game_time_utc": "2026-06-12 23:10:00+00:00",
+    "game_date": "2026-06-12",
+    "final": "",
+    "location": "Away",
+    "outcome": "upcoming",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "CLE",
+      "name": "Cleveland Guardians",
+      "stats": {
+        "gp": 7,
+        "w": 4,
+        "l": 3,
+        "gb_div": "-",
+        "gb_wc": "-",
+        "pct": ".571",
+        "stk": "W1",
+        "rf": 22,
+        "ra": 29,
+        "rd": -7
+      }
+    }
+  },
+  {
+    "game_id": "20260613-CLE-DET-1",
+    "game_time_utc": "2026-06-13 20:10:00+00:00",
+    "game_date": "2026-06-13",
+    "final": "",
+    "location": "Away",
+    "outcome": "upcoming",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "CLE",
+      "name": "Cleveland Guardians",
+      "stats": {
+        "gp": 7,
+        "w": 4,
+        "l": 3,
+        "gb_div": "-",
+        "gb_wc": "-",
+        "pct": ".571",
+        "stk": "W1",
+        "rf": 22,
+        "ra": 29,
+        "rd": -7
+      }
+    }
+  },
+  {
+    "game_id": "20260614-CLE-DET-1",
+    "game_time_utc": "2026-06-14 17:40:00+00:00",
+    "game_date": "2026-06-14",
+    "final": "",
+    "location": "Away",
+    "outcome": "upcoming",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "CLE",
+      "name": "Cleveland Guardians",
+      "stats": {
+        "gp": 7,
+        "w": 4,
+        "l": 3,
+        "gb_div": "-",
+        "gb_wc": "-",
+        "pct": ".571",
+        "stk": "W1",
+        "rf": 22,
+        "ra": 29,
+        "rd": -7
+      }
+    }
+  },
+  {
+    "game_id": "20260615-HOU-DET-1",
+    "game_time_utc": "2026-06-16 00:10:00+00:00",
+    "game_date": "2026-06-15",
+    "final": "",
+    "location": "Away",
+    "outcome": "upcoming",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "HOU",
+      "name": "Houston Astros",
+      "stats": {
+        "gp": 7,
+        "w": 5,
+        "l": 2,
+        "gb_div": "-",
+        "gb_wc": "-",
+        "pct": ".714",
+        "stk": "W5",
+        "rf": 45,
+        "ra": 32,
+        "rd": 13
+      }
+    }
+  },
+  {
+    "game_id": "20260616-HOU-DET-1",
+    "game_time_utc": "2026-06-17 00:10:00+00:00",
+    "game_date": "2026-06-16",
+    "final": "",
+    "location": "Away",
+    "outcome": "upcoming",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "HOU",
+      "name": "Houston Astros",
+      "stats": {
+        "gp": 7,
+        "w": 5,
+        "l": 2,
+        "gb_div": "-",
+        "gb_wc": "-",
+        "pct": ".714",
+        "stk": "W5",
+        "rf": 45,
+        "ra": 32,
+        "rd": 13
+      }
+    }
+  },
+  {
+    "game_id": "20260617-HOU-DET-1",
+    "game_time_utc": "2026-06-17 18:10:00+00:00",
+    "game_date": "2026-06-17",
+    "final": "",
+    "location": "Away",
+    "outcome": "upcoming",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "HOU",
+      "name": "Houston Astros",
+      "stats": {
+        "gp": 7,
+        "w": 5,
+        "l": 2,
+        "gb_div": "-",
+        "gb_wc": "-",
+        "pct": ".714",
+        "stk": "W5",
+        "rf": 45,
+        "ra": 32,
+        "rd": 13
+      }
+    }
+  },
+  {
+    "game_id": "20260619-DET-CWS-1",
+    "game_time_utc": "2026-06-19 22:40:00+00:00",
+    "game_date": "2026-06-19",
+    "final": "",
+    "outcome": "upcoming",
+    "location": "Home",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "CWS",
+      "name": "Chicago White Sox",
+      "stats": {
+        "gp": 6,
+        "w": 1,
+        "l": 5,
+        "gb_div": "2.5",
+        "gb_wc": "2.0",
+        "pct": ".167",
+        "stk": "L2",
+        "rf": 21,
+        "ra": 52,
+        "rd": -31
+      }
+    }
+  },
+  {
+    "game_id": "20260620-DET-CWS-1",
+    "game_time_utc": "2026-06-20 17:10:00+00:00",
+    "game_date": "2026-06-20",
+    "final": "",
+    "outcome": "upcoming",
+    "location": "Home",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "CWS",
+      "name": "Chicago White Sox",
+      "stats": {
+        "gp": 6,
+        "w": 1,
+        "l": 5,
+        "gb_div": "2.5",
+        "gb_wc": "2.0",
+        "pct": ".167",
+        "stk": "L2",
+        "rf": 21,
+        "ra": 52,
+        "rd": -31
+      }
+    }
+  },
+  {
+    "game_id": "20260621-DET-CWS-1",
+    "game_time_utc": "2026-06-21 17:40:00+00:00",
+    "game_date": "2026-06-21",
+    "final": "",
+    "outcome": "upcoming",
+    "location": "Home",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "CWS",
+      "name": "Chicago White Sox",
+      "stats": {
+        "gp": 6,
+        "w": 1,
+        "l": 5,
+        "gb_div": "2.5",
+        "gb_wc": "2.0",
+        "pct": ".167",
+        "stk": "L2",
+        "rf": 21,
+        "ra": 52,
+        "rd": -31
+      }
+    }
+  },
+  {
+    "game_id": "20260622-DET-NYY-1",
+    "game_time_utc": "2026-06-22 22:40:00+00:00",
+    "game_date": "2026-06-22",
+    "final": "",
+    "outcome": "upcoming",
+    "location": "Home",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "NYY",
+      "name": "New York Yankees",
+      "stats": {
+        "gp": 6,
+        "w": 5,
+        "l": 1,
+        "gb_div": "-",
+        "gb_wc": "-",
+        "pct": ".833",
+        "stk": "W2",
+        "rf": 24,
+        "ra": 6,
+        "rd": 18
+      }
+    }
+  },
+  {
+    "game_id": "20260623-DET-NYY-1",
+    "game_time_utc": "2026-06-23 22:40:00+00:00",
+    "game_date": "2026-06-23",
+    "final": "",
+    "outcome": "upcoming",
+    "location": "Home",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "NYY",
+      "name": "New York Yankees",
+      "stats": {
+        "gp": 6,
+        "w": 5,
+        "l": 1,
+        "gb_div": "-",
+        "gb_wc": "-",
+        "pct": ".833",
+        "stk": "W2",
+        "rf": 24,
+        "ra": 6,
+        "rd": 18
+      }
+    }
+  },
+  {
+    "game_id": "20260624-DET-NYY-1",
+    "game_time_utc": "2026-06-24 22:40:00+00:00",
+    "game_date": "2026-06-24",
+    "final": "",
+    "outcome": "upcoming",
+    "location": "Home",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "NYY",
+      "name": "New York Yankees",
+      "stats": {
+        "gp": 6,
+        "w": 5,
+        "l": 1,
+        "gb_div": "-",
+        "gb_wc": "-",
+        "pct": ".833",
+        "stk": "W2",
+        "rf": 24,
+        "ra": 6,
+        "rd": 18
+      }
+    }
+  },
+  {
+    "game_id": "20260625-DET-HOU-1",
+    "game_time_utc": "2026-06-25 22:40:00+00:00",
+    "game_date": "2026-06-25",
+    "final": "",
+    "outcome": "upcoming",
+    "location": "Home",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "HOU",
+      "name": "Houston Astros",
+      "stats": {
+        "gp": 7,
+        "w": 5,
+        "l": 2,
+        "gb_div": "-",
+        "gb_wc": "-",
+        "pct": ".714",
+        "stk": "W5",
+        "rf": 45,
+        "ra": 32,
+        "rd": 13
+      }
+    }
+  },
+  {
+    "game_id": "20260626-DET-HOU-1",
+    "game_time_utc": "2026-06-26 22:40:00+00:00",
+    "game_date": "2026-06-26",
+    "final": "",
+    "outcome": "upcoming",
+    "location": "Home",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "HOU",
+      "name": "Houston Astros",
+      "stats": {
+        "gp": 7,
+        "w": 5,
+        "l": 2,
+        "gb_div": "-",
+        "gb_wc": "-",
+        "pct": ".714",
+        "stk": "W5",
+        "rf": 45,
+        "ra": 32,
+        "rd": 13
+      }
+    }
+  },
+  {
+    "game_id": "20260627-DET-HOU-1",
+    "game_time_utc": "2026-06-27 17:10:00+00:00",
+    "game_date": "2026-06-27",
+    "final": "",
+    "outcome": "upcoming",
+    "location": "Home",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "HOU",
+      "name": "Houston Astros",
+      "stats": {
+        "gp": 7,
+        "w": 5,
+        "l": 2,
+        "gb_div": "-",
+        "gb_wc": "-",
+        "pct": ".714",
+        "stk": "W5",
+        "rf": 45,
+        "ra": 32,
+        "rd": 13
+      }
+    }
+  },
+  {
+    "game_id": "20260628-DET-HOU-1",
+    "game_time_utc": "2026-06-28 17:40:00+00:00",
+    "game_date": "2026-06-28",
+    "final": "",
+    "outcome": "upcoming",
+    "location": "Home",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "HOU",
+      "name": "Houston Astros",
+      "stats": {
+        "gp": 7,
+        "w": 5,
+        "l": 2,
+        "gb_div": "-",
+        "gb_wc": "-",
+        "pct": ".714",
+        "stk": "W5",
+        "rf": 45,
+        "ra": 32,
+        "rd": 13
+      }
+    }
+  },
+  {
+    "game_id": "20260629-NYY-DET-1",
+    "game_time_utc": "2026-06-29 23:05:00+00:00",
+    "game_date": "2026-06-29",
+    "final": "",
+    "location": "Away",
+    "outcome": "upcoming",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "NYY",
+      "name": "New York Yankees",
+      "stats": {
+        "gp": 6,
+        "w": 5,
+        "l": 1,
+        "gb_div": "-",
+        "gb_wc": "-",
+        "pct": ".833",
+        "stk": "W2",
+        "rf": 24,
+        "ra": 6,
+        "rd": 18
+      }
+    }
+  },
+  {
+    "game_id": "20260630-NYY-DET-1",
+    "game_time_utc": "2026-06-30 23:05:00+00:00",
+    "game_date": "2026-06-30",
+    "final": "",
+    "location": "Away",
+    "outcome": "upcoming",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "NYY",
+      "name": "New York Yankees",
+      "stats": {
+        "gp": 6,
+        "w": 5,
+        "l": 1,
+        "gb_div": "-",
+        "gb_wc": "-",
+        "pct": ".833",
+        "stk": "W2",
+        "rf": 24,
+        "ra": 6,
+        "rd": 18
+      }
+    }
+  },
+  {
+    "game_id": "20260701-NYY-DET-1",
+    "game_time_utc": "2026-07-01 17:35:00+00:00",
+    "game_date": "2026-07-01",
+    "final": "",
+    "location": "Away",
+    "outcome": "upcoming",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "NYY",
+      "name": "New York Yankees",
+      "stats": {
+        "gp": 6,
+        "w": 5,
+        "l": 1,
+        "gb_div": "-",
+        "gb_wc": "-",
+        "pct": ".833",
+        "stk": "W2",
+        "rf": 24,
+        "ra": 6,
+        "rd": 18
+      }
+    }
+  },
+  {
+    "game_id": "20260702-TEX-DET-1",
+    "game_time_utc": "2026-07-03 00:05:00+00:00",
+    "game_date": "2026-07-02",
+    "final": "",
+    "location": "Away",
+    "outcome": "upcoming",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "TEX",
+      "name": "Texas Rangers",
+      "stats": {
+        "gp": 6,
+        "w": 4,
+        "l": 2,
+        "gb_div": "0.5",
+        "gb_wc": "+1.0",
+        "pct": ".667",
+        "stk": "L1",
+        "rf": 32,
+        "ra": 27,
+        "rd": 5
+      }
+    }
+  },
+  {
+    "game_id": "20260704-TEX-DET-1",
+    "game_time_utc": "2026-07-04 20:05:00+00:00",
+    "game_date": "2026-07-04",
+    "final": "",
+    "location": "Away",
+    "outcome": "upcoming",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "TEX",
+      "name": "Texas Rangers",
+      "stats": {
+        "gp": 6,
+        "w": 4,
+        "l": 2,
+        "gb_div": "0.5",
+        "gb_wc": "+1.0",
+        "pct": ".667",
+        "stk": "L1",
+        "rf": 32,
+        "ra": 27,
+        "rd": 5
+      }
+    }
+  },
+  {
+    "game_id": "20260705-TEX-DET-1",
+    "game_time_utc": "2026-07-05 19:30:00+00:00",
+    "game_date": "2026-07-05",
+    "final": "",
+    "location": "Away",
+    "outcome": "upcoming",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "TEX",
+      "name": "Texas Rangers",
+      "stats": {
+        "gp": 6,
+        "w": 4,
+        "l": 2,
+        "gb_div": "0.5",
+        "gb_wc": "+1.0",
+        "pct": ".667",
+        "stk": "L1",
+        "rf": 32,
+        "ra": 27,
+        "rd": 5
+      }
+    }
+  },
+  {
+    "game_id": "20260707-DET-ATH-1",
+    "game_time_utc": "2026-07-07 22:40:00+00:00",
+    "game_date": "2026-07-07",
+    "final": "",
+    "outcome": "upcoming",
+    "location": "Home",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "ATH",
+      "name": "Athletics",
+      "stats": {
+        "gp": 6,
+        "w": 1,
+        "l": 5,
+        "gb_div": "3.5",
+        "gb_wc": "2.0",
+        "pct": ".167",
+        "stk": "L1",
+        "rf": 17,
+        "ra": 27,
+        "rd": -10
+      }
+    }
+  },
+  {
+    "game_id": "20260708-DET-ATH-1",
+    "game_time_utc": "2026-07-08 22:40:00+00:00",
+    "game_date": "2026-07-08",
+    "final": "",
+    "outcome": "upcoming",
+    "location": "Home",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "ATH",
+      "name": "Athletics",
+      "stats": {
+        "gp": 6,
+        "w": 1,
+        "l": 5,
+        "gb_div": "3.5",
+        "gb_wc": "2.0",
+        "pct": ".167",
+        "stk": "L1",
+        "rf": 17,
+        "ra": 27,
+        "rd": -10
+      }
+    }
+  },
+  {
+    "game_id": "20260709-DET-ATH-1",
+    "game_time_utc": "2026-07-09 22:40:00+00:00",
+    "game_date": "2026-07-09",
+    "final": "",
+    "outcome": "upcoming",
+    "location": "Home",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "ATH",
+      "name": "Athletics",
+      "stats": {
+        "gp": 6,
+        "w": 1,
+        "l": 5,
+        "gb_div": "3.5",
+        "gb_wc": "2.0",
+        "pct": ".167",
+        "stk": "L1",
+        "rf": 17,
+        "ra": 27,
+        "rd": -10
+      }
+    }
+  },
+  {
+    "game_id": "20260710-DET-PHI-1",
+    "game_time_utc": "2026-07-10 22:40:00+00:00",
+    "game_date": "2026-07-10",
+    "final": "",
+    "outcome": "upcoming",
+    "location": "Home",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "PHI",
+      "name": "Philadelphia Phillies",
+      "stats": {
+        "gp": 6,
+        "w": 3,
+        "l": 3,
+        "gb_div": "2.0",
+        "gb_wc": "-",
+        "pct": ".500",
+        "stk": "W2",
+        "rf": 23,
+        "ra": 36,
+        "rd": -13
+      }
+    }
+  },
+  {
+    "game_id": "20260711-DET-PHI-1",
+    "game_time_utc": "2026-07-11 22:10:00+00:00",
+    "game_date": "2026-07-11",
+    "final": "",
+    "outcome": "upcoming",
+    "location": "Home",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "PHI",
+      "name": "Philadelphia Phillies",
+      "stats": {
+        "gp": 6,
+        "w": 3,
+        "l": 3,
+        "gb_div": "2.0",
+        "gb_wc": "-",
+        "pct": ".500",
+        "stk": "W2",
+        "rf": 23,
+        "ra": 36,
+        "rd": -13
+      }
+    }
+  },
+  {
+    "game_id": "20260712-DET-PHI-1",
+    "game_time_utc": "2026-07-12 17:40:00+00:00",
+    "game_date": "2026-07-12",
+    "final": "",
+    "outcome": "upcoming",
+    "location": "Home",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "PHI",
+      "name": "Philadelphia Phillies",
+      "stats": {
+        "gp": 6,
+        "w": 3,
+        "l": 3,
+        "gb_div": "2.0",
+        "gb_wc": "-",
+        "pct": ".500",
+        "stk": "W2",
+        "rf": 23,
+        "ra": 36,
+        "rd": -13
+      }
+    }
+  },
+  {
+    "game_id": "20260717-LAA-DET-1",
+    "game_time_utc": "2026-07-18 01:38:00+00:00",
+    "game_date": "2026-07-17",
+    "final": "",
+    "location": "Away",
+    "outcome": "upcoming",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "LAA",
+      "name": "Los Angeles Angels",
+      "stats": {
+        "gp": 7,
+        "w": 3,
+        "l": 4,
+        "gb_div": "2.0",
+        "gb_wc": "0.5",
+        "pct": ".429",
+        "stk": "L1",
+        "rf": 31,
+        "ra": 35,
+        "rd": -4
+      }
+    }
+  },
+  {
+    "game_id": "20260718-LAA-DET-1",
+    "game_time_utc": "2026-07-19 02:07:00+00:00",
+    "game_date": "2026-07-18",
+    "final": "",
+    "location": "Away",
+    "outcome": "upcoming",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "LAA",
+      "name": "Los Angeles Angels",
+      "stats": {
+        "gp": 7,
+        "w": 3,
+        "l": 4,
+        "gb_div": "2.0",
+        "gb_wc": "0.5",
+        "pct": ".429",
+        "stk": "L1",
+        "rf": 31,
+        "ra": 35,
+        "rd": -4
+      }
+    }
+  },
+  {
+    "game_id": "20260719-LAA-DET-1",
+    "game_time_utc": "2026-07-19 20:07:00+00:00",
+    "game_date": "2026-07-19",
+    "final": "",
+    "location": "Away",
+    "outcome": "upcoming",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "LAA",
+      "name": "Los Angeles Angels",
+      "stats": {
+        "gp": 7,
+        "w": 3,
+        "l": 4,
+        "gb_div": "2.0",
+        "gb_wc": "0.5",
+        "pct": ".429",
+        "stk": "L1",
+        "rf": 31,
+        "ra": 35,
+        "rd": -4
+      }
+    }
+  },
+  {
+    "game_id": "20260720-CHC-DET-1",
+    "game_time_utc": "2026-07-21 00:05:00+00:00",
+    "game_date": "2026-07-20",
+    "final": "",
+    "location": "Away",
+    "outcome": "upcoming",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "CHC",
+      "name": "Chicago Cubs",
+      "stats": {
+        "gp": 6,
+        "w": 3,
+        "l": 3,
+        "gb_div": "2.0",
+        "gb_wc": "-",
+        "pct": ".500",
+        "stk": "W1",
+        "rf": 30,
+        "ra": 24,
+        "rd": 6
+      }
+    }
+  },
+  {
+    "game_id": "20260721-CHC-DET-1",
+    "game_time_utc": "2026-07-22 00:05:00+00:00",
+    "game_date": "2026-07-21",
+    "final": "",
+    "location": "Away",
+    "outcome": "upcoming",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "CHC",
+      "name": "Chicago Cubs",
+      "stats": {
+        "gp": 6,
+        "w": 3,
+        "l": 3,
+        "gb_div": "2.0",
+        "gb_wc": "-",
+        "pct": ".500",
+        "stk": "W1",
+        "rf": 30,
+        "ra": 24,
+        "rd": 6
+      }
+    }
+  },
+  {
+    "game_id": "20260722-CHC-DET-1",
+    "game_time_utc": "2026-07-23 00:05:00+00:00",
+    "game_date": "2026-07-22",
+    "final": "",
+    "location": "Away",
+    "outcome": "upcoming",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "CHC",
+      "name": "Chicago Cubs",
+      "stats": {
+        "gp": 6,
+        "w": 3,
+        "l": 3,
+        "gb_div": "2.0",
+        "gb_wc": "-",
+        "pct": ".500",
+        "stk": "W1",
+        "rf": 30,
+        "ra": 24,
+        "rd": 6
+      }
+    }
+  },
+  {
+    "game_id": "20260723-DET-KC-1",
+    "game_time_utc": "2026-07-23 22:40:00+00:00",
+    "game_date": "2026-07-23",
+    "final": "",
+    "outcome": "upcoming",
+    "location": "Home",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "KC",
+      "name": "Kansas City Royals",
+      "stats": {
+        "gp": 6,
+        "w": 3,
+        "l": 3,
+        "gb_div": "0.5",
+        "gb_wc": "-",
+        "pct": ".500",
+        "stk": "L1",
+        "rf": 23,
+        "ra": 28,
+        "rd": -5
+      }
+    }
+  },
+  {
+    "game_id": "20260724-DET-KC-1",
+    "game_time_utc": "2026-07-24 22:40:00+00:00",
+    "game_date": "2026-07-24",
+    "final": "",
+    "outcome": "upcoming",
+    "location": "Home",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "KC",
+      "name": "Kansas City Royals",
+      "stats": {
+        "gp": 6,
+        "w": 3,
+        "l": 3,
+        "gb_div": "0.5",
+        "gb_wc": "-",
+        "pct": ".500",
+        "stk": "L1",
+        "rf": 23,
+        "ra": 28,
+        "rd": -5
+      }
+    }
+  },
+  {
+    "game_id": "20260725-DET-KC-1",
+    "game_time_utc": "2026-07-25 17:10:00+00:00",
+    "game_date": "2026-07-25",
+    "final": "",
+    "outcome": "upcoming",
+    "location": "Home",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "KC",
+      "name": "Kansas City Royals",
+      "stats": {
+        "gp": 6,
+        "w": 3,
+        "l": 3,
+        "gb_div": "0.5",
+        "gb_wc": "-",
+        "pct": ".500",
+        "stk": "L1",
+        "rf": 23,
+        "ra": 28,
+        "rd": -5
+      }
+    }
+  },
+  {
+    "game_id": "20260726-DET-KC-1",
+    "game_time_utc": "2026-07-26 17:40:00+00:00",
+    "game_date": "2026-07-26",
+    "final": "",
+    "outcome": "upcoming",
+    "location": "Home",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "KC",
+      "name": "Kansas City Royals",
+      "stats": {
+        "gp": 6,
+        "w": 3,
+        "l": 3,
+        "gb_div": "0.5",
+        "gb_wc": "-",
+        "pct": ".500",
+        "stk": "L1",
+        "rf": 23,
+        "ra": 28,
+        "rd": -5
+      }
+    }
+  },
+  {
+    "game_id": "20260727-DET-BAL-1",
+    "game_time_utc": "2026-07-27 22:40:00+00:00",
+    "game_date": "2026-07-27",
+    "final": "",
+    "outcome": "upcoming",
+    "location": "Home",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "BAL",
+      "name": "Baltimore Orioles",
+      "stats": {
+        "gp": 6,
+        "w": 3,
+        "l": 3,
+        "gb_div": "2.0",
+        "gb_wc": "-",
+        "pct": ".500",
+        "stk": "W1",
+        "rf": 26,
+        "ra": 27,
+        "rd": -1
+      }
+    }
+  },
+  {
+    "game_id": "20260728-DET-BAL-1",
+    "game_time_utc": "2026-07-28 22:40:00+00:00",
+    "game_date": "2026-07-28",
+    "final": "",
+    "outcome": "upcoming",
+    "location": "Home",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "BAL",
+      "name": "Baltimore Orioles",
+      "stats": {
+        "gp": 6,
+        "w": 3,
+        "l": 3,
+        "gb_div": "2.0",
+        "gb_wc": "-",
+        "pct": ".500",
+        "stk": "W1",
+        "rf": 26,
+        "ra": 27,
+        "rd": -1
+      }
+    }
+  },
+  {
+    "game_id": "20260729-DET-BAL-1",
+    "game_time_utc": "2026-07-29 17:10:00+00:00",
+    "game_date": "2026-07-29",
+    "final": "",
+    "outcome": "upcoming",
+    "location": "Home",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "BAL",
+      "name": "Baltimore Orioles",
+      "stats": {
+        "gp": 6,
+        "w": 3,
+        "l": 3,
+        "gb_div": "2.0",
+        "gb_wc": "-",
+        "pct": ".500",
+        "stk": "W1",
+        "rf": 26,
+        "ra": 27,
+        "rd": -1
+      }
+    }
+  },
+  {
+    "game_id": "20260731-ATH-DET-1",
+    "game_time_utc": "2026-08-01 01:40:00+00:00",
+    "game_date": "2026-07-31",
+    "final": "",
+    "location": "Away",
+    "outcome": "upcoming",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "ATH",
+      "name": "Athletics",
+      "stats": {
+        "gp": 6,
+        "w": 1,
+        "l": 5,
+        "gb_div": "3.5",
+        "gb_wc": "2.0",
+        "pct": ".167",
+        "stk": "L1",
+        "rf": 17,
+        "ra": 27,
+        "rd": -10
+      }
+    }
+  },
+  {
+    "game_id": "20260801-ATH-DET-1",
+    "game_time_utc": "2026-08-02 01:40:00+00:00",
+    "game_date": "2026-08-01",
+    "final": "",
+    "location": "Away",
+    "outcome": "upcoming",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "ATH",
+      "name": "Athletics",
+      "stats": {
+        "gp": 6,
+        "w": 1,
+        "l": 5,
+        "gb_div": "3.5",
+        "gb_wc": "2.0",
+        "pct": ".167",
+        "stk": "L1",
+        "rf": 17,
+        "ra": 27,
+        "rd": -10
+      }
+    }
+  },
+  {
+    "game_id": "20260802-ATH-DET-1",
+    "game_time_utc": "2026-08-02 20:05:00+00:00",
+    "game_date": "2026-08-02",
+    "final": "",
+    "location": "Away",
+    "outcome": "upcoming",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "ATH",
+      "name": "Athletics",
+      "stats": {
+        "gp": 6,
+        "w": 1,
+        "l": 5,
+        "gb_div": "3.5",
+        "gb_wc": "2.0",
+        "pct": ".167",
+        "stk": "L1",
+        "rf": 17,
+        "ra": 27,
+        "rd": -10
+      }
+    }
+  },
+  {
+    "game_id": "20260804-SEA-DET-1",
+    "game_time_utc": "2026-08-05 01:40:00+00:00",
+    "game_date": "2026-08-04",
+    "final": "",
+    "location": "Away",
+    "outcome": "upcoming",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "SEA",
+      "name": "Seattle Mariners",
+      "stats": {
+        "gp": 7,
+        "w": 3,
+        "l": 4,
+        "gb_div": "2.0",
+        "gb_wc": "0.5",
+        "pct": ".429",
+        "stk": "L2",
+        "rf": 27,
+        "ra": 24,
+        "rd": 3
+      }
+    }
+  },
+  {
+    "game_id": "20260805-SEA-DET-1",
+    "game_time_utc": "2026-08-06 01:40:00+00:00",
+    "game_date": "2026-08-05",
+    "final": "",
+    "location": "Away",
+    "outcome": "upcoming",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "SEA",
+      "name": "Seattle Mariners",
+      "stats": {
+        "gp": 7,
+        "w": 3,
+        "l": 4,
+        "gb_div": "2.0",
+        "gb_wc": "0.5",
+        "pct": ".429",
+        "stk": "L2",
+        "rf": 27,
+        "ra": 24,
+        "rd": 3
+      }
+    }
+  },
+  {
+    "game_id": "20260806-SEA-DET-1",
+    "game_time_utc": "2026-08-06 20:10:00+00:00",
+    "game_date": "2026-08-06",
+    "final": "",
+    "location": "Away",
+    "outcome": "upcoming",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "SEA",
+      "name": "Seattle Mariners",
+      "stats": {
+        "gp": 7,
+        "w": 3,
+        "l": 4,
+        "gb_div": "2.0",
+        "gb_wc": "0.5",
+        "pct": ".429",
+        "stk": "L2",
+        "rf": 27,
+        "ra": 24,
+        "rd": 3
+      }
+    }
+  },
+  {
+    "game_id": "20260807-SF-DET-1",
+    "game_time_utc": "2026-08-08 02:15:00+00:00",
+    "game_date": "2026-08-07",
+    "final": "",
+    "location": "Away",
+    "outcome": "upcoming",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "SF",
+      "name": "San Francisco Giants",
+      "stats": {
+        "gp": 6,
+        "w": 2,
+        "l": 4,
+        "gb_div": "2.0",
+        "gb_wc": "1.0",
+        "pct": ".333",
+        "stk": "L1",
+        "rf": 14,
+        "ra": 25,
+        "rd": -11
+      }
+    }
+  },
+  {
+    "game_id": "20260808-SF-DET-1",
+    "game_time_utc": "2026-08-08 23:15:00+00:00",
+    "game_date": "2026-08-08",
+    "final": "",
+    "location": "Away",
+    "outcome": "upcoming",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "SF",
+      "name": "San Francisco Giants",
+      "stats": {
+        "gp": 6,
+        "w": 2,
+        "l": 4,
+        "gb_div": "2.0",
+        "gb_wc": "1.0",
+        "pct": ".333",
+        "stk": "L1",
+        "rf": 14,
+        "ra": 25,
+        "rd": -11
+      }
+    }
+  },
+  {
+    "game_id": "20260809-SF-DET-1",
+    "game_time_utc": "2026-08-09 20:05:00+00:00",
+    "game_date": "2026-08-09",
+    "final": "",
+    "location": "Away",
+    "outcome": "upcoming",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "SF",
+      "name": "San Francisco Giants",
+      "stats": {
+        "gp": 6,
+        "w": 2,
+        "l": 4,
+        "gb_div": "2.0",
+        "gb_wc": "1.0",
+        "pct": ".333",
+        "stk": "L1",
+        "rf": 14,
+        "ra": 25,
+        "rd": -11
+      }
+    }
+  },
+  {
+    "game_id": "20260811-DET-CLE-1",
+    "game_time_utc": "2026-08-11 22:40:00+00:00",
+    "game_date": "2026-08-11",
+    "final": "",
+    "outcome": "upcoming",
+    "location": "Home",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "CLE",
+      "name": "Cleveland Guardians",
+      "stats": {
+        "gp": 7,
+        "w": 4,
+        "l": 3,
+        "gb_div": "-",
+        "gb_wc": "-",
+        "pct": ".571",
+        "stk": "W1",
+        "rf": 22,
+        "ra": 29,
+        "rd": -7
+      }
+    }
+  },
+  {
+    "game_id": "20260812-DET-CLE-1",
+    "game_time_utc": "2026-08-12 22:40:00+00:00",
+    "game_date": "2026-08-12",
+    "final": "",
+    "outcome": "upcoming",
+    "location": "Home",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "CLE",
+      "name": "Cleveland Guardians",
+      "stats": {
+        "gp": 7,
+        "w": 4,
+        "l": 3,
+        "gb_div": "-",
+        "gb_wc": "-",
+        "pct": ".571",
+        "stk": "W1",
+        "rf": 22,
+        "ra": 29,
+        "rd": -7
+      }
+    }
+  },
+  {
+    "game_id": "20260813-DET-CLE-1",
+    "game_time_utc": "2026-08-13 17:10:00+00:00",
+    "game_date": "2026-08-13",
+    "final": "",
+    "outcome": "upcoming",
+    "location": "Home",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "CLE",
+      "name": "Cleveland Guardians",
+      "stats": {
+        "gp": 7,
+        "w": 4,
+        "l": 3,
+        "gb_div": "-",
+        "gb_wc": "-",
+        "pct": ".571",
+        "stk": "W1",
+        "rf": 22,
+        "ra": 29,
+        "rd": -7
+      }
+    }
+  },
+  {
+    "game_id": "20260814-DET-CWS-1",
+    "game_time_utc": "2026-08-14 22:40:00+00:00",
+    "game_date": "2026-08-14",
+    "final": "",
+    "outcome": "upcoming",
+    "location": "Home",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "CWS",
+      "name": "Chicago White Sox",
+      "stats": {
+        "gp": 6,
+        "w": 1,
+        "l": 5,
+        "gb_div": "2.5",
+        "gb_wc": "2.0",
+        "pct": ".167",
+        "stk": "L2",
+        "rf": 21,
+        "ra": 52,
+        "rd": -31
+      }
+    }
+  },
+  {
+    "game_id": "20260815-DET-CWS-1",
+    "game_time_utc": "2026-08-15 17:10:00+00:00",
+    "game_date": "2026-08-15",
+    "final": "",
+    "outcome": "upcoming",
+    "location": "Home",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "CWS",
+      "name": "Chicago White Sox",
+      "stats": {
+        "gp": 6,
+        "w": 1,
+        "l": 5,
+        "gb_div": "2.5",
+        "gb_wc": "2.0",
+        "pct": ".167",
+        "stk": "L2",
+        "rf": 21,
+        "ra": 52,
+        "rd": -31
+      }
+    }
+  },
+  {
+    "game_id": "20260816-DET-CWS-1",
+    "game_time_utc": "2026-08-16 17:40:00+00:00",
+    "game_date": "2026-08-16",
+    "final": "",
+    "outcome": "upcoming",
+    "location": "Home",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "CWS",
+      "name": "Chicago White Sox",
+      "stats": {
+        "gp": 6,
+        "w": 1,
+        "l": 5,
+        "gb_div": "2.5",
+        "gb_wc": "2.0",
+        "pct": ".167",
+        "stk": "L2",
+        "rf": 21,
+        "ra": 52,
+        "rd": -31
+      }
+    }
+  },
+  {
+    "game_id": "20260817-PIT-DET-1",
+    "game_time_utc": "2026-08-17 23:05:00+00:00",
+    "game_date": "2026-08-17",
+    "final": "",
+    "location": "Away",
+    "outcome": "upcoming",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "PIT",
+      "name": "Pittsburgh Pirates",
+      "stats": {
+        "gp": 6,
+        "w": 3,
+        "l": 3,
+        "gb_div": "2.0",
+        "gb_wc": "-",
+        "pct": ".500",
+        "stk": "W2",
+        "rf": 29,
+        "ra": 26,
+        "rd": 3
+      }
+    }
+  },
+  {
+    "game_id": "20260818-PIT-DET-1",
+    "game_time_utc": "2026-08-18 22:40:00+00:00",
+    "game_date": "2026-08-18",
+    "final": "",
+    "location": "Away",
+    "outcome": "upcoming",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "PIT",
+      "name": "Pittsburgh Pirates",
+      "stats": {
+        "gp": 6,
+        "w": 3,
+        "l": 3,
+        "gb_div": "2.0",
+        "gb_wc": "-",
+        "pct": ".500",
+        "stk": "W2",
+        "rf": 29,
+        "ra": 26,
+        "rd": 3
+      }
+    }
+  },
+  {
+    "game_id": "20260819-PIT-DET-1",
+    "game_time_utc": "2026-08-19 16:35:00+00:00",
+    "game_date": "2026-08-19",
+    "final": "",
+    "location": "Away",
+    "outcome": "upcoming",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "PIT",
+      "name": "Pittsburgh Pirates",
+      "stats": {
+        "gp": 6,
+        "w": 3,
+        "l": 3,
+        "gb_div": "2.0",
+        "gb_wc": "-",
+        "pct": ".500",
+        "stk": "W2",
+        "rf": 29,
+        "ra": 26,
+        "rd": 3
+      }
+    }
+  },
+  {
+    "game_id": "20260821-KC-DET-1",
+    "game_time_utc": "2026-08-22 00:10:00+00:00",
+    "game_date": "2026-08-21",
+    "final": "",
+    "location": "Away",
+    "outcome": "upcoming",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "KC",
+      "name": "Kansas City Royals",
+      "stats": {
+        "gp": 6,
+        "w": 3,
+        "l": 3,
+        "gb_div": "0.5",
+        "gb_wc": "-",
+        "pct": ".500",
+        "stk": "L1",
+        "rf": 23,
+        "ra": 28,
+        "rd": -5
+      }
+    }
+  },
+  {
+    "game_id": "20260822-KC-DET-1",
+    "game_time_utc": "2026-08-22 23:15:00+00:00",
+    "game_date": "2026-08-22",
+    "final": "",
+    "location": "Away",
+    "outcome": "upcoming",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "KC",
+      "name": "Kansas City Royals",
+      "stats": {
+        "gp": 6,
+        "w": 3,
+        "l": 3,
+        "gb_div": "0.5",
+        "gb_wc": "-",
+        "pct": ".500",
+        "stk": "L1",
+        "rf": 23,
+        "ra": 28,
+        "rd": -5
+      }
+    }
+  },
+  {
+    "game_id": "20260823-KC-DET-1",
+    "game_time_utc": "2026-08-23 18:10:00+00:00",
+    "game_date": "2026-08-23",
+    "final": "",
+    "location": "Away",
+    "outcome": "upcoming",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "KC",
+      "name": "Kansas City Royals",
+      "stats": {
+        "gp": 6,
+        "w": 3,
+        "l": 3,
+        "gb_div": "0.5",
+        "gb_wc": "-",
+        "pct": ".500",
+        "stk": "L1",
+        "rf": 23,
+        "ra": 28,
+        "rd": -5
+      }
+    }
+  },
+  {
+    "game_id": "20260824-DET-TB-1",
+    "game_time_utc": "2026-08-24 22:40:00+00:00",
+    "game_date": "2026-08-24",
+    "final": "",
+    "outcome": "upcoming",
+    "location": "Home",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "TB",
+      "name": "Tampa Bay Rays",
+      "stats": {
+        "gp": 6,
+        "w": 2,
+        "l": 4,
+        "gb_div": "3.0",
+        "gb_wc": "1.0",
+        "pct": ".333",
+        "stk": "L2",
+        "rf": 30,
+        "ra": 38,
+        "rd": -8
+      }
+    }
+  },
+  {
+    "game_id": "20260825-DET-TB-1",
+    "game_time_utc": "2026-08-25 22:40:00+00:00",
+    "game_date": "2026-08-25",
+    "final": "",
+    "outcome": "upcoming",
+    "location": "Home",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "TB",
+      "name": "Tampa Bay Rays",
+      "stats": {
+        "gp": 6,
+        "w": 2,
+        "l": 4,
+        "gb_div": "3.0",
+        "gb_wc": "1.0",
+        "pct": ".333",
+        "stk": "L2",
+        "rf": 30,
+        "ra": 38,
+        "rd": -8
+      }
+    }
+  },
+  {
+    "game_id": "20260826-DET-TB-1",
+    "game_time_utc": "2026-08-26 17:10:00+00:00",
+    "game_date": "2026-08-26",
+    "final": "",
+    "outcome": "upcoming",
+    "location": "Home",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "TB",
+      "name": "Tampa Bay Rays",
+      "stats": {
+        "gp": 6,
+        "w": 2,
+        "l": 4,
+        "gb_div": "3.0",
+        "gb_wc": "1.0",
+        "pct": ".333",
+        "stk": "L2",
+        "rf": 30,
+        "ra": 38,
+        "rd": -8
+      }
+    }
+  },
+  {
+    "game_id": "20260828-DET-LAD-1",
+    "game_time_utc": "2026-08-28 22:40:00+00:00",
+    "game_date": "2026-08-28",
+    "final": "",
+    "outcome": "upcoming",
+    "location": "Home",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "LAD",
+      "name": "Los Angeles Dodgers",
+      "stats": {
+        "gp": 6,
+        "w": 4,
+        "l": 2,
+        "gb_div": "-",
+        "gb_wc": "-",
+        "pct": ".667",
+        "stk": "L1",
+        "rf": 23,
+        "ra": 17,
+        "rd": 6
+      }
+    }
+  },
+  {
+    "game_id": "20260829-DET-LAD-1",
+    "game_time_utc": "2026-08-29 17:10:00+00:00",
+    "game_date": "2026-08-29",
+    "final": "",
+    "outcome": "upcoming",
+    "location": "Home",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "LAD",
+      "name": "Los Angeles Dodgers",
+      "stats": {
+        "gp": 6,
+        "w": 4,
+        "l": 2,
+        "gb_div": "-",
+        "gb_wc": "-",
+        "pct": ".667",
+        "stk": "L1",
+        "rf": 23,
+        "ra": 17,
+        "rd": 6
+      }
+    }
+  },
+  {
+    "game_id": "20260830-DET-LAD-1",
+    "game_time_utc": "2026-08-30 17:40:00+00:00",
+    "game_date": "2026-08-30",
+    "final": "",
+    "outcome": "upcoming",
+    "location": "Home",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "LAD",
+      "name": "Los Angeles Dodgers",
+      "stats": {
+        "gp": 6,
+        "w": 4,
+        "l": 2,
+        "gb_div": "-",
+        "gb_wc": "-",
+        "pct": ".667",
+        "stk": "L1",
+        "rf": 23,
+        "ra": 17,
+        "rd": 6
+      }
+    }
+  },
+  {
+    "game_id": "20260831-MIN-DET-1",
+    "game_time_utc": "2026-08-31 23:40:00+00:00",
+    "game_date": "2026-08-31",
+    "final": "",
+    "location": "Away",
+    "outcome": "upcoming",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "MIN",
+      "name": "Minnesota Twins",
+      "stats": {
+        "gp": 6,
+        "w": 2,
+        "l": 4,
+        "gb_div": "1.5",
+        "gb_wc": "1.0",
+        "pct": ".333",
+        "stk": "W1",
+        "rf": 26,
+        "ra": 28,
+        "rd": -2
+      }
+    }
+  },
+  {
+    "game_id": "20260901-MIN-DET-1",
+    "game_time_utc": "2026-09-01 23:40:00+00:00",
+    "game_date": "2026-09-01",
+    "final": "",
+    "location": "Away",
+    "outcome": "upcoming",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "MIN",
+      "name": "Minnesota Twins",
+      "stats": {
+        "gp": 6,
+        "w": 2,
+        "l": 4,
+        "gb_div": "1.5",
+        "gb_wc": "1.0",
+        "pct": ".333",
+        "stk": "W1",
+        "rf": 26,
+        "ra": 28,
+        "rd": -2
+      }
+    }
+  },
+  {
+    "game_id": "20260902-MIN-DET-1",
+    "game_time_utc": "2026-09-02 23:40:00+00:00",
+    "game_date": "2026-09-02",
+    "final": "",
+    "location": "Away",
+    "outcome": "upcoming",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "MIN",
+      "name": "Minnesota Twins",
+      "stats": {
+        "gp": 6,
+        "w": 2,
+        "l": 4,
+        "gb_div": "1.5",
+        "gb_wc": "1.0",
+        "pct": ".333",
+        "stk": "W1",
+        "rf": 26,
+        "ra": 28,
+        "rd": -2
+      }
+    }
+  },
+  {
+    "game_id": "20260904-CLE-DET-1",
+    "game_time_utc": "2026-09-04 23:10:00+00:00",
+    "game_date": "2026-09-04",
+    "final": "",
+    "location": "Away",
+    "outcome": "upcoming",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "CLE",
+      "name": "Cleveland Guardians",
+      "stats": {
+        "gp": 7,
+        "w": 4,
+        "l": 3,
+        "gb_div": "-",
+        "gb_wc": "-",
+        "pct": ".571",
+        "stk": "W1",
+        "rf": 22,
+        "ra": 29,
+        "rd": -7
+      }
+    }
+  },
+  {
+    "game_id": "20260905-CLE-DET-1",
+    "game_time_utc": "2026-09-05 23:15:00+00:00",
+    "game_date": "2026-09-05",
+    "final": "",
+    "location": "Away",
+    "outcome": "upcoming",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "CLE",
+      "name": "Cleveland Guardians",
+      "stats": {
+        "gp": 7,
+        "w": 4,
+        "l": 3,
+        "gb_div": "-",
+        "gb_wc": "-",
+        "pct": ".571",
+        "stk": "W1",
+        "rf": 22,
+        "ra": 29,
+        "rd": -7
+      }
+    }
+  },
+  {
+    "game_id": "20260906-CLE-DET-1",
+    "game_time_utc": "2026-09-06 17:40:00+00:00",
+    "game_date": "2026-09-06",
+    "final": "",
+    "location": "Away",
+    "outcome": "upcoming",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "CLE",
+      "name": "Cleveland Guardians",
+      "stats": {
+        "gp": 7,
+        "w": 4,
+        "l": 3,
+        "gb_div": "-",
+        "gb_wc": "-",
+        "pct": ".571",
+        "stk": "W1",
+        "rf": 22,
+        "ra": 29,
+        "rd": -7
+      }
+    }
+  },
+  {
+    "game_id": "20260907-DET-MIN-1",
+    "game_time_utc": "2026-09-07 17:10:00+00:00",
+    "game_date": "2026-09-07",
+    "final": "",
+    "outcome": "upcoming",
+    "location": "Home",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "MIN",
+      "name": "Minnesota Twins",
+      "stats": {
+        "gp": 6,
+        "w": 2,
+        "l": 4,
+        "gb_div": "1.5",
+        "gb_wc": "1.0",
+        "pct": ".333",
+        "stk": "W1",
+        "rf": 26,
+        "ra": 28,
+        "rd": -2
+      }
+    }
+  },
+  {
+    "game_id": "20260908-DET-MIN-1",
+    "game_time_utc": "2026-09-08 22:40:00+00:00",
+    "game_date": "2026-09-08",
+    "final": "",
+    "outcome": "upcoming",
+    "location": "Home",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "MIN",
+      "name": "Minnesota Twins",
+      "stats": {
+        "gp": 6,
+        "w": 2,
+        "l": 4,
+        "gb_div": "1.5",
+        "gb_wc": "1.0",
+        "pct": ".333",
+        "stk": "W1",
+        "rf": 26,
+        "ra": 28,
+        "rd": -2
+      }
+    }
+  },
+  {
+    "game_id": "20260909-DET-MIN-1",
+    "game_time_utc": "2026-09-09 17:10:00+00:00",
+    "game_date": "2026-09-09",
+    "final": "",
+    "outcome": "upcoming",
+    "location": "Home",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "MIN",
+      "name": "Minnesota Twins",
+      "stats": {
+        "gp": 6,
+        "w": 2,
+        "l": 4,
+        "gb_div": "1.5",
+        "gb_wc": "1.0",
+        "pct": ".333",
+        "stk": "W1",
+        "rf": 26,
+        "ra": 28,
+        "rd": -2
+      }
+    }
+  },
+  {
+    "game_id": "20260911-DET-COL-1",
+    "game_time_utc": "2026-09-11 22:40:00+00:00",
+    "game_date": "2026-09-11",
+    "final": "",
+    "outcome": "upcoming",
+    "location": "Home",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "COL",
+      "name": "Colorado Rockies",
+      "stats": {
+        "gp": 6,
+        "w": 2,
+        "l": 4,
+        "gb_div": "2.0",
+        "gb_wc": "1.0",
+        "pct": ".333",
+        "stk": "W1",
+        "rf": 24,
+        "ra": 21,
+        "rd": 3
+      }
+    }
+  },
+  {
+    "game_id": "20260912-DET-COL-1",
+    "game_time_utc": "2026-09-12 17:10:00+00:00",
+    "game_date": "2026-09-12",
+    "final": "",
+    "outcome": "upcoming",
+    "location": "Home",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "COL",
+      "name": "Colorado Rockies",
+      "stats": {
+        "gp": 6,
+        "w": 2,
+        "l": 4,
+        "gb_div": "2.0",
+        "gb_wc": "1.0",
+        "pct": ".333",
+        "stk": "W1",
+        "rf": 24,
+        "ra": 21,
+        "rd": 3
+      }
+    }
+  },
+  {
+    "game_id": "20260913-DET-COL-1",
+    "game_time_utc": "2026-09-13 17:40:00+00:00",
+    "game_date": "2026-09-13",
+    "final": "",
+    "outcome": "upcoming",
+    "location": "Home",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "COL",
+      "name": "Colorado Rockies",
+      "stats": {
+        "gp": 6,
+        "w": 2,
+        "l": 4,
+        "gb_div": "2.0",
+        "gb_wc": "1.0",
+        "pct": ".333",
+        "stk": "W1",
+        "rf": 24,
+        "ra": 21,
+        "rd": 3
+      }
+    }
+  },
+  {
+    "game_id": "20260914-TOR-DET-1",
+    "game_time_utc": "2026-09-14 23:07:00+00:00",
+    "game_date": "2026-09-14",
+    "final": "",
+    "location": "Away",
+    "outcome": "upcoming",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "TOR",
+      "name": "Toronto Blue Jays",
+      "stats": {
+        "gp": 6,
+        "w": 4,
+        "l": 2,
+        "gb_div": "1.0",
+        "gb_wc": "+1.0",
+        "pct": ".667",
+        "stk": "L1",
+        "rf": 27,
+        "ra": 28,
+        "rd": -1
+      }
+    }
+  },
+  {
+    "game_id": "20260915-TOR-DET-1",
+    "game_time_utc": "2026-09-15 23:07:00+00:00",
+    "game_date": "2026-09-15",
+    "final": "",
+    "location": "Away",
+    "outcome": "upcoming",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "TOR",
+      "name": "Toronto Blue Jays",
+      "stats": {
+        "gp": 6,
+        "w": 4,
+        "l": 2,
+        "gb_div": "1.0",
+        "gb_wc": "+1.0",
+        "pct": ".667",
+        "stk": "L1",
+        "rf": 27,
+        "ra": 28,
+        "rd": -1
+      }
+    }
+  },
+  {
+    "game_id": "20260916-TOR-DET-1",
+    "game_time_utc": "2026-09-16 19:07:00+00:00",
+    "game_date": "2026-09-16",
+    "final": "",
+    "location": "Away",
+    "outcome": "upcoming",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "TOR",
+      "name": "Toronto Blue Jays",
+      "stats": {
+        "gp": 6,
+        "w": 4,
+        "l": 2,
+        "gb_div": "1.0",
+        "gb_wc": "+1.0",
+        "pct": ".667",
+        "stk": "L1",
+        "rf": 27,
+        "ra": 28,
+        "rd": -1
+      }
+    }
+  },
+  {
+    "game_id": "20260917-CWS-DET-1",
+    "game_time_utc": "2026-09-17 23:40:00+00:00",
+    "game_date": "2026-09-17",
+    "final": "",
+    "location": "Away",
+    "outcome": "upcoming",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "CWS",
+      "name": "Chicago White Sox",
+      "stats": {
+        "gp": 6,
+        "w": 1,
+        "l": 5,
+        "gb_div": "2.5",
+        "gb_wc": "2.0",
+        "pct": ".167",
+        "stk": "L2",
+        "rf": 21,
+        "ra": 52,
+        "rd": -31
+      }
+    }
+  },
+  {
+    "game_id": "20260918-CWS-DET-1",
+    "game_time_utc": "2026-09-18 23:40:00+00:00",
+    "game_date": "2026-09-18",
+    "final": "",
+    "location": "Away",
+    "outcome": "upcoming",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "CWS",
+      "name": "Chicago White Sox",
+      "stats": {
+        "gp": 6,
+        "w": 1,
+        "l": 5,
+        "gb_div": "2.5",
+        "gb_wc": "2.0",
+        "pct": ".167",
+        "stk": "L2",
+        "rf": 21,
+        "ra": 52,
+        "rd": -31
+      }
+    }
+  },
+  {
+    "game_id": "20260919-CWS-DET-1",
+    "game_time_utc": "2026-09-19 23:10:00+00:00",
+    "game_date": "2026-09-19",
+    "final": "",
+    "location": "Away",
+    "outcome": "upcoming",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "CWS",
+      "name": "Chicago White Sox",
+      "stats": {
+        "gp": 6,
+        "w": 1,
+        "l": 5,
+        "gb_div": "2.5",
+        "gb_wc": "2.0",
+        "pct": ".167",
+        "stk": "L2",
+        "rf": 21,
+        "ra": 52,
+        "rd": -31
+      }
+    }
+  },
+  {
+    "game_id": "20260920-CWS-DET-1",
+    "game_time_utc": "2026-09-20 18:10:00+00:00",
+    "game_date": "2026-09-20",
+    "final": "",
+    "location": "Away",
+    "outcome": "upcoming",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "CWS",
+      "name": "Chicago White Sox",
+      "stats": {
+        "gp": 6,
+        "w": 1,
+        "l": 5,
+        "gb_div": "2.5",
+        "gb_wc": "2.0",
+        "pct": ".167",
+        "stk": "L2",
+        "rf": 21,
+        "ra": 52,
+        "rd": -31
+      }
+    }
+  },
+  {
+    "game_id": "20260921-DET-WSH-1",
+    "game_time_utc": "2026-09-21 22:40:00+00:00",
+    "game_date": "2026-09-21",
+    "final": "",
+    "outcome": "upcoming",
+    "location": "Home",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "WSH",
+      "name": "Washington Nationals",
+      "stats": {
+        "gp": 6,
+        "w": 3,
+        "l": 3,
+        "gb_div": "2.0",
+        "gb_wc": "-",
+        "pct": ".500",
+        "stk": "L2",
+        "rf": 38,
+        "ra": 28,
+        "rd": 10
+      }
+    }
+  },
+  {
+    "game_id": "20260922-DET-WSH-1",
+    "game_time_utc": "2026-09-22 22:40:00+00:00",
+    "game_date": "2026-09-22",
+    "final": "",
+    "outcome": "upcoming",
+    "location": "Home",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "WSH",
+      "name": "Washington Nationals",
+      "stats": {
+        "gp": 6,
+        "w": 3,
+        "l": 3,
+        "gb_div": "2.0",
+        "gb_wc": "-",
+        "pct": ".500",
+        "stk": "L2",
+        "rf": 38,
+        "ra": 28,
+        "rd": 10
+      }
+    }
+  },
+  {
+    "game_id": "20260923-DET-WSH-1",
+    "game_time_utc": "2026-09-23 17:10:00+00:00",
+    "game_date": "2026-09-23",
+    "final": "",
+    "outcome": "upcoming",
+    "location": "Home",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "WSH",
+      "name": "Washington Nationals",
+      "stats": {
+        "gp": 6,
+        "w": 3,
+        "l": 3,
+        "gb_div": "2.0",
+        "gb_wc": "-",
+        "pct": ".500",
+        "stk": "L2",
+        "rf": 38,
+        "ra": 28,
+        "rd": 10
+      }
+    }
+  },
+  {
+    "game_id": "20260925-DET-PIT-1",
+    "game_time_utc": "2026-09-25 22:40:00+00:00",
+    "game_date": "2026-09-25",
+    "final": "",
+    "outcome": "upcoming",
+    "location": "Home",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "PIT",
+      "name": "Pittsburgh Pirates",
+      "stats": {
+        "gp": 6,
+        "w": 3,
+        "l": 3,
+        "gb_div": "2.0",
+        "gb_wc": "-",
+        "pct": ".500",
+        "stk": "W2",
+        "rf": 29,
+        "ra": 26,
+        "rd": 3
+      }
+    }
+  },
+  {
+    "game_id": "20260926-DET-PIT-1",
+    "game_time_utc": "2026-09-26 17:10:00+00:00",
+    "game_date": "2026-09-26",
+    "final": "",
+    "outcome": "upcoming",
+    "location": "Home",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "PIT",
+      "name": "Pittsburgh Pirates",
+      "stats": {
+        "gp": 6,
+        "w": 3,
+        "l": 3,
+        "gb_div": "2.0",
+        "gb_wc": "-",
+        "pct": ".500",
+        "stk": "W2",
+        "rf": 29,
+        "ra": 26,
+        "rd": 3
+      }
+    }
+  },
+  {
+    "game_id": "20260927-DET-PIT-1",
+    "game_time_utc": "2026-09-27 19:10:00+00:00",
+    "game_date": "2026-09-27",
+    "final": "",
+    "outcome": "upcoming",
+    "location": "Home",
+    "score": [
+      null,
+      null
+    ],
+    "opponent": {
+      "id": "PIT",
+      "name": "Pittsburgh Pirates",
+      "stats": {
+        "gp": 6,
+        "w": 3,
+        "l": 3,
+        "gb_div": "2.0",
+        "gb_wc": "-",
+        "pct": ".500",
+        "stk": "W2",
+        "rf": 29,
+        "ra": 26,
+        "rd": 3
+      }
+    }
+  }
+]

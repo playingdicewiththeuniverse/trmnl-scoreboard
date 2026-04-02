@@ -1,0 +1,196 @@
+{
+  "teams": {
+    "147": {
+      "id": "NYY",
+      "city": "New York",
+      "nick": "Yankees",
+      "full": "New York Yankees"
+    },
+    "141": {
+      "id": "TOR",
+      "city": "Toronto",
+      "nick": "Blue Jays",
+      "full": "Toronto Blue Jays"
+    },
+    "110": {
+      "id": "BAL",
+      "city": "Baltimore",
+      "nick": "Orioles",
+      "full": "Baltimore Orioles"
+    },
+    "139": {
+      "id": "TB",
+      "city": "Tampa Bay",
+      "nick": "Rays",
+      "full": "Tampa Bay Rays"
+    },
+    "111": {
+      "id": "BOS",
+      "city": "Boston",
+      "nick": "Red Sox",
+      "full": "Boston Red Sox"
+    },
+    "114": {
+      "id": "CLE",
+      "city": "Cleveland",
+      "nick": "Guardians",
+      "full": "Cleveland Guardians"
+    },
+    "118": {
+      "id": "KC",
+      "city": "Kansas City",
+      "nick": "Royals",
+      "full": "Kansas City Royals"
+    },
+    "142": {
+      "id": "MIN",
+      "city": "Minnesota",
+      "nick": "Twins",
+      "full": "Minnesota Twins"
+    },
+    "116": {
+      "id": "DET",
+      "city": "Detroit",
+      "nick": "Tigers",
+      "full": "Detroit Tigers"
+    },
+    "145": {
+      "id": "CWS",
+      "city": "Chicago",
+      "nick": "White Sox",
+      "full": "Chicago White Sox"
+    },
+    "117": {
+      "id": "HOU",
+      "city": "Houston",
+      "nick": "Astros",
+      "full": "Houston Astros"
+    },
+    "140": {
+      "id": "TEX",
+      "city": "Texas",
+      "nick": "Rangers",
+      "full": "Texas Rangers"
+    },
+    "108": {
+      "id": "LAA",
+      "city": "Los Angeles",
+      "nick": "Angels",
+      "full": "Los Angeles Angels"
+    },
+    "136": {
+      "id": "SEA",
+      "city": "Seattle",
+      "nick": "Mariners",
+      "full": "Seattle Mariners"
+    },
+    "133": {
+      "id": "ATH",
+      "city": "Athletics",
+      "nick": "Athletics",
+      "full": "Athletics"
+    },
+    "146": {
+      "id": "MIA",
+      "city": "Miami",
+      "nick": "Marlins",
+      "full": "Miami Marlins"
+    },
+    "144": {
+      "id": "ATL",
+      "city": "Atlanta",
+      "nick": "Braves",
+      "full": "Atlanta Braves"
+    },
+    "143": {
+      "id": "PHI",
+      "city": "Philadelphia",
+      "nick": "Phillies",
+      "full": "Philadelphia Phillies"
+    },
+    "120": {
+      "id": "WSH",
+      "city": "Washington",
+      "nick": "Nationals",
+      "full": "Washington Nationals"
+    },
+    "121": {
+      "id": "NYM",
+      "city": "New York",
+      "nick": "Mets",
+      "full": "New York Mets"
+    },
+    "158": {
+      "id": "MIL",
+      "city": "Milwaukee",
+      "nick": "Brewers",
+      "full": "Milwaukee Brewers"
+    },
+    "138": {
+      "id": "STL",
+      "city": "St. Louis",
+      "nick": "Cardinals",
+      "full": "St. Louis Cardinals"
+    },
+    "134": {
+      "id": "PIT",
+      "city": "Pittsburgh",
+      "nick": "Pirates",
+      "full": "Pittsburgh Pirates"
+    },
+    "113": {
+      "id": "CIN",
+      "city": "Cincinnati",
+      "nick": "Reds",
+      "full": "Cincinnati Reds"
+    },
+    "112": {
+      "id": "CHC",
+      "city": "Chicago",
+      "nick": "Cubs",
+      "full": "Chicago Cubs"
+    },
+    "119": {
+      "id": "LAD",
+      "city": "Los Angeles",
+      "nick": "Dodgers",
+      "full": "Los Angeles Dodgers"
+    },
+    "109": {
+      "id": "AZ",
+      "city": "Arizona",
+      "nick": "Diamondbacks",
+      "full": "Arizona Diamondbacks"
+    },
+    "137": {
+      "id": "SF",
+      "city": "San Francisco",
+      "nick": "Giants",
+      "full": "San Francisco Giants"
+    },
+    "135": {
+      "id": "SD",
+      "city": "San Diego",
+      "nick": "Padres",
+      "full": "San Diego Padres"
+    },
+    "115": {
+      "id": "COL",
+      "city": "Colorado",
+      "nick": "Rockies",
+      "full": "Colorado Rockies"
+    }
+  },
+  "divisions": {
+    "201": "American League East",
+    "202": "American League Central",
+    "200": "American League West",
+    "204": "National League East",
+    "205": "National League Central",
+    "203": "National League West"
+  },
+  "leagues": {
+    "103": "American League",
+    "104": "National League"
+  }
+}

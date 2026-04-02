@@ -1,0 +1,172 @@
+[
+  {
+    "team": {
+      "id": "HOU",
+      "city": "Houston",
+      "nick": "Astros",
+      "full": "Houston Astros",
+      "div": {
+        "id": "american-league-west",
+        "name": "American League West"
+      },
+      "conf": {
+        "id": "american-league",
+        "name": "American League"
+      }
+    },
+    "stats": {
+      "gp": 7,
+      "w": 5,
+      "l": 2,
+      "gb_div": "-",
+      "gb_wc": "-",
+      "pct": ".714",
+      "stk": "W5",
+      "rf": 45,
+      "ra": 32,
+      "rd": 13
+    },
+    "rnk": {
+      "lg": "2",
+      "cf": "2",
+      "dv": "1",
+      "clinch": false
+    }
+  },
+  {
+    "team": {
+      "id": "TEX",
+      "city": "Texas",
+      "nick": "Rangers",
+      "full": "Texas Rangers",
+      "div": {
+        "id": "american-league-west",
+        "name": "American League West"
+      },
+      "conf": {
+        "id": "american-league",
+        "name": "American League"
+      }
+    },
+    "stats": {
+      "gp": 6,
+      "w": 4,
+      "l": 2,
+      "gb_div": "0.5",
+      "gb_wc": "+1.0",
+      "pct": ".667",
+      "stk": "L1",
+      "rf": 32,
+      "ra": 27,
+      "rd": 5
+    },
+    "rnk": {
+      "lg": "4",
+      "cf": "4",
+      "dv": "2",
+      "clinch": false
+    }
+  },
+  {
+    "team": {
+      "id": "LAA",
+      "city": "Los Angeles",
+      "nick": "Angels",
+      "full": "Los Angeles Angels",
+      "div": {
+        "id": "american-league-west",
+        "name": "American League West"
+      },
+      "conf": {
+        "id": "american-league",
+        "name": "American League"
+      }
+    },
+    "stats": {
+      "gp": 7,
+      "w": 3,
+      "l": 4,
+      "gb_div": "2.0",
+      "gb_wc": "0.5",
+      "pct": ".429",
+      "stk": "L1",
+      "rf": 31,
+      "ra": 35,
+      "rd": -4
+    },
+    "rnk": {
+      "lg": "8",
+      "cf": "8",
+      "dv": "3",
+      "clinch": false
+    }
+  },
+  {
+    "team": {
+      "id": "SEA",
+      "city": "Seattle",
+      "nick": "Mariners",
+      "full": "Seattle Mariners",
+      "div": {
+        "id": "american-league-west",
+        "name": "American League West"
+      },
+      "conf": {
+        "id": "american-league",
+        "name": "American League"
+      }
+    },
+    "stats": {
+      "gp": 7,
+      "w": 3,
+      "l": 4,
+      "gb_div": "2.0",
+      "gb_wc": "0.5",
+      "pct": ".429",
+      "stk": "L2",
+      "rf": 27,
+      "ra": 24,
+      "rd": 3
+    },
+    "rnk": {
+      "lg": "9",
+      "cf": "9",
+      "dv": "4",
+      "clinch": false
+    }
+  },
+  {
+    "team": {
+      "id": "ATH",
+      "city": "Athletics",
+      "nick": "Athletics",
+      "full": "Athletics",
+      "div": {
+        "id": "american-league-west",
+        "name": "American League West"
+      },
+      "conf": {
+        "id": "american-league",
+        "name": "American League"
+      }
+    },
+    "stats": {
+      "gp": 6,
+      "w": 1,
+      "l": 5,
+      "gb_div": "3.5",
+      "gb_wc": "2.0",
+      "pct": ".167",
+      "stk": "L1",
+      "rf": 17,
+      "ra": 27,
+      "rd": -10
+    },
+    "rnk": {
+      "lg": "13",
+      "cf": "13",
+      "dv": "5",
+      "clinch": false
+    }
+  }
+]

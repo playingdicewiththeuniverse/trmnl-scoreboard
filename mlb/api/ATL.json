@@ -1,0 +1,922 @@
+{
+  "team": {
+    "id": "ATL",
+    "city": "Atlanta",
+    "nick": "Braves",
+    "full": "Atlanta Braves",
+    "div": {
+      "id": "national-league-east",
+      "name": "National League East"
+    },
+    "conf": {
+      "id": "national-league",
+      "name": "National League"
+    }
+  },
+  "stats": {
+    "gp": 6,
+    "w": 4,
+    "l": 2,
+    "gb_div": "1.0",
+    "gb_wc": "+1.0",
+    "pct": ".667",
+    "stk": "W1",
+    "rf": 24,
+    "ra": 12,
+    "rd": 12
+  },
+  "rnk": {
+    "lg": "3",
+    "cf": "3",
+    "dv": "2",
+    "clinch": false
+  },
+  "games": {
+    "past": [
+      {
+        "game_id": "20260331-ATL-ATH-1",
+        "game_time_utc": "2026-03-31 23:15:00+00:00",
+        "game_date": "2026-03-31",
+        "final": "final",
+        "outcome": "loss",
+        "location": "Home",
+        "score": [
+          2,
+          5
+        ],
+        "opponent": {
+          "id": "ATH",
+          "name": "Athletics",
+          "stats": {
+            "gp": 6,
+            "w": 1,
+            "l": 5,
+            "gb_div": "3.5",
+            "gb_wc": "2.0",
+            "pct": ".167",
+            "stk": "L1",
+            "rf": 17,
+            "ra": 27,
+            "rd": -10
+          }
+        }
+      },
+      {
+        "game_id": "20260401-ATL-ATH-1",
+        "game_time_utc": "2026-04-01 16:15:00+00:00",
+        "game_date": "2026-04-01",
+        "final": "final",
+        "outcome": "win",
+        "location": "Home",
+        "score": [
+          5,
+          1
+        ],
+        "opponent": {
+          "id": "ATH",
+          "name": "Athletics",
+          "stats": {
+            "gp": 6,
+            "w": 1,
+            "l": 5,
+            "gb_div": "3.5",
+            "gb_wc": "2.0",
+            "pct": ".167",
+            "stk": "L1",
+            "rf": 17,
+            "ra": 27,
+            "rd": -10
+          }
+        }
+      },
+      {
+        "game_id": "20260402-AZ-ATL-1",
+        "game_time_utc": "2026-04-03 01:40:00+00:00",
+        "game_date": "2026-04-02",
+        "final": "???",
+        "location": "Away",
+        "outcome": "tie",
+        "score": [
+          0,
+          0
+        ],
+        "opponent": {
+          "id": "AZ",
+          "name": "Arizona Diamondbacks",
+          "stats": {
+            "gp": 6,
+            "w": 3,
+            "l": 3,
+            "gb_div": "1.0",
+            "gb_wc": "-",
+            "pct": ".500",
+            "stk": "W3",
+            "rf": 25,
+            "ra": 27,
+            "rd": -2
+          }
+        }
+      }
+    ],
+    "upcoming": [
+      {
+        "game_id": "20260403-AZ-ATL-1",
+        "game_time_utc": "2026-04-04 01:45:00+00:00",
+        "game_date": "2026-04-03",
+        "final": "",
+        "location": "Away",
+        "outcome": "upcoming",
+        "score": [
+          null,
+          null
+        ],
+        "opponent": {
+          "id": "AZ",
+          "name": "Arizona Diamondbacks",
+          "stats": {
+            "gp": 6,
+            "w": 3,
+            "l": 3,
+            "gb_div": "1.0",
+            "gb_wc": "-",
+            "pct": ".500",
+            "stk": "W3",
+            "rf": 25,
+            "ra": 27,
+            "rd": -2
+          }
+        }
+      },
+      {
+        "game_id": "20260404-AZ-ATL-1",
+        "game_time_utc": "2026-04-04 23:15:00+00:00",
+        "game_date": "2026-04-04",
+        "final": "",
+        "location": "Away",
+        "outcome": "upcoming",
+        "score": [
+          null,
+          null
+        ],
+        "opponent": {
+          "id": "AZ",
+          "name": "Arizona Diamondbacks",
+          "stats": {
+            "gp": 6,
+            "w": 3,
+            "l": 3,
+            "gb_div": "1.0",
+            "gb_wc": "-",
+            "pct": ".500",
+            "stk": "W3",
+            "rf": 25,
+            "ra": 27,
+            "rd": -2
+          }
+        }
+      },
+      {
+        "game_id": "20260405-AZ-ATL-1",
+        "game_time_utc": "2026-04-05 20:10:00+00:00",
+        "game_date": "2026-04-05",
+        "final": "",
+        "location": "Away",
+        "outcome": "upcoming",
+        "score": [
+          null,
+          null
+        ],
+        "opponent": {
+          "id": "AZ",
+          "name": "Arizona Diamondbacks",
+          "stats": {
+            "gp": 6,
+            "w": 3,
+            "l": 3,
+            "gb_div": "1.0",
+            "gb_wc": "-",
+            "pct": ".500",
+            "stk": "W3",
+            "rf": 25,
+            "ra": 27,
+            "rd": -2
+          }
+        }
+      },
+      {
+        "game_id": "20260406-LAA-ATL-1",
+        "game_time_utc": "2026-04-07 01:38:00+00:00",
+        "game_date": "2026-04-06",
+        "final": "",
+        "location": "Away",
+        "outcome": "upcoming",
+        "score": [
+          null,
+          null
+        ],
+        "opponent": {
+          "id": "LAA",
+          "name": "Los Angeles Angels",
+          "stats": {
+            "gp": 7,
+            "w": 3,
+            "l": 4,
+            "gb_div": "2.0",
+            "gb_wc": "0.5",
+            "pct": ".429",
+            "stk": "L1",
+            "rf": 31,
+            "ra": 35,
+            "rd": -4
+          }
+        }
+      }
+    ]
+  },
+  "standings": {
+    "division": [
+      {
+        "team": {
+          "id": "MIA",
+          "city": "Miami",
+          "nick": "Marlins",
+          "full": "Miami Marlins",
+          "div": {
+            "id": "national-league-east",
+            "name": "National League East"
+          },
+          "conf": {
+            "id": "national-league",
+            "name": "National League"
+          }
+        },
+        "stats": {
+          "gp": 6,
+          "w": 5,
+          "l": 1,
+          "gb_div": "-",
+          "gb_wc": "-",
+          "pct": ".833",
+          "stk": "W2",
+          "rf": 33,
+          "ra": 18,
+          "rd": 15
+        },
+        "rnk": {
+          "lg": "2",
+          "cf": "2",
+          "dv": "1",
+          "clinch": false
+        }
+      },
+      {
+        "team": {
+          "id": "ATL",
+          "city": "Atlanta",
+          "nick": "Braves",
+          "full": "Atlanta Braves",
+          "div": {
+            "id": "national-league-east",
+            "name": "National League East"
+          },
+          "conf": {
+            "id": "national-league",
+            "name": "National League"
+          }
+        },
+        "stats": {
+          "gp": 6,
+          "w": 4,
+          "l": 2,
+          "gb_div": "1.0",
+          "gb_wc": "+1.0",
+          "pct": ".667",
+          "stk": "W1",
+          "rf": 24,
+          "ra": 12,
+          "rd": 12
+        },
+        "rnk": {
+          "lg": "3",
+          "cf": "3",
+          "dv": "2",
+          "clinch": false
+        }
+      },
+      {
+        "team": {
+          "id": "PHI",
+          "city": "Philadelphia",
+          "nick": "Phillies",
+          "full": "Philadelphia Phillies",
+          "div": {
+            "id": "national-league-east",
+            "name": "National League East"
+          },
+          "conf": {
+            "id": "national-league",
+            "name": "National League"
+          }
+        },
+        "stats": {
+          "gp": 6,
+          "w": 3,
+          "l": 3,
+          "gb_div": "2.0",
+          "gb_wc": "-",
+          "pct": ".500",
+          "stk": "W2",
+          "rf": 23,
+          "ra": 36,
+          "rd": -13
+        },
+        "rnk": {
+          "lg": "10",
+          "cf": "10",
+          "dv": "3",
+          "clinch": false
+        }
+      },
+      {
+        "team": {
+          "id": "WSH",
+          "city": "Washington",
+          "nick": "Nationals",
+          "full": "Washington Nationals",
+          "div": {
+            "id": "national-league-east",
+            "name": "National League East"
+          },
+          "conf": {
+            "id": "national-league",
+            "name": "National League"
+          }
+        },
+        "stats": {
+          "gp": 6,
+          "w": 3,
+          "l": 3,
+          "gb_div": "2.0",
+          "gb_wc": "-",
+          "pct": ".500",
+          "stk": "L2",
+          "rf": 38,
+          "ra": 28,
+          "rd": 10
+        },
+        "rnk": {
+          "lg": "9",
+          "cf": "9",
+          "dv": "4",
+          "clinch": false
+        }
+      },
+      {
+        "team": {
+          "id": "NYM",
+          "city": "New York",
+          "nick": "Mets",
+          "full": "New York Mets",
+          "div": {
+            "id": "national-league-east",
+            "name": "National League East"
+          },
+          "conf": {
+            "id": "national-league",
+            "name": "National League"
+          }
+        },
+        "stats": {
+          "gp": 6,
+          "w": 3,
+          "l": 3,
+          "gb_div": "2.0",
+          "gb_wc": "-",
+          "pct": ".500",
+          "stk": "L2",
+          "rf": 23,
+          "ra": 20,
+          "rd": 3
+        },
+        "rnk": {
+          "lg": "8",
+          "cf": "8",
+          "dv": "5",
+          "clinch": false
+        }
+      }
+    ],
+    "conference": [
+      {
+        "team": {
+          "id": "MIA",
+          "city": "Miami",
+          "nick": "Marlins",
+          "full": "Miami Marlins",
+          "div": {
+            "id": "national-league-east",
+            "name": "National League East"
+          },
+          "conf": {
+            "id": "national-league",
+            "name": "National League"
+          }
+        },
+        "stats": {
+          "gp": 6,
+          "w": 5,
+          "l": 1,
+          "gb_div": "-",
+          "gb_wc": "-",
+          "pct": ".833",
+          "stk": "W2",
+          "rf": 33,
+          "ra": 18,
+          "rd": 15
+        },
+        "rnk": {
+          "lg": "2",
+          "cf": "2",
+          "dv": "1",
+          "clinch": false
+        }
+      },
+      {
+        "team": {
+          "id": "ATL",
+          "city": "Atlanta",
+          "nick": "Braves",
+          "full": "Atlanta Braves",
+          "div": {
+            "id": "national-league-east",
+            "name": "National League East"
+          },
+          "conf": {
+            "id": "national-league",
+            "name": "National League"
+          }
+        },
+        "stats": {
+          "gp": 6,
+          "w": 4,
+          "l": 2,
+          "gb_div": "1.0",
+          "gb_wc": "+1.0",
+          "pct": ".667",
+          "stk": "W1",
+          "rf": 24,
+          "ra": 12,
+          "rd": 12
+        },
+        "rnk": {
+          "lg": "3",
+          "cf": "3",
+          "dv": "2",
+          "clinch": false
+        }
+      },
+      {
+        "team": {
+          "id": "PHI",
+          "city": "Philadelphia",
+          "nick": "Phillies",
+          "full": "Philadelphia Phillies",
+          "div": {
+            "id": "national-league-east",
+            "name": "National League East"
+          },
+          "conf": {
+            "id": "national-league",
+            "name": "National League"
+          }
+        },
+        "stats": {
+          "gp": 6,
+          "w": 3,
+          "l": 3,
+          "gb_div": "2.0",
+          "gb_wc": "-",
+          "pct": ".500",
+          "stk": "W2",
+          "rf": 23,
+          "ra": 36,
+          "rd": -13
+        },
+        "rnk": {
+          "lg": "10",
+          "cf": "10",
+          "dv": "3",
+          "clinch": false
+        }
+      },
+      {
+        "team": {
+          "id": "WSH",
+          "city": "Washington",
+          "nick": "Nationals",
+          "full": "Washington Nationals",
+          "div": {
+            "id": "national-league-east",
+            "name": "National League East"
+          },
+          "conf": {
+            "id": "national-league",
+            "name": "National League"
+          }
+        },
+        "stats": {
+          "gp": 6,
+          "w": 3,
+          "l": 3,
+          "gb_div": "2.0",
+          "gb_wc": "-",
+          "pct": ".500",
+          "stk": "L2",
+          "rf": 38,
+          "ra": 28,
+          "rd": 10
+        },
+        "rnk": {
+          "lg": "9",
+          "cf": "9",
+          "dv": "4",
+          "clinch": false
+        }
+      },
+      {
+        "team": {
+          "id": "NYM",
+          "city": "New York",
+          "nick": "Mets",
+          "full": "New York Mets",
+          "div": {
+            "id": "national-league-east",
+            "name": "National League East"
+          },
+          "conf": {
+            "id": "national-league",
+            "name": "National League"
+          }
+        },
+        "stats": {
+          "gp": 6,
+          "w": 3,
+          "l": 3,
+          "gb_div": "2.0",
+          "gb_wc": "-",
+          "pct": ".500",
+          "stk": "L2",
+          "rf": 23,
+          "ra": 20,
+          "rd": 3
+        },
+        "rnk": {
+          "lg": "8",
+          "cf": "8",
+          "dv": "5",
+          "clinch": false
+        }
+      },
+      {
+        "team": {
+          "id": "MIL",
+          "city": "Milwaukee",
+          "nick": "Brewers",
+          "full": "Milwaukee Brewers",
+          "div": {
+            "id": "national-league-central",
+            "name": "National League Central"
+          },
+          "conf": {
+            "id": "national-league",
+            "name": "National League"
+          }
+        },
+        "stats": {
+          "gp": 6,
+          "w": 5,
+          "l": 1,
+          "gb_div": "-",
+          "gb_wc": "-",
+          "pct": ".833",
+          "stk": "W2",
+          "rf": 45,
+          "ra": 17,
+          "rd": 28
+        },
+        "rnk": {
+          "lg": "1",
+          "cf": "1",
+          "dv": "1",
+          "clinch": false
+        }
+      },
+      {
+        "team": {
+          "id": "STL",
+          "city": "St. Louis",
+          "nick": "Cardinals",
+          "full": "St. Louis Cardinals",
+          "div": {
+            "id": "national-league-central",
+            "name": "National League Central"
+          },
+          "conf": {
+            "id": "national-league",
+            "name": "National League"
+          }
+        },
+        "stats": {
+          "gp": 6,
+          "w": 4,
+          "l": 2,
+          "gb_div": "1.0",
+          "gb_wc": "+1.0",
+          "pct": ".667",
+          "stk": "W2",
+          "rf": 29,
+          "ra": 28,
+          "rd": 1
+        },
+        "rnk": {
+          "lg": "4",
+          "cf": "4",
+          "dv": "2",
+          "clinch": false
+        }
+      },
+      {
+        "team": {
+          "id": "PIT",
+          "city": "Pittsburgh",
+          "nick": "Pirates",
+          "full": "Pittsburgh Pirates",
+          "div": {
+            "id": "national-league-central",
+            "name": "National League Central"
+          },
+          "conf": {
+            "id": "national-league",
+            "name": "National League"
+          }
+        },
+        "stats": {
+          "gp": 6,
+          "w": 3,
+          "l": 3,
+          "gb_div": "2.0",
+          "gb_wc": "-",
+          "pct": ".500",
+          "stk": "W2",
+          "rf": 29,
+          "ra": 26,
+          "rd": 3
+        },
+        "rnk": {
+          "lg": "11",
+          "cf": "11",
+          "dv": "3",
+          "clinch": false
+        }
+      },
+      {
+        "team": {
+          "id": "CIN",
+          "city": "Cincinnati",
+          "nick": "Reds",
+          "full": "Cincinnati Reds",
+          "div": {
+            "id": "national-league-central",
+            "name": "National League Central"
+          },
+          "conf": {
+            "id": "national-league",
+            "name": "National League"
+          }
+        },
+        "stats": {
+          "gp": 6,
+          "w": 3,
+          "l": 3,
+          "gb_div": "2.0",
+          "gb_wc": "-",
+          "pct": ".500",
+          "stk": "L2",
+          "rf": 17,
+          "ra": 26,
+          "rd": -9
+        },
+        "rnk": {
+          "lg": "12",
+          "cf": "12",
+          "dv": "4",
+          "clinch": false
+        }
+      },
+      {
+        "team": {
+          "id": "CHC",
+          "city": "Chicago",
+          "nick": "Cubs",
+          "full": "Chicago Cubs",
+          "div": {
+            "id": "national-league-central",
+            "name": "National League Central"
+          },
+          "conf": {
+            "id": "national-league",
+            "name": "National League"
+          }
+        },
+        "stats": {
+          "gp": 6,
+          "w": 3,
+          "l": 3,
+          "gb_div": "2.0",
+          "gb_wc": "-",
+          "pct": ".500",
+          "stk": "W1",
+          "rf": 30,
+          "ra": 24,
+          "rd": 6
+        },
+        "rnk": {
+          "lg": "6",
+          "cf": "6",
+          "dv": "5",
+          "clinch": false
+        }
+      },
+      {
+        "team": {
+          "id": "LAD",
+          "city": "Los Angeles",
+          "nick": "Dodgers",
+          "full": "Los Angeles Dodgers",
+          "div": {
+            "id": "national-league-west",
+            "name": "National League West"
+          },
+          "conf": {
+            "id": "national-league",
+            "name": "National League"
+          }
+        },
+        "stats": {
+          "gp": 6,
+          "w": 4,
+          "l": 2,
+          "gb_div": "-",
+          "gb_wc": "-",
+          "pct": ".667",
+          "stk": "L1",
+          "rf": 23,
+          "ra": 17,
+          "rd": 6
+        },
+        "rnk": {
+          "lg": "5",
+          "cf": "5",
+          "dv": "1",
+          "clinch": false
+        }
+      },
+      {
+        "team": {
+          "id": "AZ",
+          "city": "Arizona",
+          "nick": "Diamondbacks",
+          "full": "Arizona Diamondbacks",
+          "div": {
+            "id": "national-league-west",
+            "name": "National League West"
+          },
+          "conf": {
+            "id": "national-league",
+            "name": "National League"
+          }
+        },
+        "stats": {
+          "gp": 6,
+          "w": 3,
+          "l": 3,
+          "gb_div": "1.0",
+          "gb_wc": "-",
+          "pct": ".500",
+          "stk": "W3",
+          "rf": 25,
+          "ra": 27,
+          "rd": -2
+        },
+        "rnk": {
+          "lg": "7",
+          "cf": "7",
+          "dv": "2",
+          "clinch": false
+        }
+      },
+      {
+        "team": {
+          "id": "SF",
+          "city": "San Francisco",
+          "nick": "Giants",
+          "full": "San Francisco Giants",
+          "div": {
+            "id": "national-league-west",
+            "name": "National League West"
+          },
+          "conf": {
+            "id": "national-league",
+            "name": "National League"
+          }
+        },
+        "stats": {
+          "gp": 6,
+          "w": 2,
+          "l": 4,
+          "gb_div": "2.0",
+          "gb_wc": "1.0",
+          "pct": ".333",
+          "stk": "L1",
+          "rf": 14,
+          "ra": 25,
+          "rd": -11
+        },
+        "rnk": {
+          "lg": "13",
+          "cf": "13",
+          "dv": "3",
+          "clinch": false
+        }
+      },
+      {
+        "team": {
+          "id": "SD",
+          "city": "San Diego",
+          "nick": "Padres",
+          "full": "San Diego Padres",
+          "div": {
+            "id": "national-league-west",
+            "name": "National League West"
+          },
+          "conf": {
+            "id": "national-league",
+            "name": "National League"
+          }
+        },
+        "stats": {
+          "gp": 6,
+          "w": 2,
+          "l": 4,
+          "gb_div": "2.0",
+          "gb_wc": "1.0",
+          "pct": ".333",
+          "stk": "W1",
+          "rf": 19,
+          "ra": 26,
+          "rd": -7
+        },
+        "rnk": {
+          "lg": "14",
+          "cf": "14",
+          "dv": "4",
+          "clinch": false
+        }
+      },
+      {
+        "team": {
+          "id": "COL",
+          "city": "Colorado",
+          "nick": "Rockies",
+          "full": "Colorado Rockies",
+          "div": {
+            "id": "national-league-west",
+            "name": "National League West"
+          },
+          "conf": {
+            "id": "national-league",
+            "name": "National League"
+          }
+        },
+        "stats": {
+          "gp": 6,
+          "w": 2,
+          "l": 4,
+          "gb_div": "2.0",
+          "gb_wc": "1.0",
+          "pct": ".333",
+          "stk": "W1",
+          "rf": 24,
+          "ra": 21,
+          "rd": 3
+        },
+        "rnk": {
+          "lg": "15",
+          "cf": "15",
+          "dv": "5",
+          "clinch": false
+        }
+      }
+    ]
+  }
+}
