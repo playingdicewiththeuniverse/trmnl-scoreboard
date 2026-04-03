@@ -121,42 +121,14 @@
     "upcoming": [
       {
         "game_id": "20260403-CWS-TOR-1",
-        "game_time_utc": "2026-04-02 20:10:00+00:00",
-        "game_date": "2026-04-03",
-        "final": "Postponed",
-        "outcome": "other",
-        "location": "Home",
-        "score": [
-          null,
-          null
-        ],
-        "opponent": {
-          "id": "TOR",
-          "name": "Toronto Blue Jays",
-          "stats": {
-            "gp": 6,
-            "w": 4,
-            "l": 2,
-            "gb_div": "1.0",
-            "gb_wc": "+1.0",
-            "pct": ".667",
-            "stk": "L1",
-            "rf": 27,
-            "ra": 28,
-            "rd": -1
-          }
-        }
-      },
-      {
-        "game_id": "20260403-CWS-TOR-1",
         "game_time_utc": "2026-04-03 18:10:00+00:00",
         "game_date": "2026-04-03",
-        "final": "",
-        "outcome": "win",
+        "final": "Live",
+        "outcome": "tie",
         "location": "Home",
         "score": [
           1,
-          0
+          1
         ],
         "opponent": {
           "id": "TOR",
@@ -227,6 +199,34 @@
             "stk": "L1",
             "rf": 27,
             "ra": 28,
+            "rd": -1
+          }
+        }
+      },
+      {
+        "game_id": "20260406-CWS-BAL-1",
+        "game_time_utc": "2026-04-06 23:40:00+00:00",
+        "game_date": "2026-04-06",
+        "final": "",
+        "outcome": "upcoming",
+        "location": "Home",
+        "score": [
+          null,
+          null
+        ],
+        "opponent": {
+          "id": "BAL",
+          "name": "Baltimore Orioles",
+          "stats": {
+            "gp": 6,
+            "w": 3,
+            "l": 3,
+            "gb_div": "2.0",
+            "gb_wc": "-",
+            "pct": ".500",
+            "stk": "W1",
+            "rf": 26,
+            "ra": 27,
             "rd": -1
           }
         }

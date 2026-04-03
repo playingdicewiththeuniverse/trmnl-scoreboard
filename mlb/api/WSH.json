@@ -123,12 +123,12 @@
         "game_id": "20260403-WSH-LAD-1",
         "game_time_utc": "2026-04-03 17:05:00+00:00",
         "game_date": "2026-04-03",
-        "final": "",
+        "final": "Live",
         "outcome": "loss",
         "location": "Home",
         "score": [
           4,
-          10
+          11
         ],
         "opponent": {
           "id": "LAD",

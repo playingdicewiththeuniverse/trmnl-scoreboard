@@ -157,6 +157,11 @@ def update_games():
   games = json_request(url)
   for day in games['dates']:
     for game in day['games']:
+
+      if game['status']['detailedState'] == 'Postponed':
+        # Skip postponed games
+        continue
+
       game_date    = game['officialDate']
       game_time    = parse(game['gameDate'])
       
@@ -168,7 +173,7 @@ def update_games():
         else:
           game_final = game['status']['detailedState']  
       elif game['status']['abstractGameState'] == 'Live':
-        game_final = ''
+        game_final = 'Live'
       else:
         game_final = ''
       
@@ -255,6 +260,7 @@ def generate_team_json():
     all_games    = json_from_file( GAME_FILE_PATH.format(team_id.lower()) )
     past_games   = []
     future_games = []
+    
     for game in all_games:
       if game['game_date'] >= today:
         future_games.append(game)

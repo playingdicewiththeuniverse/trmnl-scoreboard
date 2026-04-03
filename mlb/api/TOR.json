@@ -121,41 +121,13 @@
     "upcoming": [
       {
         "game_id": "20260403-CWS-TOR-1",
-        "game_time_utc": "2026-04-02 20:10:00+00:00",
-        "game_date": "2026-04-03",
-        "final": "Postponed",
-        "location": "Away",
-        "outcome": "other",
-        "score": [
-          null,
-          null
-        ],
-        "opponent": {
-          "id": "CWS",
-          "name": "Chicago White Sox",
-          "stats": {
-            "gp": 6,
-            "w": 1,
-            "l": 5,
-            "gb_div": "2.5",
-            "gb_wc": "2.0",
-            "pct": ".167",
-            "stk": "L2",
-            "rf": 21,
-            "ra": 52,
-            "rd": -31
-          }
-        }
-      },
-      {
-        "game_id": "20260403-CWS-TOR-1",
         "game_time_utc": "2026-04-03 18:10:00+00:00",
         "game_date": "2026-04-03",
-        "final": "",
+        "final": "Live",
         "location": "Away",
-        "outcome": "loss",
+        "outcome": "tie",
         "score": [
-          0,
+          1,
           1
         ],
         "opponent": {
@@ -228,6 +200,34 @@
             "rf": 21,
             "ra": 52,
             "rd": -31
+          }
+        }
+      },
+      {
+        "game_id": "20260406-TOR-LAD-1",
+        "game_time_utc": "2026-04-06 23:07:00+00:00",
+        "game_date": "2026-04-06",
+        "final": "",
+        "outcome": "upcoming",
+        "location": "Home",
+        "score": [
+          null,
+          null
+        ],
+        "opponent": {
+          "id": "LAD",
+          "name": "Los Angeles Dodgers",
+          "stats": {
+            "gp": 6,
+            "w": 4,
+            "l": 2,
+            "gb_div": "-",
+            "gb_wc": "-",
+            "pct": ".667",
+            "stk": "L1",
+            "rf": 23,
+            "ra": 17,
+            "rd": 6
           }
         }
       }
