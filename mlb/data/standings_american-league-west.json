@@ -15,16 +15,16 @@
       }
     },
     "stats": {
-      "gp": 8,
-      "w": 5,
+      "gp": 9,
+      "w": 6,
       "l": 3,
       "gb_div": "-",
       "gb_wc": "-",
-      "pct": ".625",
-      "stk": "L1",
-      "rf": 49,
+      "pct": ".667",
+      "stk": "W1",
+      "rf": 60,
       "ra": 43,
-      "rd": 6
+      "rd": 17
     },
     "rnk": {
       "lg": "2",
@@ -49,55 +49,21 @@
       }
     },
     "stats": {
-      "gp": 7,
+      "gp": 8,
       "w": 4,
-      "l": 3,
-      "gb_div": "0.5",
-      "gb_wc": "+0.5",
-      "pct": ".571",
-      "stk": "L2",
+      "l": 4,
+      "gb_div": "1.5",
+      "gb_wc": "-",
+      "pct": ".500",
+      "stk": "L3",
       "rf": 35,
-      "ra": 32,
-      "rd": 3
+      "ra": 34,
+      "rd": 1
     },
     "rnk": {
       "lg": "5",
       "cf": "5",
       "dv": "2",
-      "clinch": false
-    }
-  },
-  {
-    "team": {
-      "id": "SEA",
-      "city": "Seattle",
-      "nick": "Mariners",
-      "full": "Seattle Mariners",
-      "div": {
-        "id": "american-league-west",
-        "name": "American League West"
-      },
-      "conf": {
-        "id": "american-league",
-        "name": "American League"
-      }
-    },
-    "stats": {
-      "gp": 8,
-      "w": 4,
-      "l": 4,
-      "gb_div": "1.0",
-      "gb_wc": "-",
-      "pct": ".500",
-      "stk": "W1",
-      "rf": 30,
-      "ra": 25,
-      "rd": 5
-    },
-    "rnk": {
-      "lg": "6",
-      "cf": "6",
-      "dv": "3",
       "clinch": false
     }
   },
@@ -117,20 +83,54 @@
       }
     },
     "stats": {
-      "gp": 8,
-      "w": 3,
+      "gp": 9,
+      "w": 4,
       "l": 5,
       "gb_div": "2.0",
-      "gb_wc": "1.0",
-      "pct": ".375",
-      "stk": "L2",
-      "rf": 32,
+      "gb_wc": "0.5",
+      "pct": ".444",
+      "stk": "W1",
+      "rf": 33,
       "ra": 38,
-      "rd": -6
+      "rd": -5
     },
     "rnk": {
-      "lg": "11",
-      "cf": "11",
+      "lg": "8",
+      "cf": "8",
+      "dv": "3",
+      "clinch": false
+    }
+  },
+  {
+    "team": {
+      "id": "SEA",
+      "city": "Seattle",
+      "nick": "Mariners",
+      "full": "Seattle Mariners",
+      "div": {
+        "id": "american-league-west",
+        "name": "American League West"
+      },
+      "conf": {
+        "id": "american-league",
+        "name": "American League"
+      }
+    },
+    "stats": {
+      "gp": 9,
+      "w": 4,
+      "l": 5,
+      "gb_div": "2.0",
+      "gb_wc": "0.5",
+      "pct": ".444",
+      "stk": "L1",
+      "rf": 30,
+      "ra": 26,
+      "rd": 4
+    },
+    "rnk": {
+      "lg": "9",
+      "cf": "9",
       "dv": "4",
       "clinch": false
     }
@@ -151,20 +151,20 @@
       }
     },
     "stats": {
-      "gp": 7,
+      "gp": 8,
       "w": 2,
-      "l": 5,
-      "gb_div": "2.5",
-      "gb_wc": "1.5",
-      "pct": ".286",
-      "stk": "W1",
+      "l": 6,
+      "gb_div": "3.5",
+      "gb_wc": "2.0",
+      "pct": ".250",
+      "stk": "L1",
       "rf": 28,
-      "ra": 31,
-      "rd": -3
+      "ra": 42,
+      "rd": -14
     },
     "rnk": {
-      "lg": "12",
-      "cf": "12",
+      "lg": "14",
+      "cf": "14",
       "dv": "5",
       "clinch": false
     }

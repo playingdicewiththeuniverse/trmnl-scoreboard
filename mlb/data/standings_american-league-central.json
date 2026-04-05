@@ -49,55 +49,21 @@
       }
     },
     "stats": {
-      "gp": 6,
-      "w": 3,
-      "l": 3,
+      "gp": 8,
+      "w": 4,
+      "l": 4,
       "gb_div": "1.0",
       "gb_wc": "-",
       "pct": ".500",
-      "stk": "L1",
-      "rf": 23,
-      "ra": 28,
-      "rd": -5
+      "stk": "W1",
+      "rf": 33,
+      "ra": 35,
+      "rd": -2
     },
     "rnk": {
-      "lg": "7",
-      "cf": "7",
+      "lg": "6",
+      "cf": "6",
       "dv": "2",
-      "clinch": false
-    }
-  },
-  {
-    "team": {
-      "id": "MIN",
-      "city": "Minnesota",
-      "nick": "Twins",
-      "full": "Minnesota Twins",
-      "div": {
-        "id": "american-league-central",
-        "name": "American League Central"
-      },
-      "conf": {
-        "id": "american-league",
-        "name": "American League"
-      }
-    },
-    "stats": {
-      "gp": 7,
-      "w": 3,
-      "l": 4,
-      "gb_div": "1.5",
-      "gb_wc": "0.5",
-      "pct": ".429",
-      "stk": "W2",
-      "rf": 36,
-      "ra": 32,
-      "rd": 4
-    },
-    "rnk": {
-      "lg": "10",
-      "cf": "10",
-      "dv": "3",
       "clinch": false
     }
   },
@@ -117,20 +83,54 @@
       }
     },
     "stats": {
-      "gp": 7,
-      "w": 3,
+      "gp": 8,
+      "w": 4,
       "l": 4,
-      "gb_div": "1.5",
-      "gb_wc": "0.5",
-      "pct": ".429",
-      "stk": "W1",
-      "rf": 28,
-      "ra": 24,
-      "rd": 4
+      "gb_div": "1.0",
+      "gb_wc": "-",
+      "pct": ".500",
+      "stk": "W2",
+      "rf": 39,
+      "ra": 30,
+      "rd": 9
     },
     "rnk": {
-      "lg": "9",
-      "cf": "9",
+      "lg": "7",
+      "cf": "7",
+      "dv": "3",
+      "clinch": false
+    }
+  },
+  {
+    "team": {
+      "id": "MIN",
+      "city": "Minnesota",
+      "nick": "Twins",
+      "full": "Minnesota Twins",
+      "div": {
+        "id": "american-league-central",
+        "name": "American League Central"
+      },
+      "conf": {
+        "id": "american-league",
+        "name": "American League"
+      }
+    },
+    "stats": {
+      "gp": 8,
+      "w": 3,
+      "l": 5,
+      "gb_div": "2.0",
+      "gb_wc": "1.0",
+      "pct": ".375",
+      "stk": "L1",
+      "rf": 37,
+      "ra": 39,
+      "rd": -2
+    },
+    "rnk": {
+      "lg": "12",
+      "cf": "12",
       "dv": "4",
       "clinch": false
     }
@@ -151,20 +151,20 @@
       }
     },
     "stats": {
-      "gp": 7,
-      "w": 2,
+      "gp": 8,
+      "w": 3,
       "l": 5,
-      "gb_div": "2.5",
-      "gb_wc": "1.5",
-      "pct": ".286",
-      "stk": "W1",
-      "rf": 26,
-      "ra": 56,
-      "rd": -30
+      "gb_div": "2.0",
+      "gb_wc": "1.0",
+      "pct": ".375",
+      "stk": "W2",
+      "rf": 32,
+      "ra": 59,
+      "rd": -27
     },
     "rnk": {
-      "lg": "15",
-      "cf": "15",
+      "lg": "13",
+      "cf": "13",
       "dv": "5",
       "clinch": false
     }
