@@ -15,57 +15,22 @@
       }
     },
     "stats": {
-      "gp": 77,
+      "gp": 78,
       "w": 39,
       "l": 29,
       "t": 0,
-      "otl": 9,
-      "pts": 87,
-      "pct": 0.56494,
-      "stk": "L1",
-      "gf": 265,
-      "ga": 257,
-      "gd": 8
-    },
-    "rnk": {
-      "lg": 15,
-      "cf": 4,
-      "dv": 1,
-      "wc": null
-    }
-  },
-  {
-    "team": {
-      "id": "ANA",
-      "city": "Anaheim",
-      "nick": "Ducks",
-      "full": "Anaheim Ducks",
-      "div": {
-        "id": "div-pacific",
-        "name": "Pacific Division"
-      },
-      "conf": {
-        "id": "conf-western",
-        "name": "Western Conference"
-      }
-    },
-    "stats": {
-      "gp": 77,
-      "w": 41,
-      "l": 31,
-      "t": 0,
-      "otl": 5,
-      "pts": 87,
-      "pct": 0.56494,
-      "stk": "L3",
-      "gf": 257,
-      "ga": 271,
-      "gd": -14
+      "otl": 10,
+      "pts": 88,
+      "pct": 0.5641,
+      "stk": "OT1",
+      "gf": 270,
+      "ga": 263,
+      "gd": 7
     },
     "rnk": {
       "lg": 16,
       "cf": 5,
-      "dv": 2,
+      "dv": 1,
       "wc": null
     }
   },
@@ -85,17 +50,52 @@
       }
     },
     "stats": {
-      "gp": 77,
-      "w": 35,
+      "gp": 78,
+      "w": 36,
       "l": 26,
       "t": 0,
       "otl": 16,
-      "pts": 86,
-      "pct": 0.55844,
-      "stk": "W3",
-      "gf": 247,
-      "ga": 240,
-      "gd": 7
+      "pts": 88,
+      "pct": 0.5641,
+      "stk": "W4",
+      "gf": 249,
+      "ga": 241,
+      "gd": 8
+    },
+    "rnk": {
+      "lg": 17,
+      "cf": 6,
+      "dv": 2,
+      "wc": null
+    }
+  },
+  {
+    "team": {
+      "id": "ANA",
+      "city": "Anaheim",
+      "nick": "Ducks",
+      "full": "Anaheim Ducks",
+      "div": {
+        "id": "div-pacific",
+        "name": "Pacific Division"
+      },
+      "conf": {
+        "id": "conf-western",
+        "name": "Western Conference"
+      }
+    },
+    "stats": {
+      "gp": 78,
+      "w": 41,
+      "l": 32,
+      "t": 0,
+      "otl": 5,
+      "pts": 87,
+      "pct": 0.55769,
+      "stk": "L4",
+      "gf": 257,
+      "ga": 276,
+      "gd": -19
     },
     "rnk": {
       "lg": 19,
@@ -134,9 +134,9 @@
     },
     "rnk": {
       "lg": 21,
-      "cf": 8,
+      "cf": 9,
       "dv": 4,
-      "wc": 2
+      "wc": 3
     }
   },
   {
@@ -190,17 +190,17 @@
       }
     },
     "stats": {
-      "gp": 76,
+      "gp": 77,
       "w": 32,
-      "l": 33,
+      "l": 34,
       "t": 0,
       "otl": 11,
       "pts": 75,
-      "pct": 0.49342,
-      "stk": "L4",
-      "gf": 212,
-      "ga": 243,
-      "gd": -31
+      "pct": 0.48701,
+      "stk": "L5",
+      "gf": 214,
+      "ga": 248,
+      "gd": -34
     },
     "rnk": {
       "lg": 28,
@@ -225,17 +225,17 @@
       }
     },
     "stats": {
-      "gp": 76,
+      "gp": 77,
       "w": 32,
       "l": 36,
       "t": 0,
-      "otl": 8,
-      "pts": 72,
-      "pct": 0.47368,
-      "stk": "W1",
-      "gf": 199,
-      "ga": 243,
-      "gd": -44
+      "otl": 9,
+      "pts": 73,
+      "pct": 0.47403,
+      "stk": "OT1",
+      "gf": 202,
+      "ga": 247,
+      "gd": -45
     },
     "rnk": {
       "lg": 30,
@@ -260,17 +260,17 @@
       }
     },
     "stats": {
-      "gp": 76,
+      "gp": 77,
       "w": 22,
-      "l": 46,
+      "l": 47,
       "t": 0,
       "otl": 8,
       "pts": 52,
-      "pct": 0.34211,
-      "stk": "L2",
-      "gf": 201,
-      "ga": 295,
-      "gd": -94
+      "pct": 0.33766,
+      "stk": "L3",
+      "gf": 202,
+      "ga": 297,
+      "gd": -95
     },
     "rnk": {
       "lg": 32,

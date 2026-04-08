@@ -15,17 +15,17 @@
       }
     },
     "stats": {
-      "gp": 77,
-      "w": 49,
+      "gp": 78,
+      "w": 50,
       "l": 22,
       "t": 0,
       "otl": 6,
-      "pts": 104,
-      "pct": 0.67532,
-      "stk": "L1",
-      "gf": 275,
-      "ga": 228,
-      "gd": 47
+      "pts": 106,
+      "pct": 0.67949,
+      "stk": "W1",
+      "gf": 281,
+      "ga": 233,
+      "gd": 48
     },
     "rnk": {
       "lg": 2,
@@ -85,23 +85,58 @@
       }
     },
     "stats": {
-      "gp": 77,
-      "w": 39,
+      "gp": 78,
+      "w": 40,
       "l": 26,
       "t": 0,
       "otl": 12,
-      "pts": 90,
-      "pct": 0.58442,
-      "stk": "W2",
-      "gf": 228,
-      "ga": 231,
-      "gd": -3
+      "pts": 92,
+      "pct": 0.58974,
+      "stk": "W3",
+      "gf": 233,
+      "ga": 232,
+      "gd": 1
     },
     "rnk": {
       "lg": 11,
       "cf": 8,
       "dv": 3,
       "wc": null
+    }
+  },
+  {
+    "team": {
+      "id": "CBJ",
+      "city": "Columbus",
+      "nick": "Blue Jackets",
+      "full": "Columbus Blue Jackets",
+      "div": {
+        "id": "div-metropolitan",
+        "name": "Metropolitan Division"
+      },
+      "conf": {
+        "id": "conf-eastern",
+        "name": "Eastern Conference"
+      }
+    },
+    "stats": {
+      "gp": 78,
+      "w": 39,
+      "l": 27,
+      "t": 0,
+      "otl": 12,
+      "pts": 90,
+      "pct": 0.57692,
+      "stk": "W1",
+      "gf": 245,
+      "ga": 241,
+      "gd": 4
+    },
+    "rnk": {
+      "lg": 12,
+      "cf": 9,
+      "dv": 4,
+      "wc": 3
     }
   },
   {
@@ -131,41 +166,6 @@
       "gf": 226,
       "ga": 229,
       "gd": -3
-    },
-    "rnk": {
-      "lg": 12,
-      "cf": 9,
-      "dv": 4,
-      "wc": 3
-    }
-  },
-  {
-    "team": {
-      "id": "CBJ",
-      "city": "Columbus",
-      "nick": "Blue Jackets",
-      "full": "Columbus Blue Jackets",
-      "div": {
-        "id": "div-metropolitan",
-        "name": "Metropolitan Division"
-      },
-      "conf": {
-        "id": "conf-eastern",
-        "name": "Eastern Conference"
-      }
-    },
-    "stats": {
-      "gp": 77,
-      "w": 38,
-      "l": 27,
-      "t": 0,
-      "otl": 12,
-      "pts": 88,
-      "pct": 0.57143,
-      "stk": "L3",
-      "gf": 241,
-      "ga": 238,
-      "gd": 3
     },
     "rnk": {
       "lg": 14,
@@ -203,7 +203,7 @@
       "gd": 8
     },
     "rnk": {
-      "lg": 17,
+      "lg": 18,
       "cf": 12,
       "dv": 6,
       "wc": 6
@@ -225,20 +225,20 @@
       }
     },
     "stats": {
-      "gp": 77,
+      "gp": 78,
       "w": 40,
-      "l": 34,
+      "l": 35,
       "t": 0,
       "otl": 3,
       "pts": 83,
-      "pct": 0.53896,
-      "stk": "W1",
-      "gf": 218,
-      "ga": 234,
-      "gd": -16
+      "pct": 0.53205,
+      "stk": "L1",
+      "gf": 219,
+      "ga": 239,
+      "gd": -20
     },
     "rnk": {
-      "lg": 20,
+      "lg": 22,
       "cf": 13,
       "dv": 7,
       "wc": 7
