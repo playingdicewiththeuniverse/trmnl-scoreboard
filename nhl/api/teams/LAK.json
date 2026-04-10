@@ -14,55 +14,26 @@
     }
   },
   "stats": {
-    "gp": 77,
-    "w": 32,
+    "gp": 78,
+    "w": 33,
     "l": 26,
     "t": 0,
     "otl": 19,
-    "pts": 83,
-    "pct": 0.53896,
-    "stk": "W2",
-    "gf": 211,
-    "ga": 236,
-    "gd": -25
+    "pts": 85,
+    "pct": 0.54487,
+    "stk": "W3",
+    "gf": 215,
+    "ga": 237,
+    "gd": -22
   },
   "rnk": {
-    "lg": 21,
-    "cf": 9,
+    "lg": 20,
+    "cf": 8,
     "dv": 4,
-    "wc": 3
+    "wc": 2
   },
   "games": {
     "past": [
-      {
-        "game_id": "20260402-LAK-NSH",
-        "game_time_utc": "2026-04-03 02:30:00+00:00",
-        "game_date": "2026-04-02",
-        "final": "Final/SO",
-        "outcome": "loss",
-        "location": "Home",
-        "score": [
-          4,
-          5
-        ],
-        "opponent": {
-          "id": "NSH",
-          "name": "Nashville Predators",
-          "stats": {
-            "gp": 78,
-            "w": 37,
-            "l": 31,
-            "t": 0,
-            "otl": 10,
-            "pts": 84,
-            "pct": 0.53846,
-            "stk": "W1",
-            "gf": 238,
-            "ga": 256,
-            "gd": -18
-          }
-        }
-      },
       {
         "game_id": "20260404-LAK-TOR",
         "game_time_utc": "2026-04-04 23:00:00+00:00",
@@ -78,17 +49,17 @@
           "id": "TOR",
           "name": "Toronto Maple Leafs",
           "stats": {
-            "gp": 78,
+            "gp": 79,
             "w": 32,
-            "l": 32,
+            "l": 33,
             "t": 0,
             "otl": 14,
             "pts": 78,
-            "pct": 0.5,
-            "stk": "L1",
-            "gf": 242,
-            "ga": 279,
-            "gd": -37
+            "pct": 0.49367,
+            "stk": "L2",
+            "gf": 245,
+            "ga": 284,
+            "gd": -39
           }
         }
       },
@@ -107,51 +78,51 @@
           "id": "NSH",
           "name": "Nashville Predators",
           "stats": {
-            "gp": 78,
+            "gp": 79,
             "w": 37,
-            "l": 31,
+            "l": 32,
             "t": 0,
             "otl": 10,
             "pts": 84,
-            "pct": 0.53846,
-            "stk": "W1",
-            "gf": 238,
-            "ga": 256,
-            "gd": -18
+            "pct": 0.53165,
+            "stk": "L1",
+            "gf": 239,
+            "ga": 260,
+            "gd": -21
           }
         }
-      }
-    ],
-    "upcoming": [
+      },
       {
         "game_id": "20260409-LAK-VAN",
         "game_time_utc": "2026-04-10 02:30:00+00:00",
         "game_date": "2026-04-09",
-        "final": "",
-        "outcome": "upcoming",
+        "final": "Final",
+        "outcome": "win",
         "location": "Home",
         "score": [
-          "",
-          ""
+          4,
+          1
         ],
         "opponent": {
           "id": "VAN",
           "name": "Vancouver Canucks",
           "stats": {
-            "gp": 77,
+            "gp": 78,
             "w": 22,
-            "l": 47,
+            "l": 48,
             "t": 0,
             "otl": 8,
             "pts": 52,
-            "pct": 0.33766,
-            "stk": "L3",
-            "gf": 202,
-            "ga": 297,
-            "gd": -95
+            "pct": 0.33333,
+            "stk": "L4",
+            "gf": 203,
+            "ga": 301,
+            "gd": -98
           }
         }
-      },
+      }
+    ],
+    "upcoming": [
       {
         "game_id": "20260411-LAK-EDM",
         "game_time_utc": "2026-04-11 20:00:00+00:00",
@@ -196,17 +167,17 @@
           "id": "SEA",
           "name": "Seattle Kraken",
           "stats": {
-            "gp": 77,
-            "w": 32,
+            "gp": 78,
+            "w": 33,
             "l": 34,
             "t": 0,
             "otl": 11,
-            "pts": 75,
-            "pct": 0.48701,
-            "stk": "L5",
-            "gf": 214,
-            "ga": 248,
-            "gd": -34
+            "pts": 77,
+            "pct": 0.49359,
+            "stk": "W1",
+            "gf": 218,
+            "ga": 251,
+            "gd": -33
           }
         }
       },
@@ -225,17 +196,46 @@
           "id": "VAN",
           "name": "Vancouver Canucks",
           "stats": {
-            "gp": 77,
+            "gp": 78,
             "w": 22,
-            "l": 47,
+            "l": 48,
             "t": 0,
             "otl": 8,
             "pts": 52,
-            "pct": 0.33766,
-            "stk": "L3",
-            "gf": 202,
-            "ga": 297,
-            "gd": -95
+            "pct": 0.33333,
+            "stk": "L4",
+            "gf": 203,
+            "ga": 301,
+            "gd": -98
+          }
+        }
+      },
+      {
+        "game_id": "20260416-CGY-LAK",
+        "game_time_utc": "2026-04-17 01:00:00+00:00",
+        "game_date": "2026-04-16",
+        "final": "",
+        "location": "Away",
+        "outcome": "upcoming",
+        "score": [
+          "",
+          ""
+        ],
+        "opponent": {
+          "id": "CGY",
+          "name": "Calgary Flames",
+          "stats": {
+            "gp": 78,
+            "w": 32,
+            "l": 37,
+            "t": 0,
+            "otl": 9,
+            "pts": 73,
+            "pct": 0.46795,
+            "stk": "L1",
+            "gf": 203,
+            "ga": 250,
+            "gd": -47
           }
         }
       }
@@ -272,8 +272,8 @@
           "gd": 10
         },
         "rnk": {
-          "lg": 13,
-          "cf": 4,
+          "lg": 15,
+          "cf": 5,
           "dv": 1,
           "wc": null
         }
@@ -294,17 +294,17 @@
           }
         },
         "stats": {
-          "gp": 78,
+          "gp": 79,
           "w": 36,
           "l": 26,
           "t": 0,
-          "otl": 16,
-          "pts": 88,
-          "pct": 0.5641,
-          "stk": "W4",
-          "gf": 249,
-          "ga": 241,
-          "gd": 8
+          "otl": 17,
+          "pts": 89,
+          "pct": 0.56329,
+          "stk": "OT1",
+          "gf": 252,
+          "ga": 245,
+          "gd": 7
         },
         "rnk": {
           "lg": 18,
@@ -329,17 +329,17 @@
           }
         },
         "stats": {
-          "gp": 78,
-          "w": 41,
+          "gp": 79,
+          "w": 42,
           "l": 32,
           "t": 0,
           "otl": 5,
-          "pts": 87,
-          "pct": 0.55769,
-          "stk": "L4",
-          "gf": 257,
-          "ga": 276,
-          "gd": -19
+          "pts": 89,
+          "pct": 0.56329,
+          "stk": "W1",
+          "gf": 263,
+          "ga": 277,
+          "gd": -14
         },
         "rnk": {
           "lg": 19,
@@ -364,23 +364,23 @@
           }
         },
         "stats": {
-          "gp": 77,
-          "w": 32,
+          "gp": 78,
+          "w": 33,
           "l": 26,
           "t": 0,
           "otl": 19,
-          "pts": 83,
-          "pct": 0.53896,
-          "stk": "W2",
-          "gf": 211,
-          "ga": 236,
-          "gd": -25
+          "pts": 85,
+          "pct": 0.54487,
+          "stk": "W3",
+          "gf": 215,
+          "ga": 237,
+          "gd": -22
         },
         "rnk": {
-          "lg": 21,
-          "cf": 9,
+          "lg": 20,
+          "cf": 8,
           "dv": 4,
-          "wc": 3
+          "wc": 2
         }
       },
       {
@@ -399,23 +399,23 @@
           }
         },
         "stats": {
-          "gp": 77,
+          "gp": 78,
           "w": 37,
-          "l": 33,
+          "l": 34,
           "t": 0,
           "otl": 7,
           "pts": 81,
-          "pct": 0.52597,
-          "stk": "L1",
-          "gf": 236,
-          "ga": 274,
-          "gd": -38
+          "pct": 0.51923,
+          "stk": "L2",
+          "gf": 237,
+          "ga": 280,
+          "gd": -43
         },
         "rnk": {
-          "lg": 23,
-          "cf": 10,
+          "lg": 24,
+          "cf": 11,
           "dv": 5,
-          "wc": 4
+          "wc": 5
         }
       },
       {
@@ -434,17 +434,17 @@
           }
         },
         "stats": {
-          "gp": 77,
-          "w": 32,
+          "gp": 78,
+          "w": 33,
           "l": 34,
           "t": 0,
           "otl": 11,
-          "pts": 75,
-          "pct": 0.48701,
-          "stk": "L5",
-          "gf": 214,
-          "ga": 248,
-          "gd": -34
+          "pts": 77,
+          "pct": 0.49359,
+          "stk": "W1",
+          "gf": 218,
+          "ga": 251,
+          "gd": -33
         },
         "rnk": {
           "lg": 28,
@@ -469,17 +469,17 @@
           }
         },
         "stats": {
-          "gp": 77,
+          "gp": 78,
           "w": 32,
-          "l": 36,
+          "l": 37,
           "t": 0,
           "otl": 9,
           "pts": 73,
-          "pct": 0.47403,
-          "stk": "OT1",
-          "gf": 202,
-          "ga": 247,
-          "gd": -45
+          "pct": 0.46795,
+          "stk": "L1",
+          "gf": 203,
+          "ga": 250,
+          "gd": -47
         },
         "rnk": {
           "lg": 30,
@@ -504,17 +504,17 @@
           }
         },
         "stats": {
-          "gp": 77,
+          "gp": 78,
           "w": 22,
-          "l": 47,
+          "l": 48,
           "t": 0,
           "otl": 8,
           "pts": 52,
-          "pct": 0.33766,
-          "stk": "L3",
-          "gf": 202,
-          "ga": 297,
-          "gd": -95
+          "pct": 0.33333,
+          "stk": "L4",
+          "gf": 203,
+          "ga": 301,
+          "gd": -98
         },
         "rnk": {
           "lg": 32,
@@ -541,17 +541,17 @@
           }
         },
         "stats": {
-          "gp": 77,
-          "w": 51,
+          "gp": 78,
+          "w": 52,
           "l": 16,
           "t": 0,
           "otl": 10,
-          "pts": 112,
-          "pct": 0.72727,
-          "stk": "W1",
-          "gf": 290,
-          "ga": 197,
-          "gd": 93
+          "pts": 114,
+          "pct": 0.73077,
+          "stk": "W2",
+          "gf": 293,
+          "ga": 198,
+          "gd": 95
         },
         "rnk": {
           "lg": 1,
@@ -576,17 +576,17 @@
           }
         },
         "stats": {
-          "gp": 78,
-          "w": 46,
+          "gp": 79,
+          "w": 47,
           "l": 20,
           "t": 0,
           "otl": 12,
-          "pts": 104,
-          "pct": 0.66667,
-          "stk": "W1",
-          "gf": 262,
-          "ga": 214,
-          "gd": 48
+          "pts": 106,
+          "pct": 0.67089,
+          "stk": "W2",
+          "gf": 267,
+          "ga": 218,
+          "gd": 49
         },
         "rnk": {
           "lg": 3,
@@ -611,23 +611,58 @@
           }
         },
         "stats": {
-          "gp": 78,
+          "gp": 79,
           "w": 45,
-          "l": 21,
+          "l": 22,
           "t": 0,
           "otl": 12,
           "pts": 102,
-          "pct": 0.65385,
-          "stk": "W4",
-          "gf": 261,
-          "ga": 225,
-          "gd": 36
+          "pct": 0.64557,
+          "stk": "L1",
+          "gf": 265,
+          "ga": 230,
+          "gd": 35
         },
         "rnk": {
           "lg": 7,
           "cf": 3,
           "dv": 3,
           "wc": null
+        }
+      },
+      {
+        "team": {
+          "id": "UTA",
+          "city": "Utah",
+          "nick": "Mammoth",
+          "full": "Utah Mammoth",
+          "div": {
+            "id": "div-central",
+            "name": "Central Division"
+          },
+          "conf": {
+            "id": "conf-western",
+            "name": "Western Conference"
+          }
+        },
+        "stats": {
+          "gp": 78,
+          "w": 42,
+          "l": 30,
+          "t": 0,
+          "otl": 6,
+          "pts": 90,
+          "pct": 0.57692,
+          "stk": "W5",
+          "gf": 258,
+          "ga": 224,
+          "gd": 34
+        },
+        "rnk": {
+          "lg": 14,
+          "cf": 4,
+          "dv": 4,
+          "wc": 1
         }
       },
       {
@@ -659,45 +694,10 @@
           "gd": 10
         },
         "rnk": {
-          "lg": 13,
-          "cf": 4,
+          "lg": 15,
+          "cf": 5,
           "dv": 1,
           "wc": null
-        }
-      },
-      {
-        "team": {
-          "id": "UTA",
-          "city": "Utah",
-          "nick": "Mammoth",
-          "full": "Utah Mammoth",
-          "div": {
-            "id": "div-central",
-            "name": "Central Division"
-          },
-          "conf": {
-            "id": "conf-western",
-            "name": "Western Conference"
-          }
-        },
-        "stats": {
-          "gp": 77,
-          "w": 41,
-          "l": 30,
-          "t": 0,
-          "otl": 6,
-          "pts": 88,
-          "pct": 0.57143,
-          "stk": "W4",
-          "gf": 254,
-          "ga": 223,
-          "gd": 31
-        },
-        "rnk": {
-          "lg": 17,
-          "cf": 5,
-          "dv": 4,
-          "wc": 1
         }
       },
       {
@@ -716,17 +716,17 @@
           }
         },
         "stats": {
-          "gp": 78,
+          "gp": 79,
           "w": 36,
           "l": 26,
           "t": 0,
-          "otl": 16,
-          "pts": 88,
-          "pct": 0.5641,
-          "stk": "W4",
-          "gf": 249,
-          "ga": 241,
-          "gd": 8
+          "otl": 17,
+          "pts": 89,
+          "pct": 0.56329,
+          "stk": "OT1",
+          "gf": 252,
+          "ga": 245,
+          "gd": 7
         },
         "rnk": {
           "lg": 18,
@@ -751,58 +751,23 @@
           }
         },
         "stats": {
-          "gp": 78,
-          "w": 41,
+          "gp": 79,
+          "w": 42,
           "l": 32,
           "t": 0,
           "otl": 5,
-          "pts": 87,
-          "pct": 0.55769,
-          "stk": "L4",
-          "gf": 257,
-          "ga": 276,
-          "gd": -19
+          "pts": 89,
+          "pct": 0.56329,
+          "stk": "W1",
+          "gf": 263,
+          "ga": 277,
+          "gd": -14
         },
         "rnk": {
           "lg": 19,
           "cf": 7,
           "dv": 3,
           "wc": null
-        }
-      },
-      {
-        "team": {
-          "id": "NSH",
-          "city": "Nashville",
-          "nick": "Predators",
-          "full": "Nashville Predators",
-          "div": {
-            "id": "div-central",
-            "name": "Central Division"
-          },
-          "conf": {
-            "id": "conf-western",
-            "name": "Western Conference"
-          }
-        },
-        "stats": {
-          "gp": 78,
-          "w": 37,
-          "l": 31,
-          "t": 0,
-          "otl": 10,
-          "pts": 84,
-          "pct": 0.53846,
-          "stk": "W1",
-          "gf": 238,
-          "ga": 256,
-          "gd": -18
-        },
-        "rnk": {
-          "lg": 20,
-          "cf": 8,
-          "dv": 5,
-          "wc": 2
         }
       },
       {
@@ -821,34 +786,34 @@
           }
         },
         "stats": {
-          "gp": 77,
-          "w": 32,
+          "gp": 78,
+          "w": 33,
           "l": 26,
           "t": 0,
           "otl": 19,
-          "pts": 83,
-          "pct": 0.53896,
-          "stk": "W2",
-          "gf": 211,
-          "ga": 236,
-          "gd": -25
+          "pts": 85,
+          "pct": 0.54487,
+          "stk": "W3",
+          "gf": 215,
+          "ga": 237,
+          "gd": -22
         },
         "rnk": {
-          "lg": 21,
-          "cf": 9,
+          "lg": 20,
+          "cf": 8,
           "dv": 4,
-          "wc": 3
+          "wc": 2
         }
       },
       {
         "team": {
-          "id": "SJS",
-          "city": "San Jose",
-          "nick": "Sharks",
-          "full": "San Jose Sharks",
+          "id": "NSH",
+          "city": "Nashville",
+          "nick": "Predators",
+          "full": "Nashville Predators",
           "div": {
-            "id": "div-pacific",
-            "name": "Pacific Division"
+            "id": "div-central",
+            "name": "Central Division"
           },
           "conf": {
             "id": "conf-western",
@@ -856,23 +821,23 @@
           }
         },
         "stats": {
-          "gp": 77,
+          "gp": 79,
           "w": 37,
-          "l": 33,
+          "l": 32,
           "t": 0,
-          "otl": 7,
-          "pts": 81,
-          "pct": 0.52597,
+          "otl": 10,
+          "pts": 84,
+          "pct": 0.53165,
           "stk": "L1",
-          "gf": 236,
-          "ga": 274,
-          "gd": -38
+          "gf": 239,
+          "ga": 260,
+          "gd": -21
         },
         "rnk": {
-          "lg": 23,
-          "cf": 10,
+          "lg": 21,
+          "cf": 9,
           "dv": 5,
-          "wc": 4
+          "wc": 3
         }
       },
       {
@@ -891,22 +856,57 @@
           }
         },
         "stats": {
-          "gp": 77,
-          "w": 34,
+          "gp": 78,
+          "w": 35,
           "l": 31,
           "t": 0,
           "otl": 12,
-          "pts": 80,
-          "pct": 0.51948,
-          "stk": "W2",
-          "gf": 221,
-          "ga": 234,
-          "gd": -13
+          "pts": 82,
+          "pct": 0.52564,
+          "stk": "W3",
+          "gf": 224,
+          "ga": 236,
+          "gd": -12
+        },
+        "rnk": {
+          "lg": 23,
+          "cf": 10,
+          "dv": 6,
+          "wc": 4
+        }
+      },
+      {
+        "team": {
+          "id": "SJS",
+          "city": "San Jose",
+          "nick": "Sharks",
+          "full": "San Jose Sharks",
+          "div": {
+            "id": "div-pacific",
+            "name": "Pacific Division"
+          },
+          "conf": {
+            "id": "conf-western",
+            "name": "Western Conference"
+          }
+        },
+        "stats": {
+          "gp": 78,
+          "w": 37,
+          "l": 34,
+          "t": 0,
+          "otl": 7,
+          "pts": 81,
+          "pct": 0.51923,
+          "stk": "L2",
+          "gf": 237,
+          "ga": 280,
+          "gd": -43
         },
         "rnk": {
           "lg": 24,
           "cf": 11,
-          "dv": 6,
+          "dv": 5,
           "wc": 5
         }
       },
@@ -926,17 +926,17 @@
           }
         },
         "stats": {
-          "gp": 77,
+          "gp": 78,
           "w": 33,
-          "l": 32,
+          "l": 33,
           "t": 0,
           "otl": 12,
           "pts": 78,
-          "pct": 0.50649,
-          "stk": "L1",
-          "gf": 206,
-          "ga": 241,
-          "gd": -35
+          "pct": 0.5,
+          "stk": "L2",
+          "gf": 208,
+          "ga": 244,
+          "gd": -36
         },
         "rnk": {
           "lg": 25,
@@ -961,17 +961,17 @@
           }
         },
         "stats": {
-          "gp": 77,
-          "w": 32,
+          "gp": 78,
+          "w": 33,
           "l": 34,
           "t": 0,
           "otl": 11,
-          "pts": 75,
-          "pct": 0.48701,
-          "stk": "L5",
-          "gf": 214,
-          "ga": 248,
-          "gd": -34
+          "pts": 77,
+          "pct": 0.49359,
+          "stk": "W1",
+          "gf": 218,
+          "ga": 251,
+          "gd": -33
         },
         "rnk": {
           "lg": 28,
@@ -996,17 +996,17 @@
           }
         },
         "stats": {
-          "gp": 77,
+          "gp": 78,
           "w": 32,
-          "l": 36,
+          "l": 37,
           "t": 0,
           "otl": 9,
           "pts": 73,
-          "pct": 0.47403,
-          "stk": "OT1",
-          "gf": 202,
-          "ga": 247,
-          "gd": -45
+          "pct": 0.46795,
+          "stk": "L1",
+          "gf": 203,
+          "ga": 250,
+          "gd": -47
         },
         "rnk": {
           "lg": 30,
@@ -1031,17 +1031,17 @@
           }
         },
         "stats": {
-          "gp": 78,
+          "gp": 79,
           "w": 28,
-          "l": 36,
+          "l": 37,
           "t": 0,
           "otl": 14,
           "pts": 70,
-          "pct": 0.44872,
-          "stk": "L1",
-          "gf": 202,
-          "ga": 256,
-          "gd": -54
+          "pct": 0.44304,
+          "stk": "L2",
+          "gf": 204,
+          "ga": 263,
+          "gd": -59
         },
         "rnk": {
           "lg": 31,
@@ -1066,17 +1066,17 @@
           }
         },
         "stats": {
-          "gp": 77,
+          "gp": 78,
           "w": 22,
-          "l": 47,
+          "l": 48,
           "t": 0,
           "otl": 8,
           "pts": 52,
-          "pct": 0.33766,
-          "stk": "L3",
-          "gf": 202,
-          "ga": 297,
-          "gd": -95
+          "pct": 0.33333,
+          "stk": "L4",
+          "gf": 203,
+          "ga": 301,
+          "gd": -98
         },
         "rnk": {
           "lg": 32,
