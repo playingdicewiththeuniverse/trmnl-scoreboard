@@ -1,40 +1,6 @@
 [
   {
     "team": {
-      "id": "MIA",
-      "city": "Miami",
-      "nick": "Marlins",
-      "full": "Miami Marlins",
-      "div": {
-        "id": "national-league-east",
-        "name": "National League East"
-      },
-      "conf": {
-        "id": "national-league",
-        "name": "National League"
-      }
-    },
-    "stats": {
-      "gp": 13,
-      "w": 8,
-      "l": 5,
-      "gb_div": "-",
-      "gb_wc": "-",
-      "pct": ".615",
-      "stk": "W2",
-      "rf": 67,
-      "ra": 54,
-      "rd": 13
-    },
-    "rnk": {
-      "lg": "4",
-      "cf": "4",
-      "dv": "1",
-      "clinch": ""
-    }
-  },
-  {
-    "team": {
       "id": "ATL",
       "city": "Atlanta",
       "nick": "Braves",
@@ -49,20 +15,54 @@
       }
     },
     "stats": {
-      "gp": 13,
-      "w": 8,
+      "gp": 14,
+      "w": 9,
       "l": 5,
       "gb_div": "-",
-      "gb_wc": "+0.5",
-      "pct": ".615",
-      "stk": "W2",
-      "rf": 66,
-      "ra": 32,
-      "rd": 34
+      "gb_wc": "-",
+      "pct": ".643",
+      "stk": "W3",
+      "rf": 77,
+      "ra": 37,
+      "rd": 40
     },
     "rnk": {
-      "lg": "3",
-      "cf": "3",
+      "lg": "2",
+      "cf": "2",
+      "dv": "1",
+      "clinch": ""
+    }
+  },
+  {
+    "team": {
+      "id": "MIA",
+      "city": "Miami",
+      "nick": "Marlins",
+      "full": "Miami Marlins",
+      "div": {
+        "id": "national-league-east",
+        "name": "National League East"
+      },
+      "conf": {
+        "id": "national-league",
+        "name": "National League"
+      }
+    },
+    "stats": {
+      "gp": 14,
+      "w": 8,
+      "l": 6,
+      "gb_div": "1.0",
+      "gb_wc": "-",
+      "pct": ".571",
+      "stk": "L1",
+      "rf": 67,
+      "ra": 56,
+      "rd": 11
+    },
+    "rnk": {
+      "lg": "7",
+      "cf": "7",
       "dv": "2",
       "clinch": ""
     }
@@ -83,20 +83,20 @@
       }
     },
     "stats": {
-      "gp": 13,
+      "gp": 14,
       "w": 7,
-      "l": 6,
-      "gb_div": "1.0",
-      "gb_wc": "0.5",
-      "pct": ".538",
-      "stk": "L2",
+      "l": 7,
+      "gb_div": "2.0",
+      "gb_wc": "1.0",
+      "pct": ".500",
+      "stk": "L3",
       "rf": 56,
-      "ra": 49,
-      "rd": 7
+      "ra": 53,
+      "rd": 3
     },
     "rnk": {
-      "lg": "9",
-      "cf": "9",
+      "lg": "10",
+      "cf": "10",
       "dv": "3",
       "clinch": ""
     }
@@ -117,16 +117,16 @@
       }
     },
     "stats": {
-      "gp": 12,
+      "gp": 13,
       "w": 6,
-      "l": 6,
-      "gb_div": "1.5",
-      "gb_wc": "1.0",
-      "pct": ".500",
-      "stk": "L2",
-      "rf": 42,
-      "ra": 57,
-      "rd": -15
+      "l": 7,
+      "gb_div": "2.5",
+      "gb_wc": "1.5",
+      "pct": ".462",
+      "stk": "L3",
+      "rf": 46,
+      "ra": 62,
+      "rd": -16
     },
     "rnk": {
       "lg": "12",
@@ -151,16 +151,16 @@
       }
     },
     "stats": {
-      "gp": 12,
-      "w": 4,
+      "gp": 13,
+      "w": 5,
       "l": 8,
       "gb_div": "3.5",
-      "gb_wc": "3.0",
-      "pct": ".333",
-      "stk": "L2",
-      "rf": 71,
-      "ra": 78,
-      "rd": -7
+      "gb_wc": "2.5",
+      "pct": ".385",
+      "stk": "W1",
+      "rf": 78,
+      "ra": 81,
+      "rd": -3
     },
     "rnk": {
       "lg": "15",

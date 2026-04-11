@@ -1,74 +1,6 @@
 [
   {
     "team": {
-      "id": "MIL",
-      "city": "Milwaukee",
-      "nick": "Brewers",
-      "full": "Milwaukee Brewers",
-      "div": {
-        "id": "national-league-central",
-        "name": "National League Central"
-      },
-      "conf": {
-        "id": "national-league",
-        "name": "National League"
-      }
-    },
-    "stats": {
-      "gp": 12,
-      "w": 8,
-      "l": 4,
-      "gb_div": "-",
-      "gb_wc": "-",
-      "pct": ".667",
-      "stk": "L2",
-      "rf": 70,
-      "ra": 46,
-      "rd": 24
-    },
-    "rnk": {
-      "lg": "2",
-      "cf": "2",
-      "dv": "1",
-      "clinch": ""
-    }
-  },
-  {
-    "team": {
-      "id": "CIN",
-      "city": "Cincinnati",
-      "nick": "Reds",
-      "full": "Cincinnati Reds",
-      "div": {
-        "id": "national-league-central",
-        "name": "National League Central"
-      },
-      "conf": {
-        "id": "national-league",
-        "name": "National League"
-      }
-    },
-    "stats": {
-      "gp": 13,
-      "w": 8,
-      "l": 5,
-      "gb_div": "0.5",
-      "gb_wc": "+0.5",
-      "pct": ".615",
-      "stk": "L2",
-      "rf": 39,
-      "ra": 48,
-      "rd": -9
-    },
-    "rnk": {
-      "lg": "5",
-      "cf": "5",
-      "dv": "2",
-      "clinch": ""
-    }
-  },
-  {
-    "team": {
       "id": "PIT",
       "city": "Pittsburgh",
       "nick": "Pirates",
@@ -83,21 +15,21 @@
       }
     },
     "stats": {
-      "gp": 12,
-      "w": 7,
+      "gp": 13,
+      "w": 8,
       "l": 5,
-      "gb_div": "1.0",
+      "gb_div": "-",
       "gb_wc": "-",
-      "pct": ".583",
-      "stk": "L1",
-      "rf": 54,
+      "pct": ".615",
+      "stk": "W1",
+      "rf": 56,
       "ra": 48,
-      "rd": 6
+      "rd": 8
     },
     "rnk": {
-      "lg": "7",
-      "cf": "7",
-      "dv": "3",
+      "lg": "5",
+      "cf": "5",
+      "dv": "1",
       "clinch": ""
     }
   },
@@ -117,20 +49,88 @@
       }
     },
     "stats": {
-      "gp": 12,
-      "w": 7,
+      "gp": 13,
+      "w": 8,
       "l": 5,
-      "gb_div": "1.0",
-      "gb_wc": "-",
-      "pct": ".583",
-      "stk": "W2",
-      "rf": 59,
-      "ra": 62,
-      "rd": -3
+      "gb_div": "-",
+      "gb_wc": "+0.5",
+      "pct": ".615",
+      "stk": "W3",
+      "rf": 62,
+      "ra": 64,
+      "rd": -2
     },
     "rnk": {
-      "lg": "6",
-      "cf": "6",
+      "lg": "4",
+      "cf": "4",
+      "dv": "2",
+      "clinch": ""
+    }
+  },
+  {
+    "team": {
+      "id": "MIL",
+      "city": "Milwaukee",
+      "nick": "Brewers",
+      "full": "Milwaukee Brewers",
+      "div": {
+        "id": "national-league-central",
+        "name": "National League Central"
+      },
+      "conf": {
+        "id": "national-league",
+        "name": "National League"
+      }
+    },
+    "stats": {
+      "gp": 13,
+      "w": 8,
+      "l": 5,
+      "gb_div": "-",
+      "gb_wc": "+0.5",
+      "pct": ".615",
+      "stk": "L3",
+      "rf": 73,
+      "ra": 53,
+      "rd": 20
+    },
+    "rnk": {
+      "lg": "3",
+      "cf": "3",
+      "dv": "3",
+      "clinch": ""
+    }
+  },
+  {
+    "team": {
+      "id": "CIN",
+      "city": "Cincinnati",
+      "nick": "Reds",
+      "full": "Cincinnati Reds",
+      "div": {
+        "id": "national-league-central",
+        "name": "National League Central"
+      },
+      "conf": {
+        "id": "national-league",
+        "name": "National League"
+      }
+    },
+    "stats": {
+      "gp": 14,
+      "w": 8,
+      "l": 6,
+      "gb_div": "0.5",
+      "gb_wc": "-",
+      "pct": ".571",
+      "stk": "L3",
+      "rf": 41,
+      "ra": 58,
+      "rd": -17
+    },
+    "rnk": {
+      "lg": "9",
+      "cf": "9",
       "dv": "4",
       "clinch": ""
     }
@@ -151,16 +151,16 @@
       }
     },
     "stats": {
-      "gp": 12,
+      "gp": 13,
       "w": 6,
-      "l": 6,
+      "l": 7,
       "gb_div": "2.0",
-      "gb_wc": "1.0",
-      "pct": ".500",
-      "stk": "W2",
+      "gb_wc": "1.5",
+      "pct": ".462",
+      "stk": "L1",
       "rf": 56,
-      "ra": 44,
-      "rd": 12
+      "ra": 46,
+      "rd": 10
     },
     "rnk": {
       "lg": "11",
