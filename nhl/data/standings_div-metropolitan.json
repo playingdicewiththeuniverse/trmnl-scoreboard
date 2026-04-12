@@ -15,17 +15,17 @@
       }
     },
     "stats": {
-      "gp": 79,
-      "w": 51,
+      "gp": 80,
+      "w": 52,
       "l": 22,
       "t": 0,
       "otl": 6,
-      "pts": 108,
-      "pct": 0.68354,
-      "stk": "W2",
-      "gf": 288,
-      "ga": 235,
-      "gd": 53
+      "pts": 110,
+      "pct": 0.6875,
+      "stk": "W3",
+      "gf": 292,
+      "ga": 236,
+      "gd": 56
     },
     "rnk": {
       "lg": 2,
@@ -50,17 +50,17 @@
       }
     },
     "stats": {
-      "gp": 79,
+      "gp": 80,
       "w": 41,
-      "l": 22,
+      "l": 23,
       "t": 0,
       "otl": 16,
       "pts": 98,
-      "pct": 0.62025,
-      "stk": "W3",
-      "gf": 285,
-      "ga": 252,
-      "gd": 33
+      "pct": 0.6125,
+      "stk": "L1",
+      "gf": 288,
+      "ga": 258,
+      "gd": 30
     },
     "rnk": {
       "lg": 8,
@@ -85,58 +85,23 @@
       }
     },
     "stats": {
-      "gp": 79,
-      "w": 40,
+      "gp": 80,
+      "w": 41,
       "l": 27,
       "t": 0,
       "otl": 12,
-      "pts": 92,
-      "pct": 0.58228,
-      "stk": "L1",
-      "gf": 236,
-      "ga": 238,
-      "gd": -2
+      "pts": 94,
+      "pct": 0.5875,
+      "stk": "W1",
+      "gf": 243,
+      "ga": 239,
+      "gd": 4
     },
     "rnk": {
       "lg": 11,
       "cf": 8,
       "dv": 3,
       "wc": null
-    }
-  },
-  {
-    "team": {
-      "id": "NYI",
-      "city": "NY Islanders",
-      "nick": "Islanders",
-      "full": "New York Islanders",
-      "div": {
-        "id": "div-metropolitan",
-        "name": "Metropolitan Division"
-      },
-      "conf": {
-        "id": "conf-eastern",
-        "name": "Eastern Conference"
-      }
-    },
-    "stats": {
-      "gp": 79,
-      "w": 43,
-      "l": 31,
-      "t": 0,
-      "otl": 5,
-      "pts": 91,
-      "pct": 0.57595,
-      "stk": "W1",
-      "gf": 231,
-      "ga": 232,
-      "gd": -1
-    },
-    "rnk": {
-      "lg": 13,
-      "cf": 10,
-      "dv": 4,
-      "wc": 4
     }
   },
   {
@@ -155,23 +120,23 @@
       }
     },
     "stats": {
-      "gp": 79,
-      "w": 39,
+      "gp": 80,
+      "w": 40,
       "l": 28,
       "t": 0,
       "otl": 12,
-      "pts": 90,
-      "pct": 0.56962,
-      "stk": "L1",
-      "gf": 245,
-      "ga": 246,
-      "gd": -1
+      "pts": 92,
+      "pct": 0.575,
+      "stk": "W1",
+      "gf": 250,
+      "ga": 248,
+      "gd": 2
     },
     "rnk": {
-      "lg": 16,
-      "cf": 11,
-      "dv": 5,
-      "wc": 5
+      "lg": 12,
+      "cf": 9,
+      "dv": 4,
+      "wc": 3
     }
   },
   {
@@ -190,20 +155,55 @@
       }
     },
     "stats": {
-      "gp": 79,
-      "w": 40,
+      "gp": 80,
+      "w": 41,
       "l": 30,
       "t": 0,
       "otl": 9,
-      "pts": 89,
-      "pct": 0.56329,
-      "stk": "W1",
-      "gf": 252,
-      "ga": 240,
-      "gd": 12
+      "pts": 91,
+      "pct": 0.56875,
+      "stk": "W2",
+      "gf": 258,
+      "ga": 243,
+      "gd": 15
     },
     "rnk": {
-      "lg": 17,
+      "lg": 13,
+      "cf": 10,
+      "dv": 5,
+      "wc": 4
+    }
+  },
+  {
+    "team": {
+      "id": "NYI",
+      "city": "NY Islanders",
+      "nick": "Islanders",
+      "full": "New York Islanders",
+      "div": {
+        "id": "div-metropolitan",
+        "name": "Metropolitan Division"
+      },
+      "conf": {
+        "id": "conf-eastern",
+        "name": "Eastern Conference"
+      }
+    },
+    "stats": {
+      "gp": 80,
+      "w": 43,
+      "l": 32,
+      "t": 0,
+      "otl": 5,
+      "pts": 91,
+      "pct": 0.56875,
+      "stk": "L1",
+      "gf": 231,
+      "ga": 235,
+      "gd": -4
+    },
+    "rnk": {
+      "lg": 15,
       "cf": 12,
       "dv": 6,
       "wc": 6
@@ -225,17 +225,17 @@
       }
     },
     "stats": {
-      "gp": 79,
-      "w": 40,
+      "gp": 80,
+      "w": 41,
       "l": 36,
       "t": 0,
       "otl": 3,
-      "pts": 83,
-      "pct": 0.52532,
-      "stk": "L2",
-      "gf": 221,
-      "ga": 244,
-      "gd": -23
+      "pts": 85,
+      "pct": 0.53125,
+      "stk": "W1",
+      "gf": 226,
+      "ga": 247,
+      "gd": -21
     },
     "rnk": {
       "lg": 22,
@@ -260,17 +260,17 @@
       }
     },
     "stats": {
-      "gp": 79,
+      "gp": 80,
       "w": 33,
-      "l": 37,
+      "l": 38,
       "t": 0,
       "otl": 9,
       "pts": 75,
-      "pct": 0.47468,
-      "stk": "L1",
+      "pct": 0.46875,
+      "stk": "L2",
       "gf": 232,
-      "ga": 243,
-      "gd": -11
+      "ga": 245,
+      "gd": -13
     },
     "rnk": {
       "lg": 29,

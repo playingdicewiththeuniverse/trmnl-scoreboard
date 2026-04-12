@@ -36,41 +36,6 @@
   },
   {
     "team": {
-      "id": "MTL",
-      "city": "Montr\u00e9al",
-      "nick": "Canadiens",
-      "full": "Montr\u00e9al Canadiens",
-      "div": {
-        "id": "div-atlantic",
-        "name": "Atlantic Division"
-      },
-      "conf": {
-        "id": "conf-eastern",
-        "name": "Eastern Conference"
-      }
-    },
-    "stats": {
-      "gp": 79,
-      "w": 47,
-      "l": 22,
-      "t": 0,
-      "otl": 10,
-      "pts": 104,
-      "pct": 0.65823,
-      "stk": "W2",
-      "gf": 275,
-      "ga": 246,
-      "gd": 29
-    },
-    "rnk": {
-      "lg": 5,
-      "cf": 3,
-      "dv": 2,
-      "wc": null
-    }
-  },
-  {
-    "team": {
       "id": "TBL",
       "city": "Tampa Bay",
       "nick": "Lightning",
@@ -85,31 +50,31 @@
       }
     },
     "stats": {
-      "gp": 79,
-      "w": 48,
+      "gp": 80,
+      "w": 49,
       "l": 25,
       "t": 0,
       "otl": 6,
-      "pts": 102,
-      "pct": 0.64557,
-      "stk": "L3",
-      "gf": 282,
-      "ga": 223,
-      "gd": 59
+      "pts": 104,
+      "pct": 0.65,
+      "stk": "W1",
+      "gf": 284,
+      "ga": 224,
+      "gd": 60
     },
     "rnk": {
-      "lg": 6,
-      "cf": 4,
-      "dv": 3,
+      "lg": 5,
+      "cf": 3,
+      "dv": 2,
       "wc": null
     }
   },
   {
     "team": {
-      "id": "BOS",
-      "city": "Boston",
-      "nick": "Bruins",
-      "full": "Boston Bruins",
+      "id": "MTL",
+      "city": "Montr\u00e9al",
+      "nick": "Canadiens",
+      "full": "Montr\u00e9al Canadiens",
       "div": {
         "id": "div-atlantic",
         "name": "Atlantic Division"
@@ -120,23 +85,23 @@
       }
     },
     "stats": {
-      "gp": 79,
-      "w": 43,
-      "l": 26,
+      "gp": 80,
+      "w": 47,
+      "l": 23,
       "t": 0,
       "otl": 10,
-      "pts": 96,
-      "pct": 0.60759,
-      "stk": "OT2",
-      "gf": 264,
-      "ga": 246,
-      "gd": 18
+      "pts": 104,
+      "pct": 0.65,
+      "stk": "L1",
+      "gf": 277,
+      "ga": 251,
+      "gd": 26
     },
     "rnk": {
-      "lg": 9,
-      "cf": 6,
-      "dv": 4,
-      "wc": 1
+      "lg": 6,
+      "cf": 4,
+      "dv": 3,
+      "wc": null
     }
   },
   {
@@ -155,17 +120,52 @@
       }
     },
     "stats": {
-      "gp": 79,
-      "w": 42,
+      "gp": 80,
+      "w": 43,
       "l": 27,
       "t": 0,
       "otl": 10,
-      "pts": 94,
-      "pct": 0.59494,
-      "stk": "W3",
-      "gf": 269,
+      "pts": 96,
+      "pct": 0.6,
+      "stk": "W4",
+      "gf": 272,
       "ga": 241,
-      "gd": 28
+      "gd": 31
+    },
+    "rnk": {
+      "lg": 9,
+      "cf": 6,
+      "dv": 4,
+      "wc": 1
+    }
+  },
+  {
+    "team": {
+      "id": "BOS",
+      "city": "Boston",
+      "nick": "Bruins",
+      "full": "Boston Bruins",
+      "div": {
+        "id": "div-atlantic",
+        "name": "Atlantic Division"
+      },
+      "conf": {
+        "id": "conf-eastern",
+        "name": "Eastern Conference"
+      }
+    },
+    "stats": {
+      "gp": 80,
+      "w": 43,
+      "l": 27,
+      "t": 0,
+      "otl": 10,
+      "pts": 96,
+      "pct": 0.6,
+      "stk": "L1",
+      "gf": 265,
+      "ga": 248,
+      "gd": 17
     },
     "rnk": {
       "lg": 10,
@@ -190,23 +190,23 @@
       }
     },
     "stats": {
-      "gp": 79,
+      "gp": 80,
       "w": 41,
-      "l": 29,
+      "l": 30,
       "t": 0,
       "otl": 9,
       "pts": 91,
-      "pct": 0.57595,
-      "stk": "W1",
-      "gf": 234,
-      "ga": 241,
-      "gd": -7
+      "pct": 0.56875,
+      "stk": "L1",
+      "gf": 237,
+      "ga": 246,
+      "gd": -9
     },
     "rnk": {
-      "lg": 12,
-      "cf": 9,
+      "lg": 14,
+      "cf": 11,
       "dv": 6,
-      "wc": 3
+      "wc": 5
     }
   },
   {
@@ -225,17 +225,17 @@
       }
     },
     "stats": {
-      "gp": 79,
-      "w": 37,
+      "gp": 80,
+      "w": 38,
       "l": 38,
       "t": 0,
       "otl": 4,
-      "pts": 78,
-      "pct": 0.49367,
-      "stk": "L1",
-      "gf": 234,
-      "ga": 271,
-      "gd": -37
+      "pts": 80,
+      "pct": 0.5,
+      "stk": "W1",
+      "gf": 240,
+      "ga": 273,
+      "gd": -33
     },
     "rnk": {
       "lg": 26,
@@ -260,20 +260,20 @@
       }
     },
     "stats": {
-      "gp": 79,
+      "gp": 80,
       "w": 32,
-      "l": 33,
+      "l": 34,
       "t": 0,
       "otl": 14,
       "pts": 78,
-      "pct": 0.49367,
-      "stk": "L2",
-      "gf": 245,
-      "ga": 284,
-      "gd": -39
+      "pct": 0.4875,
+      "stk": "L3",
+      "gf": 247,
+      "ga": 290,
+      "gd": -43
     },
     "rnk": {
-      "lg": 27,
+      "lg": 28,
       "cf": 15,
       "dv": 8,
       "wc": 9
