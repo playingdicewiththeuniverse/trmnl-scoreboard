@@ -36,6 +36,41 @@
   },
   {
     "team": {
+      "id": "MTL",
+      "city": "Montr\u00e9al",
+      "nick": "Canadiens",
+      "full": "Montr\u00e9al Canadiens",
+      "div": {
+        "id": "div-atlantic",
+        "name": "Atlantic Division"
+      },
+      "conf": {
+        "id": "conf-eastern",
+        "name": "Eastern Conference"
+      }
+    },
+    "stats": {
+      "gp": 81,
+      "w": 48,
+      "l": 23,
+      "t": 0,
+      "otl": 10,
+      "pts": 106,
+      "pct": 0.65432,
+      "stk": "W1",
+      "gf": 281,
+      "ga": 252,
+      "gd": 29
+    },
+    "rnk": {
+      "lg": 5,
+      "cf": 3,
+      "dv": 2,
+      "wc": null
+    }
+  },
+  {
+    "team": {
       "id": "TBL",
       "city": "Tampa Bay",
       "nick": "Lightning",
@@ -63,80 +98,10 @@
       "gd": 60
     },
     "rnk": {
-      "lg": 5,
-      "cf": 3,
-      "dv": 2,
-      "wc": null
-    }
-  },
-  {
-    "team": {
-      "id": "MTL",
-      "city": "Montr\u00e9al",
-      "nick": "Canadiens",
-      "full": "Montr\u00e9al Canadiens",
-      "div": {
-        "id": "div-atlantic",
-        "name": "Atlantic Division"
-      },
-      "conf": {
-        "id": "conf-eastern",
-        "name": "Eastern Conference"
-      }
-    },
-    "stats": {
-      "gp": 80,
-      "w": 47,
-      "l": 23,
-      "t": 0,
-      "otl": 10,
-      "pts": 104,
-      "pct": 0.65,
-      "stk": "L1",
-      "gf": 277,
-      "ga": 251,
-      "gd": 26
-    },
-    "rnk": {
       "lg": 6,
       "cf": 4,
       "dv": 3,
       "wc": null
-    }
-  },
-  {
-    "team": {
-      "id": "OTT",
-      "city": "Ottawa",
-      "nick": "Senators",
-      "full": "Ottawa Senators",
-      "div": {
-        "id": "div-atlantic",
-        "name": "Atlantic Division"
-      },
-      "conf": {
-        "id": "conf-eastern",
-        "name": "Eastern Conference"
-      }
-    },
-    "stats": {
-      "gp": 80,
-      "w": 43,
-      "l": 27,
-      "t": 0,
-      "otl": 10,
-      "pts": 96,
-      "pct": 0.6,
-      "stk": "W4",
-      "gf": 272,
-      "ga": 241,
-      "gd": 31
-    },
-    "rnk": {
-      "lg": 9,
-      "cf": 6,
-      "dv": 4,
-      "wc": 1
     }
   },
   {
@@ -155,17 +120,52 @@
       }
     },
     "stats": {
-      "gp": 80,
-      "w": 43,
+      "gp": 81,
+      "w": 44,
       "l": 27,
       "t": 0,
       "otl": 10,
-      "pts": 96,
-      "pct": 0.6,
-      "stk": "L1",
-      "gf": 265,
-      "ga": 248,
-      "gd": 17
+      "pts": 98,
+      "pct": 0.60494,
+      "stk": "W1",
+      "gf": 268,
+      "ga": 250,
+      "gd": 18
+    },
+    "rnk": {
+      "lg": 9,
+      "cf": 6,
+      "dv": 4,
+      "wc": 1
+    }
+  },
+  {
+    "team": {
+      "id": "OTT",
+      "city": "Ottawa",
+      "nick": "Senators",
+      "full": "Ottawa Senators",
+      "div": {
+        "id": "div-atlantic",
+        "name": "Atlantic Division"
+      },
+      "conf": {
+        "id": "conf-eastern",
+        "name": "Eastern Conference"
+      }
+    },
+    "stats": {
+      "gp": 81,
+      "w": 43,
+      "l": 27,
+      "t": 0,
+      "otl": 11,
+      "pts": 97,
+      "pct": 0.59877,
+      "stk": "OT1",
+      "gf": 275,
+      "ga": 245,
+      "gd": 30
     },
     "rnk": {
       "lg": 10,
